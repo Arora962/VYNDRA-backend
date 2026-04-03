@@ -1,5 +1,5 @@
 # Food Scanning App
-Server Code
+Server Code for food scanning application that detects license plates from uploaded images and stores the extracted data in various formats.
 
 ---
 # Features
