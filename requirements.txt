@@ -1,12 +1,5 @@
 Flask
 pandas
-openpyxl
 Pillow
 ultralytics
 Werkzeug
-supabase-py @ git+https://github.com/supabase-community/supabase-py.git
-python-dotenv
-bcrypt
-firebase-admin
-google-auth
-requests
