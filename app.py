@@ -1,5 +1,6 @@
 # app.py — VYNDRA backend (classification model, no Supabase/Firebase required)
 
+import difflib
 import os
 import re
 import json
@@ -94,7 +95,17 @@ def upload():
         normalized_name = normalize_text(class_name)
         confidence = float(conf)
 
+        # 1. try exact substring match first
         match = food_data[food_data["normalized_food_name"].str.contains(normalized_name, na=False)]
+
+        # 2. fall back to closest fuzzy match if nothing found
+        if match.empty:
+            close = difflib.get_close_matches(
+                normalized_name, food_data["normalized_food_name"].tolist(), n=1, cutoff=0.6
+            )
+            if close:
+                match = food_data[food_data["normalized_food_name"] == close[0]]
+
         if match.empty:
             continue
 
