@@ -1,3 +1,38 @@
-.env
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
 venv/
-firebase-admin-key.json
+.venv/
+env/
+
+# macOS
+.DS_Store
+.AppleDouble
+
+# Secrets and local environment settings
+.env
+.env.*
+
+# Uploaded images and generated files
+uploads/
+*.log
+
+# Large model weights (keep locally, do not commit)
+models/*.pt
+
+# Khana: keep the dataset locally, not in Git
+data/raw/khana/dataset.tar.gz
+data/raw/khana/khana/
+
+# Food-101: keep downloaded data and cache locally
+data/raw/food101/
+
+# Generated analytics outputs
+results/figures/
+results/tables/
+
+# Temporary editor files
+tempCodeRunnerFile.py
