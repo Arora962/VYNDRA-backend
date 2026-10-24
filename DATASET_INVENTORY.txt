@@ -1,0 +1,44 @@
+VYNDRA — FOOD DATASET INVENTORY
+Generated: Sun Oct 25 02:51:26 IST 2026
+Project path: /Volumes/SANDISK/VYNDRA-backend-1
+
+========================================
+1. KHANA DATASET
+========================================
+Extracted: YES
+Files: 263718
+ 13G	/Volumes/SANDISK/VYNDRA-backend-1/data/raw/khana/khana
+labels.txt: PRESENT
+taxonomy.csv: PRESENT
+
+========================================
+2. FOOD-101 DATASET
+========================================
+Hugging Face cache: PRESENT
+9.5G	/Volumes/SANDISK/VYNDRA-backend-1/data/raw/food101/hf_cache
+Note: A 5,000-image training sample was previously loaded successfully.
+
+========================================
+3. KAGGLE INDIAN FOOD IMAGES
+========================================
+Extracted: YES
+Food-class folders: 80
+Image files: 8000
+555M	/Volumes/SANDISK/VYNDRA-backend-1/data/raw/indian_food_images/Indian Food Images
+Example classes:
+/Volumes/SANDISK/VYNDRA-backend-1/data/raw/indian_food_images/Indian Food Images/adhirasam
+/Volumes/SANDISK/VYNDRA-backend-1/data/raw/indian_food_images/Indian Food Images/aloo_gobi
+/Volumes/SANDISK/VYNDRA-backend-1/data/raw/indian_food_images/Indian Food Images/aloo_matar
+/Volumes/SANDISK/VYNDRA-backend-1/data/raw/indian_food_images/Indian Food Images/aloo_methi
+/Volumes/SANDISK/VYNDRA-backend-1/data/raw/indian_food_images/Indian Food Images/aloo_shimla_mirch
+/Volumes/SANDISK/VYNDRA-backend-1/data/raw/indian_food_images/Indian Food Images/aloo_tikki
+/Volumes/SANDISK/VYNDRA-backend-1/data/raw/indian_food_images/Indian Food Images/anarsa
+/Volumes/SANDISK/VYNDRA-backend-1/data/raw/indian_food_images/Indian Food Images/ariselu
+/Volumes/SANDISK/VYNDRA-backend-1/data/raw/indian_food_images/Indian Food Images/bandar_laddu
+/Volumes/SANDISK/VYNDRA-backend-1/data/raw/indian_food_images/Indian Food Images/basundi
+
+========================================
+4. EXISTING FOOD CLASSIFIER
+========================================
+models/best.pt: PRESENT
+3.6M	/Volumes/SANDISK/VYNDRA-backend-1/models/best.pt

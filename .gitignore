@@ -20,6 +20,9 @@ env/
 uploads/
 *.log
 
+# YOLO image dataset (keep locally, not in Git)
+YOLO images/
+
 # Large model weights (keep locally, do not commit)
 models/*.pt
 
