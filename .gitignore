@@ -23,14 +23,18 @@ uploads/
 # Large model weights (keep locally, do not commit)
 models/*.pt
 
-# Khana: keep the dataset locally, not in Git
+# Khana dataset (keep locally, not in Git)
 data/raw/khana/dataset.tar.gz
 data/raw/khana/khana/
 
-# Food-101: keep downloaded data and cache locally
+# Food-101 downloads and Hugging Face cache
 data/raw/food101/
 
-# Generated analytics outputs
+# Kaggle Indian Food Images dataset (keep locally, not in Git)
+data/raw/indian_food_images/
+
+# Generated datasets and analytics outputs
+data/processed/food101_sample/
 results/figures/
 results/tables/
 
