@@ -1,0 +1,25 @@
+{
+  "rows": 150,
+  "accuracy": 0.7066666666666667,
+  "macro_f1": 0.6971732832197949,
+  "per_class": {
+    "food_intent": {
+      "precision": 0.7222222222222222,
+      "recall": 0.52,
+      "f1-score": 0.6046511627906976,
+      "support": 50.0
+    },
+    "food_discussion": {
+      "precision": 0.6938775510204082,
+      "recall": 0.68,
+      "f1-score": 0.6868686868686869,
+      "support": 50.0
+    },
+    "not_food": {
+      "precision": 0.7076923076923077,
+      "recall": 0.92,
+      "f1-score": 0.8,
+      "support": 50.0
+    }
+  }
+}

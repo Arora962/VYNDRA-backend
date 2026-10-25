@@ -1,6 +1,8 @@
 """Single chat blueprint for analysis, messages, nudges, and meal attachments."""
 from __future__ import annotations
 import logging
+import json
+from pathlib import Path
 from uuid import uuid4
 from flask import Blueprint, jsonify, request
 from .database import create_user, get_user, get_conversation, save_message
@@ -8,7 +10,17 @@ from .chat_intelligence import analyze_sentiment, extract_food_mentions, run_top
 
 logger = logging.getLogger(__name__)
 chat_bp = Blueprint("chat", __name__, url_prefix="/api/chat")
-NUDGE_CONFIDENCE_THRESHOLD = 0.45
+def _nudge_threshold() -> float:
+    """Load the validation-calibrated threshold when present; otherwise use a conservative fallback."""
+    path = Path(__file__).resolve().parents[1] / "results" / "tables" / "part4" / "nudge_threshold.json"
+    try:
+        value = float(json.loads(path.read_text(encoding="utf-8"))["threshold"])
+        return value if 0.0 <= value <= 1.0 else 0.45
+    except (OSError, ValueError, KeyError, TypeError, json.JSONDecodeError):
+        return 0.45
+
+
+NUDGE_CONFIDENCE_THRESHOLD = _nudge_threshold()
 
 
 def _body():

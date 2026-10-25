@@ -44,12 +44,16 @@ def portion_grams(food_name: str, grams=None, servings=None) -> dict:
     """Resolve user-specified grams or a serving multiplier into portion grams."""
     info = serving_info(food_name)
     if grams is not None:
+        if isinstance(grams, bool):
+            raise ValueError("grams must be a number, not a boolean")
         value = float(grams)
         if not 1 <= value <= 5000:
             raise ValueError("grams must be between 1 and 5000")
         info.update({"quantity_grams": round(value, 2), "portion_source": "user_grams"})
         return info
     if servings is not None:
+        if isinstance(servings, bool):
+            raise ValueError("servings must be a number, not a boolean")
         value = float(servings)
         if not 0 < value <= 20:
             raise ValueError("servings must be greater than 0 and at most 20")

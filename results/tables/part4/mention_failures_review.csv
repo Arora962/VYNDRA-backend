@@ -1,0 +1,37 @@
+text,expected_food,detected_food,similarity,correct
+"ordering piza now, drop your toppings fast",pizza,yogurt,83.33333333333334,False
+craving chole bhature so bad rn,chole,bhature,100.0,False
+should I get sushi or just make noodles at home?,sushi,noodles,100.0,False
+curd rice for lunch because this heat is unreal,curd rice,curd,100.0,False
+"just ordered dal makhani and naan, no regrets",dal makhani,dal,100.0,False
+made pastaa with way too much cheese lol,pasta,cheese,100.0,False
+ordering chappati and dal for my flatmates,chapati,chappati,100.0,False
+"I packed idly and chutney, don't let me forget it",idli,chutney,100.0,False
+I'm picking up gulab jamun for dessert,gulab jamun,dessert,100.0,False
+I am making dal khichdi because I'm exhausted,khichdi,dal,100.0,False
+"My friend says curd rice is only a summer dish, thoughts?",curd rice,curd,100.0,False
+Why does restaurant dal makhani taste so smoky?,dal makhani,dal,100.0,False
+My family argues about pineapple on pizza every week,pizza,apple,100.0,False
+Is panner tikka usually marinated overnight?,paneer,paneer tikka,91.66666666666666,False
+Is tofu actually a fair substitute for panner in curry?,paneer,curry,100.0,False
+I saw a recipe for chocolate dosa and I'm confused,dosa,chocolate,100.0,False
+What is the least messy way to pack chole bhature?,chole,bhature,100.0,False
+I think lemon rice needs more curry leaves,rice,curry,100.0,False
+How long can cooked paneer curry stay in the fridge?,paneer,curry,100.0,False
+"That exam was a piece of cake, I finished early",,cake,100.0,False
+"I'm starving for attention, not actual food lol",,onion,80.0,False
+I have a meeting at half past three,,pasta,80.0,False
+My phone battery is at two percent again,,butter,83.33333333333334,False
+I'm hungry for a promotion at work,,onion,80.0,False
+She roasted me in front of the whole class,,chole,80.0,False
+I need a break from staring at this screen,,bread,80.0,False
+I'm binge-watching that series tonight,,fries,80.0,False
+I have butterflies before the presentation,,butter,100.0,False
+That was a sweet gesture from the team,,tea,100.0,False
+Our group chat is absolutely chaotic today,,chaat,80.0,False
+The deadline moved to Friday morning,,onion,80.0,False
+My brain is fried after three back-to-back labs,,fries,80.0,False
+That was a bitter defeat for our team,,tea,100.0,False
+We need to break the ice at the workshop,,bread,80.0,False
+"I'm thirsty for knowledge, send reading links",,bread,80.0,False
+That joke was cheesy but I laughed,,cheese,83.33333333333334,False

@@ -1,0 +1,6 @@
+{
+  "reviewed_mapped_classes_evaluated": 115,
+  "exact_normalized_agreement": 1.0,
+  "fuzzy_top1_agreement": 0.5826086956521739,
+  "warning": "Agreement with the reviewed mapping is not independent ground truth and does not establish semantic correctness."
+}

@@ -143,3 +143,38 @@ def communities():
     except Exception:
         logger.exception("Community detection failed")
         return jsonify({"error": "Community detection is unavailable."}), 500
+
+
+@social_bp.get("/user/<user_id>")
+def social_user_detail(user_id):
+    """Return centrality, community and engagement details for one synthetic user."""
+    from pathlib import Path
+    root = Path(__file__).resolve().parents[1]
+    central_path = root / "results" / "tables" / "part5" / "social_centrality.csv"
+    metrics_path = root / "results" / "tables" / "part5" / "social_metrics.json"
+    try:
+        if central_path.exists():
+            frame = pd.read_csv(central_path).fillna(0)
+            row = frame[frame.user_id.astype(str).eq(str(user_id))]
+            if row.empty:
+                return jsonify({"error": "Unknown social user."}), 404
+            result = row.iloc[0].to_dict()
+            for key, value in list(result.items()):
+                if hasattr(value, "item"):
+                    result[key] = value.item()
+            if metrics_path.exists():
+                import json
+                metrics = json.loads(metrics_path.read_text(encoding="utf-8"))
+                result["network_modularity"] = metrics.get("modularity")
+                result["community_count"] = len(metrics.get("communities", []))
+            return jsonify({"user": result})
+        edges, profiles, graph = _graph_and_profiles()
+        if str(user_id) not in {str(x) for x in graph.nodes}:
+            return jsonify({"error": "Unknown social user."}), 404
+        pagerank = nx.pagerank(graph) if graph.number_of_edges() else {node: 0.0 for node in graph}
+        return jsonify({"user": {"user_id": str(user_id), "pagerank": float(pagerank.get(user_id, 0.0)),
+                                 "degree": int(graph.degree(user_id)),
+                                 "note": "Run scripts/run_social_analytics.py for full temporal engagement and centrality metrics."}})
+    except Exception:
+        logger.exception("Social user detail failed")
+        return jsonify({"error": "Social user details are unavailable."}), 500

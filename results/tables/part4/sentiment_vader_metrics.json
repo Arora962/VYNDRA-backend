@@ -1,0 +1,7 @@
+{
+  "rows": 500,
+  "macro_precision": 0.5164256219055064,
+  "macro_recall": 0.5298480509764466,
+  "macro_f1": 0.4939405481405939,
+  "note": "Sentiment labels in synthetic data are heuristic and must be reviewed; not independent ground truth."
+}

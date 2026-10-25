@@ -1,0 +1,501 @@
+text,label,sentiment_label,split,vader_compound,vader_label
+anyone  tried vegan idli? tmrw,food_discussion,neutral,test,0.0,neutral
+anyone  tried vegan rajma? lowkey,food_discussion,neutral,test,0.0,neutral
+anyone  tried vegan sushi? apparently pls,food_discussion,neutral,test,0.0772,positive
+anyone tried vegan dal? after class,food_discussion,neutral,test,0.0,neutral
+anyone tried vegan dosa? lowkey fr,food_discussion,neutral,test,0.0,neutral
+anyone tried vegan khichdi?,food_discussion,neutral,test,0.0,neutral
+anyone tried vegan paneer? apparently,food_discussion,neutral,test,0.0,neutral
+anyone tried vegan pasta? as usual,food_discussion,neutral,test,0.0,neutral
+anyone tried vegan pasta? last night,food_discussion,neutral,test,0.0,neutral
+anyone tried vegan pav bhaji? yaar,food_discussion,neutral,test,0.0,neutral
+anyone tried vegan sandwich? just saying,food_discussion,neutral,test,0.0,neutral
+anyone tried vegan upma? rn lol,food_discussion,neutral,test,0.4215,positive
+anyone tried vegan upma? tmrw,food_discussion,neutral,test,0.0,neutral
+best place for biryani near college?,food_discussion,neutral,test,0.6369,positive
+best place for curd rice near college?,food_discussion,neutral,test,0.6369,positive
+best place for dal near college? just saying,food_discussion,neutral,test,0.6369,positive
+best place for dal near college? rn pls,food_discussion,neutral,test,0.6705,positive
+best place for dosa near college?,food_discussion,neutral,test,0.6369,positive
+best place for idli near college? at home bro,food_discussion,neutral,test,0.6369,positive
+best place for idli near college? please 😭,food_discussion,negative,test,0.5267,positive
+best place for idli near college? this week,food_discussion,neutral,test,0.6369,positive
+best place for khichdi near college? as usual bro,food_discussion,neutral,test,0.6369,positive
+best place for noodles near college? if possible bro,food_discussion,neutral,test,0.6369,positive
+best place for paneer near college?,food_discussion,neutral,test,0.6369,positive
+best place for paneer near college? this evening,food_discussion,neutral,test,0.6369,positive
+best place for paratha near college?,food_discussion,neutral,test,0.6369,positive
+best place for paratha near college? today,food_discussion,neutral,test,0.6369,positive
+best place for pasta near college? I guess,food_discussion,neutral,test,0.6369,positive
+best place for pasta near college? honestly,food_discussion,neutral,test,0.802,positive
+best place for pasta near college? tmrw,food_discussion,neutral,test,0.6369,positive
+best place for pav bhaji near college? for real,food_discussion,neutral,test,0.6369,positive
+best place for pav bhaji near college? lowkey,food_discussion,neutral,test,0.6369,positive
+best place for pizza near college? honestly,food_discussion,neutral,test,0.802,positive
+best place for poha near college? with friends,food_discussion,neutral,test,0.8074,positive
+best place for rajma near college?,food_discussion,neutral,test,0.6369,positive
+best place for salad near college?,food_discussion,neutral,test,0.6369,positive
+best place for salad near college? yaar,food_discussion,neutral,test,0.6369,positive
+best place for samosa near college? I guess,food_discussion,neutral,test,0.6369,positive
+best place for samosa near college? just saying,food_discussion,neutral,test,0.6369,positive
+best place for sandwich near college? I think bro,food_discussion,neutral,test,0.6369,positive
+best place for sushi near college?,food_discussion,neutral,test,0.6369,positive
+biryani  is overrated tbh no joke,food_discussion,negative,test,-0.2235,negative
+curd  rice is overrated tbh,food_discussion,negative,test,0.0,neutral
+is  homemade noodles better? not gonna lie,food_discussion,neutral,test,0.4404,positive
+is homemade biryani better?,food_discussion,neutral,test,0.4404,positive
+is homemade biryani better? bro,food_discussion,neutral,test,0.4404,positive
+is homemade dal better? no joke 😭,food_discussion,negative,test,-0.2705,negative
+is homemade dosa better? before class,food_discussion,neutral,test,0.4404,positive
+is homemade khichdi better? lowkey,food_discussion,neutral,test,0.4404,positive
+is homemade pav bhaji better? if possible,food_discussion,neutral,test,0.4404,positive
+is homemade pizza better? before class fr,food_discussion,neutral,test,0.4404,positive
+is homemade pizza better? in my opinion yaar,food_discussion,neutral,test,0.4404,positive
+is homemade poha better? bro,food_discussion,neutral,test,0.4404,positive
+is homemade poha better? this week,food_discussion,neutral,test,0.4404,positive
+is homemade rajma better? as usual,food_discussion,neutral,test,0.4404,positive
+is homemade samosa better? seriously,food_discussion,neutral,test,0.296,positive
+is homemade samosa better? tbh,food_discussion,neutral,test,0.4404,positive
+is homemade sandwich better? rn pls,food_discussion,neutral,test,0.4939,positive
+is homemade sandwich better? yaar,food_discussion,neutral,test,0.4404,positive
+is homemade upma better?,food_discussion,neutral,test,0.4404,positive
+khichdi is overrated tbh,food_discussion,negative,test,0.0,neutral
+my mom makes amazing biryani omg,food_discussion,positive,test,0.5859,positive
+my mom makes amazing chole rn,food_discussion,positive,test,0.5859,positive
+my mom makes amazing dosa btw omg,food_discussion,positive,test,0.5859,positive
+my mom makes amazing idli please yaar,food_discussion,positive,test,0.7269,positive
+my mom makes amazing khichdi honestly,food_discussion,positive,test,0.7783,positive
+my mom makes amazing khichdi pls,food_discussion,positive,test,0.6249,positive
+my mom makes amazing khichdi tbh,food_discussion,positive,test,0.5859,positive
+my mom makes amazing noodles,food_discussion,positive,test,0.5859,positive
+my mom makes amazing pasta honestly,food_discussion,positive,test,0.7783,positive
+my mom makes amazing pav bhaji haha yaar,food_discussion,positive,test,0.7783,positive
+my mom makes amazing pav bhaji later omg,food_discussion,positive,test,0.5859,positive
+my mom makes amazing pav bhaji rn pls,food_discussion,positive,test,0.6249,positive
+my mom makes amazing rajma for real,food_discussion,positive,test,0.5859,positive
+my mom makes amazing rajma lol ok,food_discussion,positive,test,0.8316,positive
+my mom makes amazing salad honestly,food_discussion,positive,test,0.7783,positive
+my mom makes amazing samosa after class,food_discussion,positive,test,0.5859,positive
+my mom makes amazing sandwich as usual omg,food_discussion,positive,test,0.5859,positive
+my mom makes amazing sushi seriously,food_discussion,positive,test,0.4767,positive
+my mom makes amazing upma honestly yaar,food_discussion,positive,test,0.7783,positive
+noodles is overrated tbh rn,food_discussion,negative,test,0.0,neutral
+paneer is overrated tbh at least,food_discussion,negative,test,0.0,neutral
+pasta is overrated tbh,food_discussion,negative,test,0.0,neutral
+pasta is overrated tbh just saying,food_discussion,negative,test,0.0,neutral
+pav  bhaji is overrated tbh,food_discussion,negative,test,0.0,neutral
+pav  bhaji is overrated tbh omg,food_discussion,negative,test,0.0,neutral
+pav  bhaji is overrated tbh rn pls lol,food_discussion,negative,test,0.4767,positive
+pav bhaji is overrated tbh I guess,food_discussion,negative,test,0.0,neutral
+rajma is overrated tbh as usual yaar,food_discussion,negative,test,0.0,neutral
+rating  salad out of ten as usual,food_discussion,neutral,test,0.0,neutral
+rating  salad out of ten in my opinion,food_discussion,neutral,test,0.0,neutral
+rating dal out of ten what now,food_discussion,neutral,test,0.0,neutral
+rating dosa out of ten yaar,food_discussion,neutral,test,0.0,neutral
+rating idli out of ten lowkey,food_discussion,neutral,test,0.0,neutral
+rating paratha out of ten seriously,food_discussion,neutral,test,-0.1779,negative
+rating pasta out of ten just saying pls,food_discussion,neutral,test,0.0772,positive
+rating pav bhaji out of ten just saying,food_discussion,neutral,test,0.0,neutral
+rating pizza out of ten tbh,food_discussion,neutral,test,0.0,neutral
+rating rajma out of ten rn,food_discussion,neutral,test,0.0,neutral
+rating rajma out of ten tomorrow,food_discussion,neutral,test,0.0,neutral
+rating salad out of ten rn pls,food_discussion,neutral,test,0.0772,positive
+rating samosa out of ten after class,food_discussion,neutral,test,0.0,neutral
+rating sandwich out of ten after lunch,food_discussion,neutral,test,0.0,neutral
+rating sushi out of ten for real,food_discussion,neutral,test,0.0,neutral
+rating upma out of ten haha,food_discussion,neutral,test,0.4588,positive
+salad is overrated tbh,food_discussion,negative,test,0.0,neutral
+salad is overrated tbh btw bro,food_discussion,negative,test,0.0,neutral
+salad is overrated tbh fr,food_discussion,negative,test,0.0,neutral
+samosa  is overrated tbh,food_discussion,negative,test,0.0,neutral
+samosa  is overrated tbh anyway,food_discussion,negative,test,0.0,neutral
+sandwich is overrated tbh later,food_discussion,negative,test,0.0,neutral
+tell  me a recipe for paratha maybe,food_discussion,neutral,test,0.0,neutral
+tell  me a recipe for samosa,food_discussion,neutral,test,0.0,neutral
+tell me a recipe for chole somehow,food_discussion,neutral,test,0.0,neutral
+tell me a recipe for idli,food_discussion,neutral,test,0.0,neutral
+tell me a recipe for noodles at least,food_discussion,neutral,test,0.0,neutral
+tell me a recipe for noodles just saying,food_discussion,neutral,test,0.0,neutral
+tell me a recipe for noodles what now,food_discussion,neutral,test,0.0,neutral
+tell me a recipe for paratha,food_discussion,neutral,test,0.0,neutral
+tell me a recipe for pasta,food_discussion,neutral,test,0.0,neutral
+tell me a recipe for pav bhaji I think,food_discussion,neutral,test,0.0,neutral
+tell me a recipe for pizza,food_discussion,neutral,test,0.0,neutral
+tell me a recipe for pizza I guess omg,food_discussion,neutral,test,0.0,neutral
+tell me a recipe for pizza for real tbh,food_discussion,neutral,test,0.0,neutral
+tell me a recipe for salad after class,food_discussion,neutral,test,0.0,neutral
+tell me a recipe for salad in my opinion tbh,food_discussion,neutral,test,0.0,neutral
+tell me a recipe for salad seriously,food_discussion,neutral,test,-0.1779,negative
+tell me a recipe for samosa today yaar,food_discussion,neutral,test,0.0,neutral
+tell me a recipe for sushi though,food_discussion,neutral,test,0.0,neutral
+tell me a recipe for upma if possible,food_discussion,neutral,test,0.0,neutral
+we  discussed noodles in class,food_discussion,neutral,test,0.0,neutral
+we discussed biriyani in class seriously,food_discussion,neutral,test,-0.1779,negative
+we discussed biryani in class no joke,food_discussion,neutral,test,-0.2235,negative
+we discussed biryani in class today yaar,food_discussion,neutral,test,0.0,neutral
+we discussed chole in class tmrw,food_discussion,neutral,test,0.0,neutral
+we discussed curd rice in class,food_discussion,neutral,test,0.0,neutral
+we discussed curd rice in class apparently,food_discussion,neutral,test,0.0,neutral
+we discussed curd rice in class no joke,food_discussion,neutral,test,-0.2235,negative
+we discussed dosa in class tomorrow,food_discussion,neutral,test,0.0,neutral
+we discussed khichdi in class,food_discussion,neutral,test,0.0,neutral
+we discussed khichdi in class highkey yaar,food_discussion,neutral,test,0.0,neutral
+we discussed pasta in class,food_discussion,neutral,test,0.0,neutral
+we discussed poha in class 😭,food_discussion,negative,test,-0.4767,negative
+we discussed rajma in class what now fr,food_discussion,neutral,test,0.0,neutral
+we discussed salad in class,food_discussion,neutral,test,0.0,neutral
+we discussed sandwich in class,food_discussion,neutral,test,0.0,neutral
+we discussed upma in class anyway,food_discussion,neutral,test,0.0,neutral
+what  do you think about pizza? not gonna lie pls,food_discussion,neutral,test,-0.0572,negative
+what  do you think about samosa?,food_discussion,neutral,test,0.0,neutral
+what do you think about curd rice? as usual lol,food_discussion,neutral,test,0.4215,positive
+what do you think about curd rice? lol,food_discussion,neutral,test,0.4215,positive
+what do you think about curd rice? please,food_discussion,neutral,test,0.3182,positive
+what do you think about curd rice? tbh,food_discussion,neutral,test,0.0,neutral
+what do you think about dosa? yaar,food_discussion,neutral,test,0.0,neutral
+what do you think about noodles? before class,food_discussion,neutral,test,0.0,neutral
+what do you think about paratha? at home,food_discussion,neutral,test,0.0,neutral
+what do you think about pizza? after lunch,food_discussion,neutral,test,0.0,neutral
+what do you think about poha?,food_discussion,neutral,test,0.0,neutral
+what do you think about rajma? pls,food_discussion,neutral,test,0.0772,positive
+what do you think about salad?,food_discussion,neutral,test,0.0,neutral
+what do you think about salad? no joke,food_discussion,neutral,test,-0.2235,negative
+what do you think about samosa? tomorrow,food_discussion,neutral,test,0.0,neutral
+what do you think about sandwich? I guess,food_discussion,neutral,test,0.0,neutral
+what do you think about sandwich? for real fr,food_discussion,neutral,test,0.0,neutral
+what do you think about sushi? after class,food_discussion,neutral,test,0.0,neutral
+what do you think about sushi? 😭,food_discussion,negative,test,-0.4767,negative
+what do you think about upma? last night bro,food_discussion,neutral,test,0.0,neutral
+why  is pav bhaji so popular,food_discussion,neutral,test,0.5598,positive
+why  is pizza so popular in my opinion,food_discussion,neutral,test,0.5598,positive
+why  is sandwich so popular lol ok fr,food_discussion,neutral,test,0.8465,positive
+why is curd rice so popular anyway,food_discussion,neutral,test,0.5598,positive
+why is curd rice so popular just saying,food_discussion,neutral,test,0.5598,positive
+why is dal so popular,food_discussion,neutral,test,0.5598,positive
+why is paneer so popular lol,food_discussion,neutral,test,0.7714,positive
+why is pasta so popular please,food_discussion,neutral,test,0.7347,positive
+why is pav bhaji so popular lol ok,food_discussion,neutral,test,0.8465,positive
+why is pizza so popular please,food_discussion,neutral,test,0.7347,positive
+why is samosa so popular bro,food_discussion,neutral,test,0.5598,positive
+why is sandwich so popular if possible,food_discussion,neutral,test,0.5598,positive
+why is sushi so popular haha,food_discussion,neutral,test,0.7842,positive
+I'm  eating sushi rn 😋,food_intent,positive,test,0.0,neutral
+I'm eating biryani rn 😋,food_intent,positive,test,0.0,neutral
+I'm eating curd rice rn 😋,food_intent,positive,test,0.0,neutral
+I'm eating curd rice rn 😋 if possible bro,food_intent,positive,test,0.0,neutral
+I'm eating curd rice rn 😋 just saying,food_intent,positive,test,0.0,neutral
+I'm eating dal rn 😋 on campus,food_intent,positive,test,0.0,neutral
+I'm eating dosa rn 😋 btw,food_intent,positive,test,0.0,neutral
+I'm eating khichdi rn 😋 rn pls,food_intent,positive,test,0.0772,positive
+I'm eating paneer rn 😋 seriously omg,food_intent,positive,test,-0.1779,negative
+I'm eating paratha rn 😋 apparently omg,food_intent,positive,test,0.0,neutral
+I'm eating paratha rn 😋 this evening,food_intent,positive,test,0.0,neutral
+I'm eating pasta rn 😋 at home bro,food_intent,positive,test,0.0,neutral
+I'm eating pav bhaji rn 😋 anyway,food_intent,positive,test,0.0,neutral
+I'm eating pizza rn 😋 no joke,food_intent,positive,test,-0.2235,negative
+I'm eating poha rn 😋 not gonna lie,food_intent,positive,test,0.0,neutral
+I'm eating salad rn 😋 bro,food_intent,positive,test,0.0,neutral
+I'm eating salad rn 😋 what now,food_intent,positive,test,0.0,neutral
+I'm eating sandwich rn 😋 I guess fr,food_intent,positive,test,0.0,neutral
+I'm eating sandwich rn 😋 anyway,food_intent,positive,test,0.0,neutral
+I'm eating sandwich rn 😋 tmrw,food_intent,positive,test,0.0,neutral
+aaj  chole khayi,food_intent,neutral,test,0.0,neutral
+aaj  curd rice khayi,food_intent,neutral,test,0.0,neutral
+aaj  dal khayi just saying bro,food_intent,neutral,test,0.0,neutral
+aaj biryani khayi,food_intent,neutral,test,0.0,neutral
+aaj chole khayi last night omg,food_intent,neutral,test,0.0,neutral
+aaj pasta khayi please yaar,food_intent,neutral,test,0.3182,positive
+aaj pav bhaji khayi,food_intent,neutral,test,0.0,neutral
+aaj rajma khayi,food_intent,neutral,test,0.0,neutral
+aaj salad khayi after lunch bro,food_intent,neutral,test,0.0,neutral
+aaj salad khayi haha,food_intent,neutral,test,0.4588,positive
+aaj samosa khayi,food_intent,neutral,test,0.0,neutral
+aaj sushi khayi before class tbh,food_intent,neutral,test,0.0,neutral
+aaj sushi khayi fr,food_intent,neutral,test,0.0,neutral
+biryani for dinner tonight no joke yaar,food_intent,neutral,test,-0.2235,negative
+chole for dinner tonight,food_intent,neutral,test,0.0,neutral
+chole for dinner tonight lol ok,food_intent,neutral,test,0.6124,positive
+chole for dinner tonight lowkey,food_intent,neutral,test,0.0,neutral
+craving  paratha so bad,food_intent,positive,test,-0.6696,negative
+craving  pasta so bad if possible yaar,food_intent,positive,test,-0.6696,negative
+craving  rajma so bad as usual,food_intent,positive,test,-0.6696,negative
+craving  salad so bad lowkey,food_intent,positive,test,-0.6696,negative
+craving  sandwich so bad later,food_intent,positive,test,-0.6696,negative
+craving biryani so bad no joke,food_intent,positive,test,-0.748,negative
+craving idli so bad,food_intent,positive,test,-0.6696,negative
+craving khichdi so bad,food_intent,positive,test,-0.6696,negative
+craving noodles so bad,food_intent,positive,test,-0.6696,negative
+craving noodles so bad lol ok,food_intent,positive,test,0.0131,neutral
+craving paratha so bad for real,food_intent,positive,test,-0.6696,negative
+craving pasta so bad just saying,food_intent,positive,test,-0.6696,negative
+craving pav bhaji so bad,food_intent,positive,test,-0.6696,negative
+craving pizza so bad this evening,food_intent,positive,test,-0.6696,negative
+craving rajma so bad btw,food_intent,positive,test,-0.6696,negative
+craving salad so bad,food_intent,positive,test,-0.6696,negative
+craving sandwich so bad what now bro,food_intent,positive,test,-0.6696,negative
+craving sushi so bad just saying,food_intent,positive,test,-0.6696,negative
+dal for diner tonight,food_intent,neutral,test,0.0,neutral
+had  biryani for lunch yaar maybe,food_intent,neutral,test,0.0,neutral
+had  khichdi for lunch yaar though,food_intent,neutral,test,0.0,neutral
+had  paneer for lunch yaar last night omg,food_intent,neutral,test,0.0,neutral
+had chole for lunch yaar,food_intent,neutral,test,0.0,neutral
+had curd rice for lunch yaar bro,food_intent,neutral,test,0.0,neutral
+had curd rice for lunch yaar in my opinion,food_intent,neutral,test,0.0,neutral
+had dosa for lunch yaar tbh,food_intent,neutral,test,0.0,neutral
+had idli for lunch yaar haha lol,food_intent,neutral,test,0.7003,positive
+had idli for lunch yaar please,food_intent,neutral,test,0.3182,positive
+had khichdi for lunch yaar rn,food_intent,neutral,test,0.0,neutral
+had noodles for lunch yaar somehow,food_intent,neutral,test,0.0,neutral
+had pasta for lunch yaar rn 😭,food_intent,negative,test,-0.4767,negative
+had pasta for lunch yaar with friends bro,food_intent,neutral,test,0.4767,positive
+had rajma for lunch yaar,food_intent,neutral,test,0.0,neutral
+had salad for lunch yaar rn pls,food_intent,neutral,test,0.0772,positive
+idli  for dinner tonight fr,food_intent,neutral,test,0.0,neutral
+idli for dinner tonight anyway,food_intent,neutral,test,0.0,neutral
+idli for dinner tonight please 😭,food_intent,negative,test,-0.2023,negative
+is  biryani healthy? bro,food_intent,positive,test,0.4019,positive
+is  salad healthy?,food_intent,positive,test,0.4019,positive
+is  sushi healthy? highkey,food_intent,positive,test,0.4019,positive
+is curd rice healthy? tomorrow,food_intent,positive,test,0.4019,positive
+is dal healthy? what now omg,food_intent,positive,test,0.4019,positive
+is pasta healthy?,food_intent,positive,test,0.4019,positive
+is pasta healthy? in my opinion,food_intent,positive,test,0.4019,positive
+is pav bhaji healthy? not gonna lie,food_intent,positive,test,0.4019,positive
+is poha healthy?,food_intent,positive,test,0.4019,positive
+is sushi healthy? btw lol,food_intent,positive,test,0.6705,positive
+is sushi healthy? honestly yaar,food_intent,positive,test,0.6908,positive
+is upma healthy? for real,food_intent,positive,test,0.4019,positive
+is upma healthy? not gonna lie,food_intent,positive,test,0.4019,positive
+is upma healthy? this evening,food_intent,positive,test,0.4019,positive
+is upma healthy? 😭,food_intent,positive,test,-0.1027,negative
+just  cooked khichdi lol,food_intent,neutral,test,0.4215,positive
+just  cooked khichdi lol with friends,food_intent,neutral,test,0.7096,positive
+just  cooked khichdi lol with friends bro,food_intent,neutral,test,0.7096,positive
+just  cooked pasta lol maybe,food_intent,neutral,test,0.4215,positive
+just  cooked pav bhaji lol for real,food_intent,neutral,test,0.4215,positive
+just  cooked salad lol lol,food_intent,neutral,test,0.6808,positive
+just cooked chole lol,food_intent,neutral,test,0.4215,positive
+just cooked noodles lol tmrw,food_intent,neutral,test,0.4215,positive
+just cooked paneer lol,food_intent,neutral,test,0.4215,positive
+just cooked paratha lol,food_intent,neutral,test,0.4215,positive
+just cooked pasta lol,food_intent,neutral,test,0.4215,positive
+just cooked pizza lol pls,food_intent,neutral,test,0.4767,positive
+just cooked poha lol after class omg,food_intent,neutral,test,0.4215,positive
+just cooked poha lol in my opinion pls,food_intent,neutral,test,0.4767,positive
+just cooked poha lol yaar,food_intent,neutral,test,0.4215,positive
+just cooked samosa lol,food_intent,neutral,test,0.4215,positive
+just cooked sandwich lol after class,food_intent,neutral,test,0.4215,positive
+just cooked sandwich lol haha,food_intent,neutral,test,0.7003,positive
+just cooked sandwich lol just saying,food_intent,neutral,test,0.4215,positive
+just cooked sushi lol I guess,food_intent,neutral,test,0.4215,positive
+just cooked sushi lol somehow,food_intent,neutral,test,0.4215,positive
+just cooked upma lol anyway bro,food_intent,neutral,test,0.4215,positive
+just cooked upma lol tmrw,food_intent,neutral,test,0.4215,positive
+khichdi for dinner tonight tmrw,food_intent,neutral,test,0.0,neutral
+noodles  for dinner tonight I guess,food_intent,neutral,test,0.0,neutral
+noodles for diner tonight honestly,food_intent,neutral,test,0.4588,positive
+pasta for dinner tonight,food_intent,neutral,test,0.0,neutral
+pasta for dinner tonight 😭,food_intent,negative,test,-0.4767,negative
+pav  bhaji for dinner tonight,food_intent,neutral,test,0.0,neutral
+photo  of my dosa incoming 📸 what now,food_intent,neutral,test,0.0,neutral
+photo  of my paneer incoming 📸 this evening,food_intent,neutral,test,0.0,neutral
+photo  of my salad incoming 📸,food_intent,neutral,test,0.0,neutral
+photo of my biryani incoming 📸 no joke,food_intent,neutral,test,-0.2235,negative
+photo of my biryani incoming 📸 tomorrow,food_intent,neutral,test,0.0,neutral
+photo of my chole incoming 📸 this evening,food_intent,neutral,test,0.0,neutral
+photo of my curd rice incoming 📸 btw,food_intent,neutral,test,0.0,neutral
+photo of my dal incoming 📸 this week fr,food_intent,neutral,test,0.0,neutral
+photo of my dal incoming 📸 though,food_intent,neutral,test,0.0,neutral
+photo of my dosa incoming 📸 tmrw,food_intent,neutral,test,0.0,neutral
+photo of my paneer incoming 📸 lol,food_intent,neutral,test,0.4215,positive
+photo of my pasta incoming 📸 honestly tbh,food_intent,neutral,test,0.4588,positive
+photo of my pizza incoming 📸,food_intent,neutral,test,0.0,neutral
+photo of my rajma incoming 📸 😭,food_intent,negative,test,-0.4767,negative
+photo of my samosa incoming 📸 somehow 😭,food_intent,negative,test,-0.4767,negative
+photo of my samosa incoming 📸 this week,food_intent,neutral,test,0.0,neutral
+photo of my sushi incoming 📸 anyway,food_intent,neutral,test,0.0,neutral
+poha for diner tonight,food_intent,neutral,test,0.0,neutral
+poha for dinner tonight for real pls,food_intent,neutral,test,0.0772,positive
+rajma for dinner tonight tmrw,food_intent,neutral,test,0.0,neutral
+salad for diner tonight 😭,food_intent,negative,test,-0.4767,negative
+samosa for diner tonight,food_intent,neutral,test,0.0,neutral
+should  I order dosa?,food_intent,neutral,test,0.0,neutral
+should  I order idli? on campus,food_intent,neutral,test,0.0,neutral
+should  I order paneer? lowkey,food_intent,neutral,test,0.0,neutral
+should I order chole? I guess bro,food_intent,neutral,test,0.0,neutral
+should I order chole? rn,food_intent,neutral,test,0.0,neutral
+should I order chole? tmrw,food_intent,neutral,test,0.0,neutral
+should I order curd rice? I guess,food_intent,neutral,test,0.0,neutral
+should I order dal? I think,food_intent,neutral,test,0.0,neutral
+should I order dal? for real,food_intent,neutral,test,0.0,neutral
+should I order dal? yaar,food_intent,neutral,test,0.0,neutral
+should I order idli? somehow,food_intent,neutral,test,0.0,neutral
+should I order idli? yaar,food_intent,neutral,test,0.0,neutral
+should I order khichdi? bro,food_intent,neutral,test,0.0,neutral
+should I order paratha? honestly,food_intent,neutral,test,0.4588,positive
+should I order paratha? yaar,food_intent,neutral,test,0.0,neutral
+should I order pav bhaji? last night,food_intent,neutral,test,0.0,neutral
+should I order pizza? before class,food_intent,neutral,test,0.0,neutral
+should I order pizza? rn yaar,food_intent,neutral,test,0.0,neutral
+should I order samosa? omg,food_intent,neutral,test,0.0,neutral
+should I order samosa? though yaar,food_intent,neutral,test,0.0,neutral
+should I order sandwich? with friends fr,food_intent,neutral,test,0.4767,positive
+should I order upma? this evening bro,food_intent,neutral,test,0.0,neutral
+upma  for dinner tonight maybe,food_intent,neutral,test,0.0,neutral
+upma for dinner tonight,food_intent,neutral,test,0.0,neutral
+who wants biryani with me btw pls,food_intent,neutral,test,0.0772,positive
+who wants curd rice with me lol,food_intent,neutral,test,0.4215,positive
+who wants dal with me,food_intent,neutral,test,0.0,neutral
+who wants dal with me seriously,food_intent,neutral,test,-0.1779,negative
+who wants khichdi with me I guess,food_intent,neutral,test,0.0,neutral
+who wants khichdi with me please,food_intent,neutral,test,0.3182,positive
+who wants noodles with me tbh,food_intent,neutral,test,0.0,neutral
+who wants paneer with me bro,food_intent,neutral,test,0.0,neutral
+who wants pasta with me before class,food_intent,neutral,test,0.0,neutral
+who wants pasta with me this week,food_intent,neutral,test,0.0,neutral
+who wants pav bhaji with me just saying,food_intent,neutral,test,0.0,neutral
+who wants pav bhaji with me seriously,food_intent,neutral,test,-0.1779,negative
+who wants salad with me yaar,food_intent,neutral,test,0.0,neutral
+who wants sushi with me seriously,food_intent,neutral,test,-0.1779,negative
+who wants upma with me bro,food_intent,neutral,test,0.0,neutral
+who wants upma with me though,food_intent,neutral,test,0.0,neutral
+I  have a headache today please 😭,not_food,negative,test,-0.2023,negative
+I have a headache today as usual,not_food,negative,test,0.0,neutral
+I have a headache today at least,not_food,negative,test,0.0,neutral
+I have a headache today haha,not_food,negative,test,0.4588,positive
+I have a headache today honestly yaar,not_food,negative,test,0.4588,positive
+I have a headache today just saying yaar,not_food,negative,test,0.0,neutral
+I have a headache today lowkey,not_food,negative,test,0.0,neutral
+I have a headache today maybe fr,not_food,negative,test,0.0,neutral
+I have a headache today rn fr,not_food,negative,test,0.0,neutral
+I have a headache today seriously fr,not_food,negative,test,-0.1779,negative
+I have a headache today tbh,not_food,negative,test,0.0,neutral
+I have a headache today today,not_food,negative,test,0.0,neutral
+I'm  cooked for tomorrow's exam for real,not_food,neutral,test,0.0,neutral
+I'm  cooked for tomorrow's exam tbh,not_food,neutral,test,0.0,neutral
+I'm  cooked for tomorrow's exam though,not_food,neutral,test,0.0,neutral
+I'm  cooked for tomorrow's exam what now 😭,not_food,negative,test,-0.4767,negative
+I'm  starving for attention haha,not_food,negative,test,0.0516,positive
+I'm  starving for attention in my opinion omg,not_food,negative,test,-0.4215,negative
+I'm  starving for attention last night,not_food,negative,test,-0.4215,negative
+I'm  starving for attention lol ok 😭,not_food,negative,test,-0.2263,negative
+I'm  starving for attention seriously,not_food,negative,test,-0.5423,negative
+I'm cooked for tomorrow's exam I think,not_food,neutral,test,0.0,neutral
+I'm cooked for tomorrow's exam apparently,not_food,neutral,test,0.0,neutral
+I'm cooked for tomorrow's exam at least pls,not_food,neutral,test,0.0772,positive
+I'm cooked for tomorrow's exam for real omg,not_food,neutral,test,0.0,neutral
+I'm cooked for tomorrow's exam highkey lol,not_food,neutral,test,0.4215,positive
+I'm cooked for tomorrow's exam last night,not_food,neutral,test,0.0,neutral
+I'm cooked for tomorrow's exam lowkey,not_food,neutral,test,0.0,neutral
+I'm cooked for tomorrow's exam lowkey pls,not_food,neutral,test,0.0772,positive
+I'm cooked for tomorrow's exam not gonna lie,not_food,neutral,test,0.0,neutral
+I'm cooked for tomorrow's exam on campus,not_food,neutral,test,0.0,neutral
+I'm cooked for tomorrow's exam please omg,not_food,neutral,test,0.3182,positive
+I'm cooked for tomorrow's exam tomorrow,not_food,neutral,test,0.0,neutral
+I'm cooked for tomorrow's exam with friends,not_food,neutral,test,0.4767,positive
+I'm cooked for tomorrow's exam 😭,not_food,negative,test,-0.4767,negative
+I'm starving for attention I guess,not_food,negative,test,-0.4215,negative
+I'm starving for attention before class,not_food,negative,test,-0.4215,negative
+I'm starving for attention btw,not_food,negative,test,-0.4215,negative
+I'm starving for attention for real,not_food,negative,test,-0.4215,negative
+I'm starving for attention haha,not_food,negative,test,0.0516,positive
+I'm starving for attention haha omg,not_food,negative,test,0.0516,positive
+I'm starving for attention last night,not_food,negative,test,-0.4215,negative
+I'm starving for attention no joke,not_food,negative,test,-0.5702,negative
+I'm starving for attention seriously,not_food,negative,test,-0.5423,negative
+I'm starving for attention somehow,not_food,negative,test,-0.4215,negative
+I'm starving for attention today,not_food,negative,test,-0.4215,negative
+I'm starving for attention what now,not_food,negative,test,-0.4215,negative
+did  you submit the assignment? lol ok tbh,not_food,neutral,test,0.6124,positive
+did  you submit the assignment? yaar,not_food,neutral,test,0.0,neutral
+did you submit the assignment? I guess,not_food,neutral,test,0.0,neutral
+did you submit the assignment? after lunch 😭,not_food,negative,test,-0.4767,negative
+did you submit the assignment? anyway,not_food,neutral,test,0.0,neutral
+did you submit the assignment? apparently,not_food,neutral,test,0.0,neutral
+did you submit the assignment? at home,not_food,neutral,test,0.0,neutral
+did you submit the assignment? btw lol,not_food,neutral,test,0.4215,positive
+did you submit the assignment? haha fr,not_food,neutral,test,0.4588,positive
+did you submit the assignment? in my opinion,not_food,neutral,test,0.0,neutral
+did you submit the assignment? just saying lol,not_food,neutral,test,0.4215,positive
+did you submit the assignment? maybe,not_food,neutral,test,0.0,neutral
+did you submit the assignment? omg,not_food,neutral,test,0.0,neutral
+did you submit the assignment? please,not_food,neutral,test,0.3182,positive
+did you submit the assignment? pls,not_food,neutral,test,0.0772,positive
+did you submit the assignment? with friends,not_food,neutral,test,0.4767,positive
+exam  was a piece of cake honestly,not_food,neutral,test,0.4588,positive
+exam  was a piece of cake omg,not_food,neutral,test,0.0,neutral
+exam was a piece of cake fr,not_food,neutral,test,0.0,neutral
+exam was a piece of cake later,not_food,neutral,test,0.0,neutral
+happy  birthday 🎉 btw fr,not_food,neutral,test,0.7506,positive
+happy  birthday 🎉 honestly,not_food,neutral,test,0.8555,positive
+happy birthday 🎉 anyway 😭,not_food,negative,test,0.5106,positive
+happy birthday 🎉 apparently,not_food,neutral,test,0.7506,positive
+happy birthday 🎉 lol ok,not_food,neutral,test,0.886,positive
+happy birthday 🎉 no joke,not_food,neutral,test,0.6717,positive
+meeting  at 6pm tomorrow lol ok 😭,not_food,negative,test,0.2263,positive
+meeting  at 9am tomorrow apparently,not_food,neutral,test,0.0,neutral
+meeting  at after class tomorrow omg,not_food,neutral,test,0.0,neutral
+meeting  at noon tomorrow lowkey,not_food,neutral,test,0.0,neutral
+meeting at 6pm tomorrow btw,not_food,neutral,test,0.0,neutral
+meeting at 6pm tomorrow today,not_food,neutral,test,0.0,neutral
+meeting at 9am tomorrow I think,not_food,neutral,test,0.0,neutral
+meeting at 9am tomorrow bro,not_food,neutral,test,0.0,neutral
+meeting at 9am tomorrow fr,not_food,neutral,test,0.0,neutral
+meeting at 9am tomorrow lowkey bro,not_food,neutral,test,0.0,neutral
+meeting at 9am tomorrow no joke,not_food,neutral,test,-0.2235,negative
+meeting at after class tomorrow at least lol,not_food,neutral,test,0.4215,positive
+meeting at after class tomorrow if possible,not_food,neutral,test,0.0,neutral
+meeting at noon tomorrow,not_food,neutral,test,0.0,neutral
+meeting at noon tomorrow seriously,not_food,neutral,test,-0.1779,negative
+meeting at noon tomorrow with friends,not_food,neutral,test,0.4767,positive
+meeting at tomorrow tomorrow at home,not_food,neutral,test,0.0,neutral
+meeting at tomorrow tomorrow at least tbh,not_food,neutral,test,0.0,neutral
+meeting at tomorrow tomorrow for once,not_food,neutral,test,0.0,neutral
+meeting at tomorrow tomorrow if possible,not_food,neutral,test,0.0,neutral
+meeting at tomorrow tomorrow just saying,not_food,neutral,test,0.0,neutral
+meeting at tomorrow tomorrow seriously,not_food,neutral,test,-0.1779,negative
+my  laptop battery is dead maybe fr,not_food,negative,test,-0.6486,negative
+my  laptop battery is dead rn,not_food,negative,test,-0.6486,negative
+my  phone needs charging later pls,not_food,neutral,test,0.0772,positive
+my  phone needs charging this evening,not_food,neutral,test,0.0,neutral
+my laptop battery is dead anyway yaar,not_food,negative,test,-0.6486,negative
+my laptop battery is dead for real omg,not_food,negative,test,-0.6486,negative
+my laptop battery is dead in my opinion,not_food,negative,test,-0.6486,negative
+my laptop battery is dead not gonna lie lol,not_food,negative,test,-0.7672,negative
+my laptop battery is dead rn tbh,not_food,negative,test,-0.6486,negative
+my laptop battery is dead this evening,not_food,negative,test,-0.6486,negative
+my laptop battery is dead though,not_food,negative,test,-0.6486,negative
+my laptop battery is dead tomorrow lol,not_food,negative,test,-0.3612,negative
+my laptop battery is dead with friends fr,not_food,negative,test,-0.296,negative
+my phone needs charging as usual pls,not_food,neutral,test,0.0772,positive
+my phone needs charging highkey,not_food,neutral,test,0.0,neutral
+my phone needs charging last night,not_food,neutral,test,0.0,neutral
+my phone needs charging not gonna lie,not_food,neutral,test,0.0,neutral
+my phone needs charging today bro,not_food,neutral,test,0.0,neutral
+please  call me after class haha,not_food,neutral,test,0.6486,positive
+please  call me after class later,not_food,neutral,test,0.3182,positive
+please call me after class at home,not_food,neutral,test,0.3182,positive
+please call me after class at least,not_food,neutral,test,0.3182,positive
+please call me after class at least fr,not_food,neutral,test,0.3182,positive
+please call me after class fr,not_food,neutral,test,0.3182,positive
+please call me after class honestly fr,not_food,neutral,test,0.6486,positive
+please call me after class honestly omg,not_food,neutral,test,0.6486,positive
+please call me after class lol ok,not_food,neutral,test,0.743,positive
+please call me after class rn fr,not_food,neutral,test,0.3182,positive
+please call me after class tbh,not_food,neutral,test,0.3182,positive
+please call me after class tmrw pls,not_food,neutral,test,0.3818,positive
+please call me after class with friends,not_food,neutral,test,0.6597,positive
+send  me the lecture notes yaar,not_food,neutral,test,0.0,neutral
+send me the lecture notes after lunch,not_food,neutral,test,0.0,neutral
+send me the lecture notes as usual,not_food,neutral,test,0.0,neutral
+send me the lecture notes at home,not_food,neutral,test,0.0,neutral
+send me the lecture notes before class,not_food,neutral,test,0.0,neutral
+send me the lecture notes highkey,not_food,neutral,test,0.0,neutral
+send me the lecture notes in my opinion,not_food,neutral,test,0.0,neutral
+send me the lecture notes in my opinion pls,not_food,neutral,test,0.0772,positive
+send me the lecture notes last night,not_food,neutral,test,0.0,neutral
+send me the lecture notes maybe,not_food,neutral,test,0.0,neutral
+send me the lecture notes somehow bro,not_food,neutral,test,0.0,neutral
+send me the lecture notes this week,not_food,neutral,test,0.0,neutral
+send me the lecture notes tomorrow bro,not_food,neutral,test,0.0,neutral
+that  movie was so good last night,not_food,positive,test,0.5777,positive

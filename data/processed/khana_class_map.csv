@@ -1,0 +1,16 @@
+dataset,dataset_class,best_pt_class,accepted_model_classes,match_type,status
+khana,aloo gobi,allo gobi,allo gobi|aloo gobi masala,family,ok
+khana,biryani,biryani,biryani,exact,ok
+khana,chana masala,chole chickpea curry,chole chickpea curry,family,ok
+khana,chapati,chappati,chappati|roti|phulka,exact,ok
+khana,fish curry,fish curry,fish curry,exact,ok
+khana,garlic naan,garlice naan,garlice naan|cheesy garlic naan,exact,ok
+khana,gulab jamun,gulab jamoon,gulab jamoon,exact,ok
+khana,idli,idly,idly|masala idly,exact,ok
+khana,masala dosa,masala dosa,masala dosa,exact,ok
+khana,medu vada,medu vada,medu vada,exact,ok
+khana,palak paneer,palak panner,palak panner|saag panner,exact,ok
+khana,seekh kebab,mutton  seekh kebab,mutton  seekh kebab,family,ok
+khana,uttapam,uthappam,uthappam,exact,ok
+khana,kulfi,kulfi,kulfi,exact,ok
+khana,paneer masala,panner butter masala,panner butter masala,family,ok

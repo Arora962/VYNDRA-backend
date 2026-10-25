@@ -1,0 +1,116 @@
+class_name,reviewed_food_name,match_type,exact_normalized_candidate,fuzzy_candidate,fuzzy_similarity,exact_agrees_with_review,fuzzy_agrees_with_review
+allo gobi,Potato cauliflower (Aloo gobhi),family,Potato cauliflower (Aloo gobhi),Gobi 65,0.3498667415202929,True,False
+aloo gobi masala,Potato cauliflower (Aloo gobhi),family,Potato cauliflower (Aloo gobhi),Gobi 65,0.37671096113354113,True,False
+appam,Appam,exact,Appam,Appam,1.0,True,True
+avial,Avial,exact,Avial,Avial,1.0,True,True
+baigan chura brinjal fry,Brinjal bhartha (Baingan ka bhartha),family,Brinjal bhartha (Baingan ka bhartha),Stuffed brinjal (Bharwa baingan),0.3855242541519281,True,False
+basmati rice,Boiled rice (Uble chawal),family,Boiled rice (Uble chawal),Rasmalai,0.3607666992845455,True,False
+biryani,Vegetable biryani/biriyani,family,Vegetable biryani/biriyani,Mutton biryani/biriyani,0.652208110806502,True,False
+brinjal bharta,Brinjal bhartha (Baingan ka bhartha),family,Brinjal bhartha (Baingan ka bhartha),Brinjal bhartha (Baingan ka bhartha),0.6318956053985889,True,True
+butter chicken,Butter chicken,exact,Butter chicken,Butter chicken,1.0000000000000002,True,True
+butter naan,Naan,family,Naan,Naan,0.49573929111845383,True,True
+cake,Plain cream cake,family,Plain cream cake,Pancake,0.5367233351626726,True,False
+chappati,Chapati/Roti,family,Chapati/Roti,Chapati/Roti,0.5075763702817533,True,True
+chaula ganta mushroom curry,Pea mushroom curry (Matar mushroom),family,Pea mushroom curry (Matar mushroom),Pea mushroom curry (Matar mushroom),0.6678347742520662,True,True
+cheesy garlic naan,Naan,family,Naan,Garlic soup,0.5505003911777153,True,False
+chepala pulusu fish curry,Fish curry (Machli curry),family,Fish curry (Machli curry),Fish curry (Machli curry),0.4312335490686609,True,True
+chicken chettinad,Chicken curry,family,Chicken curry,Chicken curry,0.5007293952353615,True,True
+chicken curry,Chicken curry,exact,Chicken curry,Chicken curry,1.0,True,True
+chicken fried rice,Chinese fried rice,family,Chinese fried rice,Chinese fried rice,0.6050664444274353,True,True
+chicken fry,Chilli chicken,family,Chilli chicken,Chicken curry,0.4962557913095507,True,False
+chicken kabab,Chicken kebab,exact,Chicken kebab,Chicken kebab,0.6238732360402005,True,True
+chicken noodle soup,Chicken sweet corn soup,family,Chicken sweet corn soup,Cheese noodle ring,0.4939784084024985,True,False
+chicken noodles,Chicken chowmein,family,Chicken chowmein,Home made plain noodles,0.5245746485986635,True,False
+chicken pulao,Chicken pulao,exact,Chicken pulao,Chicken pulao,1.0000000000000002,True,True
+chicken rassa,Chicken curry,family,Chicken curry,Chicken salad,0.5186128155643704,True,False
+chicken tikka masala,Shahi chicken masala,family,Shahi chicken masala,Shahi chicken masala,0.4692173741837809,True,True
+chingri malai curry,Prawn curry (with coconut) (Jhinga curry),family,Prawn curry (with coconut) (Jhinga curry),Methi malai paneer,0.43904451995004046,True,False
+chole chickpea curry,Chickpeas curry (Safed channa curry),family,Chickpeas curry (Safed channa curry),Chickpeas curry (Safed channa curry),0.4819394150487813,True,True
+chowmein,Vegetable chowmein,family,Vegetable chowmein,Chicken chowmein,0.7955857160762914,True,False
+cocunut chutney,Coconut chutney (Nariyal ki chutney),exact,Coconut chutney (Nariyal ki chutney),Coconut chutney (Nariyal ki chutney),0.6944330411185841,True,True
+coffee,Instant coffee,family,Instant coffee,Coffee biscuit,0.6019077009338186,True,False
+cream based soup,Cream of mixed vegetable soup,family,Cream of mixed vegetable soup,Cream buns,0.39418649647983034,True,False
+crevettes malabari,Prawn curry (with coconut) (Jhinga curry),family,Prawn curry (with coconut) (Jhinga curry),Potato aigrettes,0.23313904343822903,True,False
+curd rice,Curd rice (Dahi bhaat/Dahi chawal/ Perugu annam/Daddojanam/Thayir saadam),exact,Curd rice (Dahi bhaat/Dahi chawal/ Perugu annam/Daddojanam/Thayir saadam),Curd dip,0.3597547811297783,True,False
+dal bengal,Split bengal gram dal (Channa dal),family,Split bengal gram dal (Channa dal),Bengal fish curry (Bengali machli curry),0.4747879579571981,True,False
+dal makhani,Dal makhani,exact,Dal makhani,Dal makhani,1.0,True,True
+dalma,Dalma,exact,Dalma,Dalma,1.0,True,True
+dosa plain,Plain dosa,family,Plain dosa,Plain dosa,0.5822386574876696,True,True
+dudhi chana nu shaak,Split bengal gram with bottle gourd (Channa dal with ghiya/lauki),family,Split bengal gram with bottle gourd (Channa dal with ghiya/lauki),Methi chaman,0.23426190521606227,True,False
+eera kara kuzhambu shrimp,Prawn curry (with coconut) (Jhinga curry),family,Prawn curry (with coconut) (Jhinga curry),Cumin pulao (Jeera/Zeera pulao),0.18760279243340608,True,False
+egg fried rice,Chinese fried rice,family,Chinese fried rice,Chinese fried rice,0.676044402942576,True,True
+egg noodles,Home made egg noodles,family,Home made egg noodles,Home made egg noodles,0.703406236680305,True,True
+fish curry,Fish curry (Machli curry),exact,Fish curry (Machli curry),Fish curry (Machli curry),0.7018202812880528,True,True
+fish tikka,Fish tikka,exact,Fish tikka,Fish tikka,1.0,True,True
+garlice naan,Naan,family,Naan,Naan,0.47629049757657416,True,True
+gulab jamoon,Gulab Jamun with khoya,family,Gulab Jamun with khoya,Gulab Jamun with khoya,0.5797284600314389,True,True
+gustaba,Kashmiri mutton koftas (Gushtaba),family,Kashmiri mutton koftas (Gushtaba),Baked custard,0.2755355310440833,True,False
+huli saaru tamarind rasam,Rasam with tamarind (Puli rasam/ Chintapandu rasam/ Charu/Saaru),family,Rasam with tamarind (Puli rasam/ Chintapandu rasam/ Charu/Saaru),Rasam with tamarind (Puli rasam/ Chintapandu rasam/ Charu/Saaru),0.591163622654471,True,True
+ice icream,Vanilla ice cream without egg,family,Vanilla ice cream without egg,Coffee ice cream,0.5645985075600324,True,False
+idly,Idli,exact,Idli,Idli,0.6204191948943458,True,True
+kadhi,Besan kadhi with pakodies,family,Besan kadhi with pakodies,Besan kadhi with pakodies,0.4162525989771706,True,True
+kara vada,Masala vada,family,Masala vada,Masala vada,0.5616612333805293,True,True
+kimchi fried rice,Chinese fried rice,family,Chinese fried rice,Chinese fried rice,0.6589996165958288,True,True
+kodi pulusu  chicken curry,Chicken curry,family,Chicken curry,Chicken curry,0.6232209783771909,True,True
+kulfi,Kulfi,exact,Kulfi,Kulfi,1.0,True,True
+lasagna,Lasagne with meat sauce,family,Lasagne with meat sauce,Chicken lasagne,0.6077801526159214,True,False
+lemon rice,"Lemon rice (Pulihora, Elumichai sadam, Chitranna)",exact,"Lemon rice (Pulihora, Elumichai sadam, Chitranna)",Lemon cake,0.4523033921679718,True,False
+lentil soup,Lentil soup,exact,Lentil soup,Lentil soup,1.0,True,True
+mac and cheese,Macroni cheese pie,family,Macroni cheese pie,Vegetable and cheese pie,0.5343967225434038,True,False
+masala dosa,Masala dosa,exact,Masala dosa,Masala dosa,1.0,True,True
+masala idly,Idli,family,Idli,Semolina idli (Suji/Rava idli),0.4303522455111646,True,False
+matar  peas pulao,Peas pulao (Matar pulao),family,Peas pulao (Matar pulao),Peas pulao (Matar pulao),0.8115975678069239,True,True
+matar paneer,Pea paneer curry (Matar paneer),family,Pea paneer curry (Matar paneer),Pea paneer curry (Matar paneer),0.7351603833444812,True,True
+medu vada,Plain urad dal vada (Uzunne vada/Minapa garelu/Ulundu vadai/Medu vada),exact,Plain urad dal vada (Uzunne vada/Minapa garelu/Ulundu vadai/Medu vada),Plain urad dal vada (Uzunne vada/Minapa garelu/Ulundu vadai/Medu vada),0.5271807317986744,True,True
+meen kara kuzhambu fish,Fish curry (Machli curry),family,Fish curry (Machli curry),Tomato fish,0.21981428422972926,True,False
+meen kulambu fish curry,Fish curry (Machli curry),family,Fish curry (Machli curry),Fish curry (Machli curry),0.4023862309308915,True,True
+meen moilee fish molee,Fish in coconut milk (Nariyal ke doodh ke saath machli),family,Fish in coconut milk (Nariyal ke doodh ke saath machli),Hot fish souffle,0.25428735754206566,True,False
+methi thepla nu shaak,Methi thepla,family,Methi thepla,Methi thepla,0.8246617181555961,True,True
+minestrone soup,Minestrone soup,exact,Minestrone soup,Minestrone soup,1.0000000000000004,True,True
+mint chutney,Mint and coriander chutney (Pudinay aur dhaniye ki chutney),family,Mint and coriander chutney (Pudinay aur dhaniye ki chutney),Mint tomato chutney (Pudinay aur tamatar ki chutney),0.5207349256257296,True,False
+muligatawny soup,Mulligatawny soup,exact,Mulligatawny soup,Mulligatawny soup,0.8874056905940049,True,True
+murgh shorba,Chicken consomme (Clear chicken soup),family,Chicken consomme (Clear chicken soup),Raspberry shortbread cookies,0.19793977469053106,True,False
+mushroom kara kuzhmabu,Mushroom matar,family,Mushroom matar,Mushroom matar,0.5211101348710628,True,True
+mushroom masala,Mushroom matar,family,Mushroom matar,Mushroom matar,0.7911299813214747,True,True
+mutton  seekh kebab,Mutton seekh kebab,exact,Mutton seekh kebab,Mutton seekh kebab,1.0000000000000002,True,True
+mutton korma,Mutton korma,exact,Mutton korma,Mutton korma,1.0000000000000002,True,True
+mutton pulao,Mutton pulao,exact,Mutton pulao,Mutton pulao,1.0000000000000002,True,True
+mutton rogan josh,Roghan josh,exact,Roghan josh,Roghan josh,0.5687267361377657,True,True
+naan,Naan,exact,Naan,Naan,1.0000000000000002,True,True
+naatu koshi curry country chicken curry,Chicken curry,family,Chicken curry,Chicken curry,0.5985585780448374,True,True
+nadur yakhni,Chicken yakhni,family,Chicken yakhni,Chicken yakhni,0.6620689733332674,True,True
+palak panner,Spinach paneer (Palak paneer),family,Spinach paneer (Palak paneer),Spinach paneer (Palak paneer),0.4878070087042269,True,True
+palak shorba,Spinach soup (Palak ka soup),family,Spinach soup (Palak ka soup),Spinach poori (Palak poori),0.24000253407541547,True,False
+paneer tikka Panner kabab,Paneer shaslik/tikka,family,Paneer shaslik/tikka,Paneer shaslik/tikka,0.42489363079423914,True,True
+panner butter masala,Paneer in butter sauce,family,Paneer in butter sauce,Paneer in butter sauce,0.38063742854897,True,True
+panner fried rice,Chinese fried rice,family,Chinese fried rice,Chinese fried rice,0.556236078844315,True,True
+peanut chutney,Peanut chutney (Mungfali ki chutney),exact,Peanut chutney (Mungfali ki chutney),Peanut chutney (Mungfali ki chutney),0.7220725899854299,True,True
+phulka,Chapati/Roti,family,Chapati/Roti,Washed moong dal (Dhuli moong ki dal),0.12899469133175168,True,False
+pine apple fried rice,Chinese fried rice,family,Chinese fried rice,Chinese fried rice,0.6342276478520904,True,True
+podi dosa,Plain dosa,family,Plain dosa,Masala dosa,0.39625365959876585,True,False
+prawn malai curry,Prawn curry (with coconut) (Jhinga curry),family,Prawn curry (with coconut) (Jhinga curry),Prawn sandwich,0.4457283431527031,True,False
+ramen noodles,Home made egg noodles,family,Home made egg noodles,Home made plain noodles,0.5494497426459577,True,False
+rasam,Rasam with tamarind (Puli rasam/ Chintapandu rasam/ Charu/Saaru),family,Rasam with tamarind (Puli rasam/ Chintapandu rasam/ Charu/Saaru),Rasam powder (Rasam masala),0.5634674399143936,True,False
+roti,Chapati/Roti,family,Chapati/Roti,Soya roti,0.5064832385133418,True,False
+roti with ghee,Chapati/Roti,family,Chapati/Roti,Spaghetti with paneer balls and tomato sauce,0.2904944796058012,True,False
+saag panner,Spinach paneer (Palak paneer),family,Spinach paneer (Palak paneer),Veg paneer stew,0.255260021527316,True,False
+sambar,Sambar,exact,Sambar,Sambar,1.0,True,True
+shrimp prawn fried rice,Chinese fried rice,family,Chinese fried rice,Chinese fried rice,0.486681761947901,True,True
+spaghetti,Spaghetti bolognese,family,Spaghetti bolognese,Spaghetti bolognese,0.6030912660729787,True,True
+special fried rice,Chinese fried rice,family,Chinese fried rice,Chinese fried rice,0.5002109323806049,True,True
+steam rice,Boiled rice (Uble chawal),family,Boiled rice (Uble chawal),Spanish rice,0.2861572218221758,True,False
+sukha aloo dry potato curry,Dry potato (Sookhe aloo),family,Dry potato (Sookhe aloo),Pea potato curry (Aloo matar),0.5525356620768062,True,False
+sweet corn soup,Sweet corn soup,exact,Sweet corn soup,Sweet corn soup,1.0,True,True
+tandoori chicken,Tandoori chicken,exact,Tandoori chicken,Tandoori chicken,1.0000000000000002,True,True
+tea,Hot tea (Garam Chai),family,Hot tea (Garam Chai),Iced tea,0.3332097262032968,True,False
+tomato chutney,Tomato chutney (Tamatar ki chutney),exact,Tomato chutney (Tamatar ki chutney),Tomato chutney (Tamatar ki chutney),0.780937229011138,True,True
+tomato shorba,Clear tomato soup (Tamatar ka soup),family,Clear tomato soup (Tamatar ka soup),Tomato sauce,0.48541763667774473,True,False
+tomoto soup,Clear tomato soup (Tamatar ka soup),family,Clear tomato soup (Tamatar ka soup),Cold tomato soup,0.541293698623804,True,False
+upma  veg,Vegetable upma,family,Vegetable upma,Semolina upma (Suji/Rava upma),0.38593998777809957,True,False
+uthappam,Uttapam,exact,Uttapam,Appam,0.7470406061220876,True,False
+vegetable fried rice,Chinese fried rice,family,Chinese fried rice,Chinese fried rice,0.622774659764818,True,True
+vegetable noodles,Vegetable chowmein,family,Vegetable chowmein,Cheese noodle ring,0.5348076842196742,True,False
+vegetable pulao,Mixed vegetable pulao,family,Mixed vegetable pulao,Mixed vegetable pulao,0.7835292652653655,True,True
+vegetable soup,Vegetable soup,exact,Vegetable soup,Vegetable soup,1.0,True,True
+vegetables kabab,Vegetable seekh kebab,family,Vegetable seekh kebab,Baked vegetables,0.5438387398175671,True,False
+yangzhou fried rice,Chinese fried rice,family,Chinese fried rice,Chinese fried rice,0.6541296050774955,True,True

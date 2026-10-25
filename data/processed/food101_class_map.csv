@@ -1,0 +1,11 @@
+dataset,dataset_class,best_pt_class,accepted_model_classes,match_type,status
+food101,chicken_curry,chicken curry,chicken curry,exact,ok
+food101,ice_cream,ice icream,ice icream,exact,ok
+food101,lasagna,lasagna,lasagna,exact,ok
+food101,spaghetti_bolognese,spaghetti,spaghetti,exact,ok
+food101,macaroni_and_cheese,mac and cheese,mac and cheese,exact,ok
+food101,ramen,ramen noodles,ramen noodles,family,ok
+food101,fried_rice,vegetable fried rice,vegetable fried rice|chicken fried rice|egg fried rice,family,ok
+food101,chocolate_cake,cake,cake,family,ok
+food101,carrot_cake,cake,cake,family,ok
+food101,red_velvet_cake,cake,cake,family,ok

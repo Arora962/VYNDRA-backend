@@ -1,0 +1,13 @@
+vectorizer,model,validation_accuracy,accuracy,macro_precision,macro_recall,macro_f1
+bow_word,MultinomialNB,1.0,1.0,1.0,1.0,1.0
+bow_word,LogisticRegression,1.0,1.0,1.0,1.0,1.0
+bow_word,LinearSVC,1.0,1.0,1.0,1.0,1.0
+bow_word,DecisionTree,1.0,1.0,1.0,1.0,1.0
+tfidf_word,MultinomialNB,1.0,1.0,1.0,1.0,1.0
+tfidf_word,LogisticRegression,1.0,1.0,1.0,1.0,1.0
+tfidf_word,LinearSVC,1.0,1.0,1.0,1.0,1.0
+tfidf_char,MultinomialNB,1.0,1.0,1.0,1.0,1.0
+tfidf_char,LogisticRegression,1.0,1.0,1.0,1.0,1.0
+tfidf_char,LinearSVC,1.0,1.0,1.0,1.0,1.0
+tfidf_char,DecisionTree,0.9962962962962963,0.9851851851851852,0.9852338505798972,0.9851851851851853,0.9851743268802394
+tfidf_word,DecisionTree,0.9925925925925926,0.9944444444444445,0.9944851444851445,0.9944444444444445,0.9944443301290735

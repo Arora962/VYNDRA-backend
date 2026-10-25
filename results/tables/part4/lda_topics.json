@@ -1,0 +1,176 @@
+{
+  "selected_n_topics": 10,
+  "criterion": "minimum in-sample perplexity among 4, 6, 8, 10; interpret cautiously",
+  "topics": [
+    {
+      "topic": 0,
+      "top_terms": [
+        "tonight",
+        "dinner",
+        "dinner tonight",
+        "paratha",
+        "biryani",
+        "tell",
+        "recipe",
+        "tell recipe",
+        "pav",
+        "pav bhaji",
+        "bhaji",
+        "aaj"
+      ]
+    },
+    {
+      "topic": 1,
+      "top_terms": [
+        "lol",
+        "just",
+        "cooked",
+        "just cooked",
+        "just saying",
+        "saying",
+        "ok",
+        "lol ok",
+        "rating",
+        "gonna",
+        "lie",
+        "gonna lie"
+      ]
+    },
+    {
+      "topic": 2,
+      "top_terms": [
+        "healthy",
+        "rn",
+        "pav",
+        "pav bhaji",
+        "bhaji",
+        "samosa",
+        "eating",
+        "popular",
+        "photo",
+        "incoming",
+        "pizza",
+        "upma"
+      ]
+    },
+    {
+      "topic": 3,
+      "top_terms": [
+        "tried",
+        "tried vegan",
+        "vegan",
+        "think",
+        "pasta",
+        "rajma",
+        "pizza",
+        "pls",
+        "idli",
+        "photo",
+        "incoming",
+        "biryani"
+      ]
+    },
+    {
+      "topic": 4,
+      "top_terms": [
+        "yaar",
+        "lunch",
+        "lunch yaar",
+        "mom makes",
+        "amazing",
+        "makes",
+        "makes amazing",
+        "mom",
+        "homemade",
+        "better",
+        "pasta",
+        "pizza"
+      ]
+    },
+    {
+      "topic": 5,
+      "top_terms": [
+        "college",
+        "near college",
+        "place",
+        "best",
+        "best place",
+        "near",
+        "noodles",
+        "photo",
+        "incoming",
+        "diner",
+        "diner tonight",
+        "dal"
+      ]
+    },
+    {
+      "topic": 6,
+      "top_terms": [
+        "class",
+        "discussed",
+        "tell recipe",
+        "recipe",
+        "tell",
+        "sushi",
+        "craving",
+        "bad",
+        "highkey",
+        "dosa",
+        "think",
+        "pasta"
+      ]
+    },
+    {
+      "topic": 7,
+      "top_terms": [
+        "rn",
+        "wants",
+        "eating",
+        "pls",
+        "khayi",
+        "aaj",
+        "rn pls",
+        "dosa",
+        "rice",
+        "curd rice",
+        "curd",
+        "healthy"
+      ]
+    },
+    {
+      "topic": 8,
+      "top_terms": [
+        "lol",
+        "rating",
+        "order",
+        "sandwich",
+        "khichdi",
+        "salad",
+        "dal",
+        "just cooked",
+        "cooked",
+        "just",
+        "craving",
+        "bad"
+      ]
+    },
+    {
+      "topic": 9,
+      "top_terms": [
+        "tbh",
+        "overrated tbh",
+        "overrated",
+        "rice",
+        "curd rice",
+        "curd",
+        "better",
+        "homemade",
+        "think",
+        "sandwich",
+        "pav",
+        "pav bhaji"
+      ]
+    }
+  ]
+}

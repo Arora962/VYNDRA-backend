@@ -1,0 +1,10 @@
+{
+  "threshold": 0.9,
+  "uncapped_validation_optimum": 0.9966913011111053,
+  "validation_f1_at_threshold": 1.0,
+  "validation_precision_at_threshold": 1.0,
+  "validation_recall_at_threshold": 1.0,
+  "criterion": "maximise binary food-related nudge F1 on validation split only, then cap the threshold at 0.90 because synthetic templates saturate confidence; test split is not used to select threshold",
+  "model": "MultinomialNB",
+  "vectorizer": "bow_word"
+}

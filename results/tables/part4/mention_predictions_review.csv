@@ -1,0 +1,151 @@
+text,expected_food,detected_food,similarity,correct
+"I'm grabbing biriyani from the place near the metro, want anything?",biryani,biryani,85.71428571428572,True
+aaj dosa khayi and honestly it slapped 😭,dosa,dosa,100.0,True
+Can someone save me two idlis? running late lol,idli,idli,100.0,True
+I packed paneer wraps for the train ride,paneer,paneer,100.0,True
+"ordering piza now, drop your toppings fast",pizza,yogurt,83.33333333333334,False
+"Mumma made rajma chawal, I'm sending a pic",rajma,rajma,100.0,True
+"I'm eating poha before the lab, anyone want some?",poha,poha,100.0,True
+craving chole bhature so bad rn,chole,bhature,100.0,False
+"made a tiny bowl of khichri, finally something warm",khichdi,khichdi,85.71428571428572,True
+should I get sushi or just make noodles at home?,sushi,noodles,100.0,False
+bro the samosa filling is actually amazing today,samosa,samosa,100.0,True
+I have leftover paratha if anyone's hungry,paratha,paratha,100.0,True
+curd rice for lunch because this heat is unreal,curd rice,curd,100.0,False
+"just ordered dal makhani and naan, no regrets",dal makhani,dal,100.0,False
+I forgot lunch so I'm getting a sandwich rn,sandwich,sandwich,100.0,True
+"kya khau yaar, maybe masala dosa?",dosa,dosa,100.0,True
+made pastaa with way too much cheese lol,pasta,cheese,100.0,False
+can you add one more plate of pav bhaji to the order,pav bhaji,pav bhaji,100.0,True
+my dinner is aloo paratha and dahi tonight,paratha,paratha,100.0,True
+"sending you my homemade salad, tell me if it looks okay",salad,salad,100.0,True
+I need chai and pakoda immediately after this meeting,chai,chai,100.0,True
+"had biriyani for lunch, spelling aside it was fire",biryani,biryani,85.71428571428572,True
+"we're getting momos after class, come along?",momos,momos,100.0,True
+"I'm making upma, do you want a portion?",upma,upma,100.0,True
+the dosaa batter fermented perfectly this time 😌,dosa,dosa,100.0,True
+ordering chappati and dal for my flatmates,chapati,chappati,100.0,False
+I could demolish a plate of pani puri rn,pani puri,pani puri,100.0,True
+"lunch break = leftover biryani, elite behaviour",biryani,biryani,100.0,True
+"got a bowl of noodls, will send the menu photo",noodles,noodles,85.71428571428572,True
+I made tofu bhurji because paneer was finished,paneer,paneer,100.0,True
+anyone want the last slice of pizza?,pizza,pizza,100.0,True
+I'm trying that new dosa stall by the library today,dosa,dosa,100.0,True
+"finally eating something, just got a veg thali",thali,thali,100.0,True
+"aaj ghar pe aloo gobi bani hai, full comfort food",aloo gobi,aloo gobi,100.0,True
+"I packed idly and chutney, don't let me forget it",idli,chutney,100.0,False
+can we split a paneer tikka roll?,paneer,paneer,100.0,True
+my biriyani order says delivered but it's not here 😭,biryani,biryani,85.71428571428572,True
+"made a smoothie and toast, breakfast is sorted",toast,toast,100.0,True
+I'm picking up gulab jamun for dessert,gulab jamun,dessert,100.0,False
+"need something quick, maybe poha from the canteen",poha,poha,100.0,True
+I tried making dosaa and it stuck to the pan lol,dosa,dosa,100.0,True
+"please save me some rajma, I'll be there in ten",rajma,rajma,100.0,True
+just had a really good bowl of ramen,ramen,ramen,100.0,True
+I want a photo of the menu before we order,,,66.66666666666667,True
+anyone else having chole for dinner?,chole,chole,100.0,True
+my lunchbox has paratha and pickle today,paratha,paratha,100.0,True
+I am making dal khichdi because I'm exhausted,khichdi,dal,100.0,False
+send me the link to order that paneer pizza,paneer,paneer,100.0,True
+this samosaa is cold but I'm still eating it,samosa,samosa,100.0,True
+"got sushi for the first time, kinda obsessed",sushi,sushi,100.0,True
+Is the dosa batter supposed to smell a little sour?,dosa,dosa,100.0,True
+My nani's rajma recipe has black cardamom in it,rajma,rajma,100.0,True
+Which café around campus does decent panner rolls?,paneer,paneer,83.33333333333334,True
+I think homemade biryani tastes better the next day,biryani,biryani,100.0,True
+Does anyone know why my idli turns out dense?,idli,idli,100.0,True
+The debate is whether chole needs tea bags for colour,chole,chole,100.0,True
+What spices do you put in aloo gobi?,aloo gobi,aloo gobi,100.0,True
+"My friend says curd rice is only a summer dish, thoughts?",curd rice,curd,100.0,False
+Is there a good gluten-free alternative to paratha?,paratha,paratha,100.0,True
+The new pizza place uses a really thin crust,pizza,pizza,100.0,True
+Why does restaurant dal makhani taste so smoky?,dal makhani,dal,100.0,False
+I need a reliable recipe for soft chapati,chapati,chapati,100.0,True
+Anyone tried making pani puri water without mint?,pani puri,pani puri,100.0,True
+The canteen's poha is better than it has any right to be,poha,poha,100.0,True
+Would you put peanuts in upma or is that weird?,upma,upma,100.0,True
+My family argues about pineapple on pizza every week,pizza,apple,100.0,False
+I read that cooling rice changes its resistant starch,rice,rice,100.0,True
+What's your favourite filling for a dosa?,dosa,dosa,100.0,True
+Is panner tikka usually marinated overnight?,paneer,paneer tikka,91.66666666666666,False
+I can't tell if this biriyani recipe has too much oil,biryani,biryani,85.71428571428572,True
+Does anyone have a good vegan version of kheer?,kheer,kheer,100.0,True
+The difference between chaat masala brands is wild,chaat,chaat,100.0,True
+Would you count a samosaa as a snack or a full meal?,samosa,samosa,100.0,True
+I want to learn how to make restaurant-style noodles,noodles,noodles,100.0,True
+Why do some idli recipes add poha to the batter?,idli,idli,100.0,True
+"The best pav bhaji has a little beetroot, apparently",pav bhaji,pav bhaji,100.0,True
+Is tofu actually a fair substitute for panner in curry?,paneer,curry,100.0,False
+My aunt roasts the spices before grinding them for biryani,biryani,biryani,100.0,True
+Which oil gives paratha the best flaky layers?,paratha,paratha,100.0,True
+I saw a recipe for chocolate dosa and I'm confused,dosa,chocolate,100.0,False
+Do you wash basmati rice until the water runs clear?,rice,rice,100.0,True
+What is the least messy way to pack chole bhature?,chole,bhature,100.0,False
+The texture of fresh gulab jamun is completely different,gulab jamun,gulab jamun,100.0,True
+"My meal prep salad gets soggy by lunchtime, help",salad,salad,100.0,True
+Can I freeze leftover dal without ruining the texture?,dal,dal,100.0,True
+Aaj kal everyone is rating the same momo place,momos,momos,80.0,True
+I think lemon rice needs more curry leaves,rice,curry,100.0,False
+What's the difference between dosa and neer dosa batter?,dosa,dosa,100.0,True
+Is the panner in packaged wraps usually pre-fried?,paneer,paneer,83.33333333333334,True
+The biryani-vs-pulao argument will never end,biryani,biryani,100.0,True
+Would roasted makhana work as a crunchy salad topping?,salad,salad,100.0,True
+Why does restaurant sambar taste sweeter than mine?,sambar,sambar,100.0,True
+Anyone know if this ramen broth contains shellfish?,ramen,ramen,100.0,True
+The new menu has millet dosa and ragi idli,dosa,dosa,100.0,True
+Is reheated pizza better in a pan or the oven?,pizza,pizza,100.0,True
+"My recipe says add hing to rajma, is that common?",rajma,rajma,100.0,True
+The cafeteria renamed khichri as a wellness bowl lol,khichdi,khichdi,85.71428571428572,True
+How long can cooked paneer curry stay in the fridge?,paneer,curry,100.0,False
+Does anyone have a low-spice chole recipe?,chole,chole,100.0,True
+The best part of thali is trying a little of everything,thali,thali,100.0,True
+"That exam was a piece of cake, I finished early",,cake,100.0,False
+"I'm starving for attention, not actual food lol",,onion,80.0,False
+This assignment is cooking my brain,,,75.0,True
+I'm cooked for tomorrow's viva 😭,,,71.42857142857143,True
+Please send the slides before the lecture starts,,,75.0,True
+The new update broke my laptop audio,,,75.0,True
+I have a meeting at half past three,,pasta,80.0,False
+"That movie was food for thought, honestly",,,75.0,True
+The lecture went over my head completely,,,75.0,True
+My phone battery is at two percent again,,butter,83.33333333333334,False
+Can you review my resume tonight?,,,75.0,True
+The traffic near the station is ridiculous,,,75.0,True
+I'm hungry for a promotion at work,,onion,80.0,False
+She roasted me in front of the whole class,,chole,80.0,False
+I need a break from staring at this screen,,bread,80.0,False
+"That bug was easy to squash, finally",,,75.0,True
+The professor gave us a killer question,,,75.0,True
+I'm binge-watching that series tonight,,fries,80.0,False
+My train got delayed by forty minutes,,,66.66666666666667,True
+Can someone explain this calculus step?,,,75.0,True
+The app crashed the second I opened it,,,66.66666666666667,True
+I have butterflies before the presentation,,butter,100.0,False
+That was a sweet gesture from the team,,tea,100.0,False
+The discussion got spicy after the results,,,75.0,True
+"I'm craving a vacation, not dinner",,,75.0,True
+Our group chat is absolutely chaotic today,,chaat,80.0,False
+This code is giving me a headache,,,75.0,True
+I need to charge my earbuds before leaving,,,75.0,True
+The deadline moved to Friday morning,,onion,80.0,False
+He has a lot on his plate this semester,,,66.66666666666667,True
+My brain is fried after three back-to-back labs,,fries,80.0,False
+That was a bitter defeat for our team,,tea,100.0,False
+We need to break the ice at the workshop,,bread,80.0,False
+"I love this song, it's on repeat",,,66.66666666666667,True
+The printer refuses to connect to Wi-Fi,,,66.66666666666667,True
+"I'm thirsty for knowledge, send reading links",,bread,80.0,False
+Her feedback was a bit salty but useful,,,75.0,True
+The presentation template looks clean now,,,66.66666666666667,True
+I need to sleep before the early train,,,66.66666666666667,True
+"This task is a hot mess, please help",,,75.0,True
+My calendar is packed until next Tuesday,,,75.0,True
+That joke was cheesy but I laughed,,cheese,83.33333333333334,False
+I can't focus because the neighbours are drilling,,,75.0,True
+The exam paper was surprisingly light,,,75.0,True
+I have a lot of tabs open and no clue why,,,75.0,True
+The meeting got heated over the budget,,,66.66666666666667,True
+Please ping me when the build finishes,,,75.0,True
+I'm dying to know the final score,,,66.66666666666667,True
+The new keyboard feels nice to type on,,,75.0,True
+I need a little space to think this through,,,66.66666666666667,True

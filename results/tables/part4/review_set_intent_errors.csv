@@ -1,0 +1,45 @@
+text,label,sentiment_label,expected_food,review_status,predicted
+"I'm grabbing biryani from the place near the metro, want anything?",food_intent,positive,biryani,needs_human_review,food_discussion
+Can someone save me two idlis? running late lol,food_intent,neutral,idli,needs_human_review,not_food
+I packed paneer wraps for the train ride,food_intent,neutral,paneer,needs_human_review,not_food
+"made a tiny bowl of khichdi, finally something warm",food_intent,positive,khichdi,needs_human_review,food_discussion
+bro the samosa filling is actually amazing today,food_intent,positive,samosa,needs_human_review,food_discussion
+I have leftover paratha if anyone's hungry,food_intent,neutral,paratha,needs_human_review,food_discussion
+"sending you my homemade salad, tell me if it looks okay",food_intent,positive,salad,needs_human_review,food_discussion
+I need chai and pakoda immediately after this meeting,food_intent,neutral,chai,needs_human_review,not_food
+"we're getting momos after class, come along?",food_intent,positive,momos,needs_human_review,food_discussion
+"I'm making upma, do you want a portion?",food_intent,neutral,upma,needs_human_review,food_discussion
+the dosa batter fermented perfectly this time 😌,food_intent,positive,dosa,needs_human_review,not_food
+"got a bowl of noodles, will send the menu photo",food_intent,neutral,noodles,needs_human_review,not_food
+I made tofu bhurji because paneer was finished,food_intent,neutral,paneer,needs_human_review,not_food
+anyone want the last slice of pizza?,food_intent,neutral,pizza,needs_human_review,food_discussion
+I'm trying that new dosa stall by the library today,food_intent,neutral,dosa,needs_human_review,not_food
+"I packed idly and chutney, don't let me forget it",food_intent,neutral,idli,needs_human_review,not_food
+can we split a paneer tikka roll?,food_intent,neutral,paneer,needs_human_review,food_discussion
+"made a smoothie and toast, breakfast is sorted",food_intent,positive,toast,needs_human_review,food_discussion
+"need something quick, maybe poha from the canteen",food_intent,neutral,poha,needs_human_review,not_food
+I tried making dosa and it stuck to the pan lol,food_intent,negative,dosa,needs_human_review,food_discussion
+"please save me some rajma, I'll be there in ten",food_intent,neutral,rajma,needs_human_review,food_discussion
+my lunchbox has paratha and pickle today,food_intent,neutral,paratha,needs_human_review,food_discussion
+I am making dal khichdi because I'm exhausted,food_intent,neutral,khichdi,needs_human_review,food_discussion
+send me the link to order that paneer pizza,food_intent,neutral,paneer,needs_human_review,not_food
+Is the dosa batter supposed to smell a little sour?,food_discussion,neutral,dosa,needs_human_review,not_food
+Which café around campus does decent paneer rolls?,food_discussion,neutral,paneer,needs_human_review,food_intent
+The debate is whether chole needs tea bags for colour,food_discussion,neutral,chole,needs_human_review,not_food
+Is there a good gluten-free alternative to paratha?,food_discussion,neutral,paratha,needs_human_review,not_food
+I read that cooling rice changes its resistant starch,food_discussion,neutral,rice,needs_human_review,food_intent
+Is paneer tikka usually marinated overnight?,food_discussion,neutral,paneer,needs_human_review,food_intent
+The difference between chaat masala brands is wild,food_discussion,neutral,chaat,needs_human_review,not_food
+I want to learn how to make restaurant-style noodles,food_discussion,neutral,noodles,needs_human_review,food_intent
+The texture of fresh gulab jamun is completely different,food_discussion,positive,gulab jamun,needs_human_review,not_food
+"My meal prep salad gets soggy by lunchtime, help",food_discussion,negative,salad,needs_human_review,food_intent
+Can I freeze leftover dal without ruining the texture?,food_discussion,neutral,dal,needs_human_review,not_food
+The biryani-vs-pulao argument will never end,food_discussion,neutral,biryani,needs_human_review,not_food
+The new menu has millet dosa and ragi idli,food_discussion,positive,dosa,needs_human_review,food_intent
+The cafeteria renamed khichdi as a wellness bowl lol,food_discussion,neutral,khichdi,needs_human_review,not_food
+How long can cooked paneer curry stay in the fridge?,food_discussion,neutral,paneer,needs_human_review,food_intent
+The best part of thali is trying a little of everything,food_discussion,positive,thali,needs_human_review,not_food
+Can you review my resume tonight?,not_food,neutral,,needs_human_review,food_intent
+I'm binge-watching that series tonight,not_food,positive,,needs_human_review,food_intent
+"I'm craving a vacation, not dinner",not_food,neutral,,needs_human_review,food_intent
+I have a lot of tabs open and no clue why,not_food,neutral,,needs_human_review,food_discussion

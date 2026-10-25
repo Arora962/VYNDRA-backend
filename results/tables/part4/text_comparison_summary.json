@@ -1,0 +1,14 @@
+{
+  "best_model": {
+    "vectorizer": "bow_word",
+    "model": "MultinomialNB",
+    "validation_accuracy": 1.0,
+    "accuracy": 1.0,
+    "macro_precision": 1.0,
+    "macro_recall": 1.0,
+    "macro_f1": 1.0
+  },
+  "models_compared": 12,
+  "selection_criterion": "highest validation accuracy only; test macro-F1 is reported independently and not used for model selection",
+  "justification": "The chosen model is selected by validation accuracy, with test macro precision/recall/F1 reported only after selection. TF-IDF/BoW representations are compared across four model families. The calibrated pipeline provides class probabilities for threshold-based nudges. Synthetic template performance is optimistic; inspect misclassified rows and the hand-authored review set before production use."
+}

@@ -289,32 +289,19 @@ def user_insights(user_id):
 
 @bp.get("/foods/<path:food_name>/insights")
 def food_insights(food_name):
-    """Return conservative nutrition-tag insights without pretending clustering is complete."""
-    from .nutrition import normalize_food_name
+    """Return cluster-aware insights when the food-clustering analysis has been run."""
     try:
-        food = find_food(food_name)
-        if not food.get("found"):
+        from .recommend import food_insights as compute_food_insights
+        result = compute_food_insights(food_name, diet=request.args.get("diet"))
+        if not result.get("found"):
             return jsonify({"error": "Food not found in the nutrition table."}), 404
-        tags = [x.strip() for x in str(food.get("diet_tags", "")).replace(";", ",").split(",") if x.strip() and x.strip().casefold() != "none"]
-        allergen_tags = [x.strip() for x in str(food.get("allergens", "")).replace(";", ",").split(",") if x.strip() and x.strip().casefold() != "none"]
-        best_time = str(food.get("best_time_to_eat") or "Not specified")
-        swaps = []
-        try:
-            table = get_food_table()
-            source_kcal = float(food["energy_kcal"])
-            if source_kcal > 0:
-                candidates = table[(table["energy_kcal"] <= source_kcal * 0.85) & (table["_normalized_name"] != normalize_food_name(food_name))]
-                for row in candidates.sort_values("energy_kcal").head(5).itertuples(index=False):
-                    name = str(getattr(row, "food_name"))
-                    kcal = float(getattr(row, "energy_kcal"))
-                    swaps.append({"food": name, "kcal_saving_pct": round((source_kcal-kcal)/source_kcal*100, 1)})
-        except Exception:
-            logger.exception("Could not compute food swap candidates")
-        return jsonify({"food": food["food_name"], "cluster": {"description": "Nutritional clustering will be added in Part 3; no cluster assignment is claimed yet."},
-                        "allergens": allergen_tags, "diet_tags": tags, "best_time": best_time, "swaps": swaps,
-                        "note": "Diet tags are rule-generated; lower calories alone do not guarantee a healthier choice."})
+        # Keep the frontend contract stable; diagnostics remain optional extra fields.
+        return jsonify({key: value for key, value in result.items() if key != "found"})
+    except FileNotFoundError:
+        logger.exception("Nutrition or diet-tag file is missing")
+        return jsonify({"error": "Food insights data is unavailable."}), 503
     except Exception:
-        logger.exception("Could not load food insights")
+        logger.exception("Could not compute food insights")
         return jsonify({"error": "Food insights are unavailable."}), 500
 
 

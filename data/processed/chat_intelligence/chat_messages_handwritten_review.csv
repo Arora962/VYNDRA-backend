@@ -1,0 +1,151 @@
+text,label,sentiment_label,expected_food,review_status
+"I'm grabbing biryani from the place near the metro, want anything?",food_intent,positive,biryani,needs_human_review
+aaj dosa khayi and honestly it slapped 😭,food_intent,positive,dosa,needs_human_review
+Can someone save me two idlis? running late lol,food_intent,neutral,idli,needs_human_review
+I packed paneer wraps for the train ride,food_intent,neutral,paneer,needs_human_review
+"ordering pizza now, drop your toppings fast",food_intent,neutral,pizza,needs_human_review
+"Mumma made rajma chawal, I'm sending a pic",food_intent,positive,rajma,needs_human_review
+"I'm eating poha before the lab, anyone want some?",food_intent,neutral,poha,needs_human_review
+craving chole bhature so bad rn,food_intent,positive,chole,needs_human_review
+"made a tiny bowl of khichdi, finally something warm",food_intent,positive,khichdi,needs_human_review
+should I get sushi or just make noodles at home?,food_intent,neutral,sushi,needs_human_review
+bro the samosa filling is actually amazing today,food_intent,positive,samosa,needs_human_review
+I have leftover paratha if anyone's hungry,food_intent,neutral,paratha,needs_human_review
+curd rice for lunch because this heat is unreal,food_intent,neutral,curd rice,needs_human_review
+"just ordered dal makhani and naan, no regrets",food_intent,positive,dal makhani,needs_human_review
+I forgot lunch so I'm getting a sandwich rn,food_intent,neutral,sandwich,needs_human_review
+"kya khau yaar, maybe masala dosa?",food_intent,neutral,dosa,needs_human_review
+made pasta with way too much cheese lol,food_intent,positive,pasta,needs_human_review
+can you add one more plate of pav bhaji to the order,food_intent,neutral,pav bhaji,needs_human_review
+my dinner is aloo paratha and dahi tonight,food_intent,neutral,paratha,needs_human_review
+"sending you my homemade salad, tell me if it looks okay",food_intent,positive,salad,needs_human_review
+I need chai and pakoda immediately after this meeting,food_intent,neutral,chai,needs_human_review
+"had biriyani for lunch, spelling aside it was fire",food_intent,positive,biryani,needs_human_review
+"we're getting momos after class, come along?",food_intent,positive,momos,needs_human_review
+"I'm making upma, do you want a portion?",food_intent,neutral,upma,needs_human_review
+the dosa batter fermented perfectly this time 😌,food_intent,positive,dosa,needs_human_review
+ordering chappati and dal for my flatmates,food_intent,neutral,chapati,needs_human_review
+I could demolish a plate of pani puri rn,food_intent,positive,pani puri,needs_human_review
+"lunch break = leftover biryani, elite behaviour",food_intent,positive,biryani,needs_human_review
+"got a bowl of noodles, will send the menu photo",food_intent,neutral,noodles,needs_human_review
+I made tofu bhurji because paneer was finished,food_intent,neutral,paneer,needs_human_review
+anyone want the last slice of pizza?,food_intent,neutral,pizza,needs_human_review
+I'm trying that new dosa stall by the library today,food_intent,neutral,dosa,needs_human_review
+"finally eating something, just got a veg thali",food_intent,positive,thali,needs_human_review
+"aaj ghar pe aloo gobi bani hai, full comfort food",food_intent,positive,aloo gobi,needs_human_review
+"I packed idly and chutney, don't let me forget it",food_intent,neutral,idli,needs_human_review
+can we split a paneer tikka roll?,food_intent,neutral,paneer,needs_human_review
+my biryani order says delivered but it's not here 😭,food_intent,negative,biryani,needs_human_review
+"made a smoothie and toast, breakfast is sorted",food_intent,positive,toast,needs_human_review
+I'm picking up gulab jamun for dessert,food_intent,positive,gulab jamun,needs_human_review
+"need something quick, maybe poha from the canteen",food_intent,neutral,poha,needs_human_review
+I tried making dosa and it stuck to the pan lol,food_intent,negative,dosa,needs_human_review
+"please save me some rajma, I'll be there in ten",food_intent,neutral,rajma,needs_human_review
+just had a really good bowl of ramen,food_intent,positive,ramen,needs_human_review
+I want a photo of the menu before we order,food_intent,neutral,,needs_human_review
+anyone else having chole for dinner?,food_intent,neutral,chole,needs_human_review
+my lunchbox has paratha and pickle today,food_intent,neutral,paratha,needs_human_review
+I am making dal khichdi because I'm exhausted,food_intent,neutral,khichdi,needs_human_review
+send me the link to order that paneer pizza,food_intent,neutral,paneer,needs_human_review
+this samosa is cold but I'm still eating it,food_intent,negative,samosa,needs_human_review
+"got sushi for the first time, kinda obsessed",food_intent,positive,sushi,needs_human_review
+Is the dosa batter supposed to smell a little sour?,food_discussion,neutral,dosa,needs_human_review
+My nani's rajma recipe has black cardamom in it,food_discussion,positive,rajma,needs_human_review
+Which café around campus does decent paneer rolls?,food_discussion,neutral,paneer,needs_human_review
+I think homemade biryani tastes better the next day,food_discussion,positive,biryani,needs_human_review
+Does anyone know why my idli turns out dense?,food_discussion,neutral,idli,needs_human_review
+The debate is whether chole needs tea bags for colour,food_discussion,neutral,chole,needs_human_review
+What spices do you put in aloo gobi?,food_discussion,neutral,aloo gobi,needs_human_review
+"My friend says curd rice is only a summer dish, thoughts?",food_discussion,neutral,curd rice,needs_human_review
+Is there a good gluten-free alternative to paratha?,food_discussion,neutral,paratha,needs_human_review
+The new pizza place uses a really thin crust,food_discussion,positive,pizza,needs_human_review
+Why does restaurant dal makhani taste so smoky?,food_discussion,neutral,dal makhani,needs_human_review
+I need a reliable recipe for soft chapati,food_discussion,neutral,chapati,needs_human_review
+Anyone tried making pani puri water without mint?,food_discussion,neutral,pani puri,needs_human_review
+The canteen's poha is better than it has any right to be,food_discussion,positive,poha,needs_human_review
+Would you put peanuts in upma or is that weird?,food_discussion,neutral,upma,needs_human_review
+My family argues about pineapple on pizza every week,food_discussion,neutral,pizza,needs_human_review
+I read that cooling rice changes its resistant starch,food_discussion,neutral,rice,needs_human_review
+What's your favourite filling for a dosa?,food_discussion,positive,dosa,needs_human_review
+Is paneer tikka usually marinated overnight?,food_discussion,neutral,paneer,needs_human_review
+I can't tell if this biriyani recipe has too much oil,food_discussion,negative,biryani,needs_human_review
+Does anyone have a good vegan version of kheer?,food_discussion,neutral,kheer,needs_human_review
+The difference between chaat masala brands is wild,food_discussion,neutral,chaat,needs_human_review
+Would you count a samosa as a snack or a full meal?,food_discussion,neutral,samosa,needs_human_review
+I want to learn how to make restaurant-style noodles,food_discussion,neutral,noodles,needs_human_review
+Why do some idli recipes add poha to the batter?,food_discussion,neutral,idli,needs_human_review
+"The best pav bhaji has a little beetroot, apparently",food_discussion,positive,pav bhaji,needs_human_review
+Is tofu actually a fair substitute for paneer in curry?,food_discussion,neutral,paneer,needs_human_review
+My aunt roasts the spices before grinding them for biryani,food_discussion,positive,biryani,needs_human_review
+Which oil gives paratha the best flaky layers?,food_discussion,neutral,paratha,needs_human_review
+I saw a recipe for chocolate dosa and I'm confused,food_discussion,neutral,dosa,needs_human_review
+Do you wash basmati rice until the water runs clear?,food_discussion,neutral,rice,needs_human_review
+What is the least messy way to pack chole bhature?,food_discussion,neutral,chole,needs_human_review
+The texture of fresh gulab jamun is completely different,food_discussion,positive,gulab jamun,needs_human_review
+"My meal prep salad gets soggy by lunchtime, help",food_discussion,negative,salad,needs_human_review
+Can I freeze leftover dal without ruining the texture?,food_discussion,neutral,dal,needs_human_review
+Aaj kal everyone is rating the same momo place,food_discussion,neutral,momos,needs_human_review
+I think lemon rice needs more curry leaves,food_discussion,neutral,rice,needs_human_review
+What's the difference between dosa and neer dosa batter?,food_discussion,neutral,dosa,needs_human_review
+Is the paneer in packaged wraps usually pre-fried?,food_discussion,neutral,paneer,needs_human_review
+The biryani-vs-pulao argument will never end,food_discussion,neutral,biryani,needs_human_review
+Would roasted makhana work as a crunchy salad topping?,food_discussion,neutral,salad,needs_human_review
+Why does restaurant sambar taste sweeter than mine?,food_discussion,neutral,sambar,needs_human_review
+Anyone know if this ramen broth contains shellfish?,food_discussion,neutral,ramen,needs_human_review
+The new menu has millet dosa and ragi idli,food_discussion,positive,dosa,needs_human_review
+Is reheated pizza better in a pan or the oven?,food_discussion,neutral,pizza,needs_human_review
+"My recipe says add hing to rajma, is that common?",food_discussion,neutral,rajma,needs_human_review
+The cafeteria renamed khichdi as a wellness bowl lol,food_discussion,neutral,khichdi,needs_human_review
+How long can cooked paneer curry stay in the fridge?,food_discussion,neutral,paneer,needs_human_review
+Does anyone have a low-spice chole recipe?,food_discussion,neutral,chole,needs_human_review
+The best part of thali is trying a little of everything,food_discussion,positive,thali,needs_human_review
+"That exam was a piece of cake, I finished early",not_food,positive,,needs_human_review
+"I'm starving for attention, not actual food lol",not_food,negative,,needs_human_review
+This assignment is cooking my brain,not_food,negative,,needs_human_review
+I'm cooked for tomorrow's viva 😭,not_food,negative,,needs_human_review
+Please send the slides before the lecture starts,not_food,neutral,,needs_human_review
+The new update broke my laptop audio,not_food,negative,,needs_human_review
+I have a meeting at half past three,not_food,neutral,,needs_human_review
+"That movie was food for thought, honestly",not_food,neutral,,needs_human_review
+The lecture went over my head completely,not_food,negative,,needs_human_review
+My phone battery is at two percent again,not_food,negative,,needs_human_review
+Can you review my resume tonight?,not_food,neutral,,needs_human_review
+The traffic near the station is ridiculous,not_food,negative,,needs_human_review
+I'm hungry for a promotion at work,not_food,neutral,,needs_human_review
+She roasted me in front of the whole class,not_food,negative,,needs_human_review
+I need a break from staring at this screen,not_food,negative,,needs_human_review
+"That bug was easy to squash, finally",not_food,positive,,needs_human_review
+The professor gave us a killer question,not_food,neutral,,needs_human_review
+I'm binge-watching that series tonight,not_food,positive,,needs_human_review
+My train got delayed by forty minutes,not_food,negative,,needs_human_review
+Can someone explain this calculus step?,not_food,neutral,,needs_human_review
+The app crashed the second I opened it,not_food,negative,,needs_human_review
+I have butterflies before the presentation,not_food,neutral,,needs_human_review
+That was a sweet gesture from the team,not_food,positive,,needs_human_review
+The discussion got spicy after the results,not_food,neutral,,needs_human_review
+"I'm craving a vacation, not dinner",not_food,neutral,,needs_human_review
+Our group chat is absolutely chaotic today,not_food,neutral,,needs_human_review
+This code is giving me a headache,not_food,negative,,needs_human_review
+I need to charge my earbuds before leaving,not_food,neutral,,needs_human_review
+The deadline moved to Friday morning,not_food,neutral,,needs_human_review
+He has a lot on his plate this semester,not_food,neutral,,needs_human_review
+My brain is fried after three back-to-back labs,not_food,negative,,needs_human_review
+That was a bitter defeat for our team,not_food,negative,,needs_human_review
+We need to break the ice at the workshop,not_food,neutral,,needs_human_review
+"I love this song, it's on repeat",not_food,positive,,needs_human_review
+The printer refuses to connect to Wi-Fi,not_food,negative,,needs_human_review
+"I'm thirsty for knowledge, send reading links",not_food,neutral,,needs_human_review
+Her feedback was a bit salty but useful,not_food,neutral,,needs_human_review
+The presentation template looks clean now,not_food,positive,,needs_human_review
+I need to sleep before the early train,not_food,neutral,,needs_human_review
+"This task is a hot mess, please help",not_food,negative,,needs_human_review
+My calendar is packed until next Tuesday,not_food,neutral,,needs_human_review
+That joke was cheesy but I laughed,not_food,positive,,needs_human_review
+I can't focus because the neighbours are drilling,not_food,negative,,needs_human_review
+The exam paper was surprisingly light,not_food,positive,,needs_human_review
+I have a lot of tabs open and no clue why,not_food,neutral,,needs_human_review
+The meeting got heated over the budget,not_food,negative,,needs_human_review
+Please ping me when the build finishes,not_food,neutral,,needs_human_review
+I'm dying to know the final score,not_food,neutral,,needs_human_review
+The new keyboard feels nice to type on,not_food,positive,,needs_human_review
+I need a little space to think this through,not_food,neutral,,needs_human_review
