@@ -1,0 +1,5 @@
+text,food_intent,food_mentions,sentiment
+I'm craving dosa and chutney for dinner!,food_intent,dosa|chutney,neutral
+That biryani was amazing.,food_discussion,biryani,positive
+The weather is nice today.,not_food,,positive
+I feel tired and don't want to eat.,food_intent,,negative

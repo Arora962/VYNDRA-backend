@@ -1,0 +1,31 @@
+text,true_label,predicted_label
+This meal is wonderful and delicious,positive,positive
+I absolutely love this tasty pizza,positive,positive
+The food was excellent and fresh,positive,positive
+That dessert made me so happy,positive,positive
+This is the best biryani I have had,positive,positive
+The soup tastes amazing,positive,positive
+I enjoyed every bite of dinner,positive,positive
+What a lovely restaurant and meal,positive,positive
+The dosa was fantastic,positive,positive
+I am delighted with this recipe,positive,positive
+The food was awful and disgusting,negative,negative
+I hated the taste of that soup,negative,negative
+This pizza was cold and terrible,negative,negative
+The meal was disappointing,negative,negative
+I feel sick after eating that,negative,negative
+The curry was burnt and bitter,negative,negative
+That was the worst restaurant experience,negative,negative
+The dessert was stale and unpleasant,negative,negative
+I regret ordering this tasteless food,negative,negative
+The chicken was overcooked and dry,negative,neutral
+I ate lunch at noon,neutral,neutral
+The menu includes rice and vegetables,neutral,neutral
+I ordered tea with my meal,neutral,neutral
+The restaurant opens at nine,neutral,neutral
+I cooked pasta yesterday,neutral,neutral
+There is an apple on the table,neutral,neutral
+I usually eat breakfast at home,neutral,neutral
+The recipe needs two tomatoes,neutral,neutral
+I had a sandwich before class,neutral,neutral
+The food arrived in a paper bag,neutral,neutral

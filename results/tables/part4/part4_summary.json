@@ -1,0 +1,12 @@
+{
+  "intent_accuracy": 0.7,
+  "intent_macro_f1": 0.6961636828644502,
+  "mention_precision": 1.0,
+  "mention_recall": 1.0,
+  "mention_f1": 1.0,
+  "sentiment_accuracy": 0.9666666666666667,
+  "sentiment_macro_f1": 0.9665831244778613,
+  "topic_count": 4,
+  "topic_documents": 20,
+  "note": "Use these results as baseline results only. The included examples are small and hand-labelled."
+}

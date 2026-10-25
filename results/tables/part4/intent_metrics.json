@@ -1,0 +1,40 @@
+{
+  "test_examples": 30,
+  "accuracy": 0.7,
+  "macro_f1": 0.6961636828644502,
+  "classification_report": {
+    "food_discussion": {
+      "precision": 0.8571428571428571,
+      "recall": 0.6,
+      "f1-score": 0.7058823529411765,
+      "support": 10.0
+    },
+    "food_intent": {
+      "precision": 0.6923076923076923,
+      "recall": 0.9,
+      "f1-score": 0.782608695652174,
+      "support": 10.0
+    },
+    "not_food": {
+      "precision": 0.6,
+      "recall": 0.6,
+      "f1-score": 0.6,
+      "support": 10.0
+    },
+    "accuracy": 0.7,
+    "macro avg": {
+      "precision": 0.7164835164835165,
+      "recall": 0.7000000000000001,
+      "f1-score": 0.6961636828644502,
+      "support": 30.0
+    },
+    "weighted avg": {
+      "precision": 0.7164835164835165,
+      "recall": 0.7,
+      "f1-score": 0.6961636828644501,
+      "support": 30.0
+    }
+  },
+  "random_state": 42,
+  "caveat": "Small hand-labelled demo dataset; results are a baseline, not production validation."
+}

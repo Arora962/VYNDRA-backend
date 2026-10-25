@@ -1,0 +1,13 @@
+text,gold_mentions
+"I ate dosa and idli for breakfast","dosa|idli"
+"Let's order pizza tonight","pizza"
+"I had chicken tikka masala and naan","chicken tikka masala|naan"
+"She made dal makhani with rice","dal makhani|rice"
+"I drank chai and ate samosa","chai|samosa"
+"The weather is lovely today",""
+"I love gulab jamun after dinner","gulab jamun"
+"Can we have a burger and fries?","burger|fries"
+"I packed an apple and a banana","apple|banana"
+"The project deadline is tomorrow",""
+"My lunch was paneer tikka and roti","paneer tikka|roti"
+"I want ice cream","ice cream"

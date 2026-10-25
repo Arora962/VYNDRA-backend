@@ -1,0 +1,94 @@
+# One food phrase per line. Add or edit terms as your project needs.
+dosa
+idli
+pizza
+burger
+fries
+biryani
+paneer tikka
+paneer curry
+paneer
+chicken tikka masala
+chicken tikka
+chicken
+butter chicken
+dal makhani
+dal
+rice
+naan
+roti
+chapati
+chappati
+chole bhature
+chole
+bhature
+samosa
+samosas
+chai
+tea
+coffee
+ice cream
+gulab jamun
+gulab jamoon
+pasta
+noodles
+soup
+sandwich
+apple
+banana
+orange
+mango
+mangoes
+fruit
+fruit salad
+yogurt
+yoghurt
+oats
+eggs
+egg
+toast
+pancakes
+cake
+chocolate cake
+dessert
+salad
+spinach
+tomato
+tomatoes
+onion
+onions
+vegetables
+curry
+chutney
+aloo gobi
+aloo gobi masala
+sushi
+samosa chaat
+paratha
+parotta
+idiyappam
+appam
+upma
+poha
+vada
+vada pav
+pav bhaji
+rajma
+chana masala
+chana
+rasam
+sambar
+sambhar
+curd
+milk
+bread
+butter
+cheese
+chocolate
+cookies
+biscuit
+biscuit
+popcorn
+lemon
+pepper
+```

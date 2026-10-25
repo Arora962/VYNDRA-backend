@@ -1,0 +1,121 @@
+text,label
+"I'm craving dosa right now",food_intent
+"I want to eat something spicy",food_intent
+"Let's order pizza for dinner",food_intent
+"I'm hungry, what should I eat?",food_intent
+"Can we get biryani tonight?",food_intent
+"I feel like having ice cream",food_intent
+"Should I order a burger?",food_intent
+"I need a snack before class",food_intent
+"Let's get some noodles",food_intent
+"I'm in the mood for chole bhature",food_intent
+"Where can we buy good idli?",food_intent
+"Can you suggest a place for dosa?",food_intent
+"I want to grab lunch soon",food_intent
+"Let's have paneer tikka",food_intent
+"I'm starving, let's find food",food_intent
+"Should we cook pasta tonight?",food_intent
+"I could really go for chocolate cake",food_intent
+"Let's get chai and samosa",food_intent
+"I want something sweet after dinner",food_intent
+"Order some butter chicken please",food_intent
+"I haven't eaten since morning",food_intent
+"Let's try a new restaurant for lunch",food_intent
+"I want to make aloo gobi today",food_intent
+"Can we have pancakes for breakfast?",food_intent
+"I'm craving gulab jamun",food_intent
+"Let's grab a quick bite",food_intent
+"Any ideas for a healthy dinner?",food_intent
+"I want to eat more vegetables today",food_intent
+"Can you pick up some naan?",food_intent
+"I'm hungry after my workout",food_intent
+"I am going to eat dal makhani",food_intent
+"Let's get food delivered",food_intent
+"I could eat a whole pizza",food_intent
+"Do you want to share fries?",food_intent
+"Let's make a sandwich",food_intent
+"I need breakfast before leaving",food_intent
+"Do we have anything to eat at home?",food_intent
+"I want to try sushi",food_intent
+"Let's buy some fruit for a snack",food_intent
+"Can you make tea for me?",food_intent
+"I just ate dosa for breakfast",food_discussion
+"I had biryani with my friends",food_discussion
+"The pizza we ordered was cold",food_discussion
+"My lunch was dal and rice",food_discussion
+"I ate an apple after class",food_discussion
+"That restaurant serves great idli",food_discussion
+"I made pasta yesterday",food_discussion
+"My favourite dessert is gulab jamun",food_discussion
+"The soup was too salty",food_discussion
+"I usually eat oats in the morning",food_discussion
+"She brought samosas to the party",food_discussion
+"I packed a sandwich for work",food_discussion
+"The burger had too much sauce",food_discussion
+"We cooked paneer tikka at home",food_discussion
+"I drank chai on the train",food_discussion
+"The cake was for my birthday",food_discussion
+"Fruit salad is refreshing in summer",food_discussion
+"I tried sushi for the first time",food_discussion
+"My dinner was ready at eight",food_discussion
+"I added spinach to the curry",food_discussion
+"The naan was freshly baked",food_discussion
+"We shared noodles at lunch",food_discussion
+"My breakfast included eggs and toast",food_discussion
+"I don't like overly sweet desserts",food_discussion
+"The café has excellent coffee",food_discussion
+"Grandma taught me to make dosa",food_discussion
+"I had a bowl of soup",food_discussion
+"That meal included rice and vegetables",food_discussion
+"The chutney tastes fresh",food_discussion
+"I bought mangoes at the market",food_discussion
+"Chicken tikka is on the menu",food_discussion
+"The salad came with lemon dressing",food_discussion
+"We tried a new bakery yesterday",food_discussion
+"The curry needs more salt",food_discussion
+"I ate an orange after lunch",food_discussion
+"The recipe uses tomatoes and onions",food_discussion
+"Please pass the pepper",food_discussion
+"Food prices are rising this month",food_discussion
+"The menu lists three vegetarian options",food_discussion
+"I enjoy learning new recipes",food_discussion
+"The meeting starts at ten",not_food
+"I will call you after class",not_food
+"The weather is sunny today",not_food
+"I finished my programming assignment",not_food
+"Can you send me the notes?",not_food
+"The bus is running late",not_food
+"I need to charge my phone",not_food
+"Let's meet near the library",not_food
+"I watched a movie last night",not_food
+"The exam is next Friday",not_food
+"I am going to the gym",not_food
+"Please share the presentation slides",not_food
+"My laptop battery is low",not_food
+"I will be home by six",not_food
+"The train arrives in twenty minutes",not_food
+"I have a doctor appointment tomorrow",not_food
+"That song is stuck in my head",not_food
+"Can we reschedule the call?",not_food
+"I need to buy a notebook",not_food
+"The package arrived this morning",not_food
+"I am learning Python",not_food
+"Did you finish the report?",not_food
+"The room is too cold",not_food
+"I forgot my umbrella",not_food
+"Let's go for a walk",not_food
+"She sent me a funny video",not_food
+"I need some sleep",not_food
+"The shop closes at nine",not_food
+"My favourite colour is blue",not_food
+"I will submit the form today",not_food
+"Are you free this weekend?",not_food
+"The Wi-Fi is not working",not_food
+"I lost my keys",not_food
+"Can you help me with this code?",not_food
+"I have a lot of work today",not_food
+"The lecture was interesting",not_food
+"I am travelling next month",not_food
+"Please open the window",not_food
+"I need to clean my room",not_food
+"See you tomorrow morning",not_food

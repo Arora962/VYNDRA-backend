@@ -1,0 +1,13 @@
+text,gold_mentions,predicted_mentions,true_positive,false_positive,false_negative
+I ate dosa and idli for breakfast,dosa|idli,dosa|idli,2,0,0
+Let's order pizza tonight,pizza,pizza,1,0,0
+I had chicken tikka masala and naan,chicken tikka masala|naan,chicken tikka masala|naan,2,0,0
+She made dal makhani with rice,dal makhani|rice,dal makhani|rice,2,0,0
+I drank chai and ate samosa,chai|samosa,chai|samosa,2,0,0
+The weather is lovely today,,,0,0,0
+I love gulab jamun after dinner,gulab jamun,gulab jamun,1,0,0
+Can we have a burger and fries?,burger|fries,burger|fries,2,0,0
+I packed an apple and a banana,apple|banana,apple|banana,2,0,0
+The project deadline is tomorrow,,,0,0,0
+My lunch was paneer tikka and roti,paneer tikka|roti,paneer tikka|roti,2,0,0
+I want ice cream,ice cream,ice cream,1,0,0

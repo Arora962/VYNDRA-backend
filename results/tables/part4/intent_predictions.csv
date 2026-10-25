@@ -1,0 +1,31 @@
+text,true_label,predicted_label
+The train arrives in twenty minutes,not_food,food_discussion
+Can you make tea for me?,food_intent,food_intent
+Let's get chai and samosa,food_intent,food_intent
+The menu lists three vegetarian options,food_discussion,food_discussion
+My favourite dessert is gulab jamun,food_discussion,not_food
+Let's grab a quick bite,food_intent,food_intent
+I drank chai on the train,food_discussion,food_discussion
+Can we reschedule the call?,not_food,food_intent
+She brought samosas to the party,food_discussion,not_food
+I'm craving gulab jamun,food_intent,food_intent
+Let's have paneer tikka,food_intent,food_intent
+The room is too cold,not_food,not_food
+The chutney tastes fresh,food_discussion,not_food
+I don't like overly sweet desserts,food_discussion,food_intent
+She sent me a funny video,not_food,not_food
+I will be home by six,not_food,not_food
+Let's get some noodles,food_intent,food_intent
+Let's meet near the library,not_food,food_intent
+My dinner was ready at eight,food_discussion,food_discussion
+I have a doctor appointment tomorrow,not_food,not_food
+"I'm hungry, what should I eat?",food_intent,food_intent
+I want to eat something spicy,food_intent,food_intent
+My breakfast included eggs and toast,food_discussion,food_discussion
+I forgot my umbrella,not_food,not_food
+The naan was freshly baked,food_discussion,food_discussion
+I am learning Python,not_food,not_food
+I haven't eaten since morning,food_intent,not_food
+Let's go for a walk,not_food,food_intent
+We tried a new bakery yesterday,food_discussion,food_discussion
+Let's buy some fruit for a snack,food_intent,food_intent

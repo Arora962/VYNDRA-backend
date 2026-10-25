@@ -1,0 +1,31 @@
+text,label
+"This meal is wonderful and delicious",positive
+"I absolutely love this tasty pizza",positive
+"The food was excellent and fresh",positive
+"That dessert made me so happy",positive
+"This is the best biryani I have had",positive
+"The soup tastes amazing",positive
+"I enjoyed every bite of dinner",positive
+"What a lovely restaurant and meal",positive
+"The dosa was fantastic",positive
+"I am delighted with this recipe",positive
+"The food was awful and disgusting",negative
+"I hated the taste of that soup",negative
+"This pizza was cold and terrible",negative
+"The meal was disappointing",negative
+"I feel sick after eating that",negative
+"The curry was burnt and bitter",negative
+"That was the worst restaurant experience",negative
+"The dessert was stale and unpleasant",negative
+"I regret ordering this tasteless food",negative
+"The chicken was overcooked and dry",negative
+"I ate lunch at noon",neutral
+"The menu includes rice and vegetables",neutral
+"I ordered tea with my meal",neutral
+"The restaurant opens at nine",neutral
+"I cooked pasta yesterday",neutral
+"There is an apple on the table",neutral
+"I usually eat breakfast at home",neutral
+"The recipe needs two tomatoes",neutral
+"I had a sandwich before class",neutral
+"The food arrived in a paper bag",neutral
