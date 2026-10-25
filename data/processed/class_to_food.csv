@@ -1,0 +1,116 @@
+class_name,food_name,match_type
+allo gobi,Potato cauliflower (Aloo gobhi),family
+aloo gobi masala,Potato cauliflower (Aloo gobhi),family
+appam,Appam,exact
+avial,Avial,exact
+baigan chura brinjal fry,Brinjal bhartha (Baingan ka bhartha),family
+basmati rice,Boiled rice (Uble chawal),family
+biryani,Vegetable biryani/biriyani,family
+brinjal bharta,Brinjal bhartha (Baingan ka bhartha),family
+butter chicken,Butter chicken,exact
+butter naan,Naan,family
+cake,Plain cream cake,family
+chappati,Chapati/Roti,family
+chaula ganta mushroom curry,Pea mushroom curry (Matar mushroom),family
+cheesy garlic naan,Naan,family
+chepala pulusu fish curry,Fish curry (Machli curry),family
+chicken chettinad,Chicken curry,family
+chicken curry,Chicken curry,exact
+chicken fried rice,Chinese fried rice,family
+chicken fry,Chilli chicken,family
+chicken kabab,Chicken kebab,exact
+chicken noodle soup,Chicken sweet corn soup,family
+chicken noodles,Chicken chowmein,family
+chicken pulao,Chicken pulao,exact
+chicken rassa,Chicken curry,family
+chicken tikka masala,Shahi chicken masala,family
+chingri malai curry,Prawn curry (with coconut) (Jhinga curry),family
+chole chickpea curry,Chickpeas curry (Safed channa curry),family
+chowmein,Vegetable chowmein,family
+cocunut chutney,Coconut chutney (Nariyal ki chutney),exact
+coffee,Instant coffee,family
+cream based soup,Cream of mixed vegetable soup,family
+crevettes malabari,Prawn curry (with coconut) (Jhinga curry),family
+curd rice,Curd rice (Dahi bhaat/Dahi chawal/ Perugu annam/Daddojanam/Thayir saadam),exact
+dal bengal,Split bengal gram dal (Channa dal),family
+dal makhani,Dal makhani,exact
+dalma,Dalma,exact
+dosa plain,Plain dosa,family
+dudhi chana nu shaak,Split bengal gram with bottle gourd (Channa dal with ghiya/lauki),family
+eera kara kuzhambu shrimp,Prawn curry (with coconut) (Jhinga curry),family
+egg fried rice,Chinese fried rice,family
+egg noodles,Home made egg noodles,family
+fish curry,Fish curry (Machli curry),exact
+fish tikka,Fish tikka,exact
+garlice naan,Naan,family
+gulab jamoon,Gulab Jamun with khoya,family
+gustaba,Kashmiri mutton koftas (Gushtaba),family
+huli saaru tamarind rasam,Rasam with tamarind (Puli rasam/ Chintapandu rasam/ Charu/Saaru),family
+ice icream,Vanilla ice cream without egg,family
+idly,Idli,exact
+kadhi,Besan kadhi with pakodies,family
+kara vada,Masala vada,family
+kimchi fried rice,Chinese fried rice,family
+kodi pulusu  chicken curry,Chicken curry,family
+kulfi,Kulfi,exact
+lasagna,Lasagne with meat sauce,family
+lemon rice,"Lemon rice (Pulihora, Elumichai sadam, Chitranna)",exact
+lentil soup,Lentil soup,exact
+mac and cheese,Macroni cheese pie,family
+masala dosa,Masala dosa,exact
+masala idly,Idli,family
+matar  peas pulao,Peas pulao (Matar pulao),family
+matar paneer,Pea paneer curry (Matar paneer),family
+medu vada,Plain urad dal vada (Uzunne vada/Minapa garelu/Ulundu vadai/Medu vada),exact
+meen kara kuzhambu fish,Fish curry (Machli curry),family
+meen kulambu fish curry,Fish curry (Machli curry),family
+meen moilee fish molee,Fish in coconut milk (Nariyal ke doodh ke saath machli),family
+methi thepla nu shaak,Methi thepla,family
+minestrone soup,Minestrone soup,exact
+mint chutney,Mint and coriander chutney (Pudinay aur dhaniye ki chutney),family
+muligatawny soup,Mulligatawny soup,exact
+murgh shorba,Chicken consomme (Clear chicken soup),family
+mushroom kara kuzhmabu,Mushroom matar,family
+mushroom masala,Mushroom matar,family
+mutton  seekh kebab,Mutton seekh kebab,exact
+mutton korma,Mutton korma,exact
+mutton pulao,Mutton pulao,exact
+mutton rogan josh,Roghan josh,exact
+naan,Naan,exact
+naatu koshi curry country chicken curry,Chicken curry,family
+nadur yakhni,Chicken yakhni,family
+palak panner,Spinach paneer (Palak paneer),family
+palak shorba,Spinach soup (Palak ka soup),family
+paneer tikka Panner kabab,Paneer shaslik/tikka,family
+panner butter masala,Paneer in butter sauce,family
+panner fried rice,Chinese fried rice,family
+peanut chutney,Peanut chutney (Mungfali ki chutney),exact
+phulka,Chapati/Roti,family
+pine apple fried rice,Chinese fried rice,family
+podi dosa,Plain dosa,family
+prawn malai curry,Prawn curry (with coconut) (Jhinga curry),family
+ramen noodles,Home made egg noodles,family
+rasam,Rasam with tamarind (Puli rasam/ Chintapandu rasam/ Charu/Saaru),family
+roti,Chapati/Roti,family
+roti with ghee,Chapati/Roti,family
+saag panner,Spinach paneer (Palak paneer),family
+sambar,Sambar,exact
+shrimp prawn fried rice,Chinese fried rice,family
+spaghetti,Spaghetti bolognese,family
+special fried rice,Chinese fried rice,family
+steam rice,Boiled rice (Uble chawal),family
+sukha aloo dry potato curry,Dry potato (Sookhe aloo),family
+sweet corn soup,Sweet corn soup,exact
+tandoori chicken,Tandoori chicken,exact
+tea,Hot tea (Garam Chai),family
+tomato chutney,Tomato chutney (Tamatar ki chutney),exact
+tomato shorba,Clear tomato soup (Tamatar ka soup),family
+tomoto soup,Clear tomato soup (Tamatar ka soup),family
+upma  veg,Vegetable upma,family
+uthappam,Uttapam,exact
+vegetable fried rice,Chinese fried rice,family
+vegetable noodles,Vegetable chowmein,family
+vegetable pulao,Mixed vegetable pulao,family
+vegetable soup,Vegetable soup,exact
+vegetables kabab,Vegetable seekh kebab,family
+yangzhou fried rice,Chinese fried rice,family

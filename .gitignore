@@ -1,35 +1,54 @@
+# Python
 __pycache__/
 *.py[cod]
 .pytest_cache/
 .coverage
 htmlcov/
+
+# Virtual environments
 env/
 venv/
 .venv/
 ENV/
+
+# macOS / editors
 .DS_Store
 .AppleDouble
+._*
 *.swp
 *.swo
 *~
 .vscode/
 .idea/
 tempCodeRunnerFile.py
+
+# Secrets
 .env
 .env.*
 !.env.example
+
+# Logs and databases (may hold user data)
 *.log
 instance/
 *.sqlite
 *.sqlite3
+*.sqlite3.*
 *.db
+*.backup
+
+# Uploads and personal / web-sourced photos
 uploads/*
 !uploads/.gitkeep
-models/*.pt
-models/*.onnx
-YOLO images/
-data/test_images/
 data/test_images_own/
+YOLO images/
+
+# Model weights: keep our own trained model, ignore downloaded generic ones
+models/*.pt
+!models/best.pt
+models/*.onnx
+
+# Large public datasets (documented in docs/DATASETS.md, not committed)
+data/test_images/
 data/raw/khana/dataset.tar.gz
 data/raw/khana/khana/
 data/raw/food101/
