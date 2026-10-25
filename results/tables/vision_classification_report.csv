@@ -1,0 +1,97 @@
+,precision,recall,f1-score,support
+allo gobi,0.0,0.0,0.0,0.0
+aloo chhenna ganta,0.0,0.0,0.0,0.0
+aloo gobi masala,0.0,0.0,0.0,30.0
+apple,0.0,0.0,0.0,0.0
+avial,0.0,0.0,0.0,0.0
+biryani,1.0,0.16666666666666666,0.2857142857142857,30.0
+brinjal bharta,0.0,0.0,0.0,0.0
+butter chicken,0.4444444444444444,0.13333333333333333,0.20512820512820512,30.0
+butter naan,0.0,0.0,0.0,0.0
+chappati,1.0,0.2,0.3333333333333333,30.0
+chaula ganta mushroom curry,0.0,0.0,0.0,0.0
+chicken chettinad,0.0,0.0,0.0,0.0
+chicken curry,0.0,0.0,0.0,0.0
+chicken fried rice,0.0,0.0,0.0,0.0
+chicken kabab,0.0,0.0,0.0,0.0
+chicken kothu parotta,0.0,0.0,0.0,0.0
+chicken lollipop,0.0,0.0,0.0,0.0
+chicken noodle soup,0.0,0.0,0.0,0.0
+chicken nuggets,0.0,0.0,0.0,0.0
+chicken pulao,0.0,0.0,0.0,0.0
+chicken tikka,1.0,0.06666666666666667,0.125,30.0
+chicken tikka masala,0.5,0.26666666666666666,0.34782608695652173,30.0
+chole chickpea curry,0.0,0.0,0.0,0.0
+coffee,0.0,0.0,0.0,0.0
+crevettes malabari,0.0,0.0,0.0,0.0
+dal makhani,0.9545454545454546,0.7,0.8076923076923077,30.0
+dosa plain,0.0,0.0,0.0,0.0
+dudhi chana nu shaak,0.0,0.0,0.0,0.0
+eera kara kuzhambu shrimp,0.0,0.0,0.0,0.0
+egg parotta,0.0,0.0,0.0,0.0
+egg pulao,0.0,0.0,0.0,0.0
+fish tikka,0.0,0.0,0.0,0.0
+garlice naan,0.0,0.0,0.0,0.0
+ghanta bell pepper curry,0.0,0.0,0.0,0.0
+gongura mamasam,0.0,0.0,0.0,0.0
+gulab jamoon,1.0,0.7666666666666667,0.8679245283018868,30.0
+hyderabadi pulao,0.0,0.0,0.0,0.0
+jadoh,0.0,0.0,0.0,0.0
+kalai chutney,0.0,0.0,0.0,0.0
+kanji,0.0,0.0,0.0,0.0
+kashmiri pulao,0.0,0.0,0.0,0.0
+kimchi fried rice,0.0,0.0,0.0,0.0
+kodi pulusu  chicken curry,0.0,0.0,0.0,0.0
+kothu parotta,0.0,0.0,0.0,0.0
+lemon rice,0.0,0.0,0.0,0.0
+masala idly,0.0,0.0,0.0,0.0
+menthya saaru,0.0,0.0,0.0,0.0
+methi thepla nu shaak,0.0,0.0,0.0,0.0
+minestrone soup,0.0,0.0,0.0,0.0
+misal,0.0,0.0,0.0,0.0
+muligatawny soup,0.0,0.0,0.0,0.0
+mushroom masala,0.0,0.0,0.0,0.0
+mutton curry,0.0,0.0,0.0,0.0
+mutton kara kuzhambu,0.0,0.0,0.0,0.0
+mutton korma,0.0,0.0,0.0,0.0
+mutton pulao,0.0,0.0,0.0,0.0
+mutton rogan josh,0.0,0.0,0.0,0.0
+naan,0.8947368421052632,0.5666666666666667,0.6938775510204082,30.0
+nadur yakhni,0.0,0.0,0.0,0.0
+palak panner pulao,0.0,0.0,0.0,0.0
+paneer tikka Panner kabab,0.0,0.0,0.0,0.0
+panner butter masala,0.0,0.0,0.0,0.0
+panner fried rice,0.0,0.0,0.0,0.0
+parotta,0.0,0.0,0.0,0.0
+phulka,0.0,0.0,0.0,0.0
+pine apple fried rice,0.0,0.0,0.0,0.0
+pooricha parotta,0.0,0.0,0.0,0.0
+pukhlein,0.0,0.0,0.0,0.0
+punugulu bobbarlu,0.0,0.0,0.0,0.0
+rajma masala,0.0,0.0,0.0,0.0
+ramen noodles,0.0,0.0,0.0,0.0
+roti,0.0,0.0,0.0,0.0
+roti with ghee,0.0,0.0,0.0,0.0
+royyala vepudu shrimp fry,0.0,0.0,0.0,0.0
+sambar,0.0,0.0,0.0,0.0
+santula mustard curry,0.0,0.0,0.0,0.0
+sev tamatar sabzi,0.0,0.0,0.0,0.0
+sukha aloo dry potato curry,0.0,0.0,0.0,0.0
+sukhdi,0.0,0.0,0.0,0.0
+tandoori chicken,0.0,0.0,0.0,0.0
+tea,0.0,0.0,0.0,0.0
+tomato chutney,0.0,0.0,0.0,0.0
+tomato rice,0.0,0.0,0.0,0.0
+tomoto soup,0.0,0.0,0.0,0.0
+undhiyu,0.0,0.0,0.0,0.0
+upma  veg,0.0,0.0,0.0,0.0
+uthappam,0.0,0.0,0.0,0.0
+vathaa kolambu,0.0,0.0,0.0,0.0
+vazhakkai curry banana curry,0.0,0.0,0.0,0.0
+veg rogan josh,0.0,0.0,0.0,0.0
+vegetable soup,0.0,0.0,0.0,0.0
+vengaya kara kuzhambu onion,0.0,0.0,0.0,0.0
+wazwan,0.0,0.0,0.0,0.0
+accuracy,0.31851851851851853,0.31851851851851853,0.31851851851851853,0.31851851851851853
+macro avg,0.07305082517306627,0.03082437275985663,0.039424691377924176,270.0
+weighted avg,0.7548585267883513,0.31851851851851853,0.4073884775718831,270.0

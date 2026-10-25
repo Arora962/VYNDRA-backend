@@ -1,0 +1,2 @@
+images_in_manifest,successful_predictions,inference_errors,top1_accuracy,top3_accuracy,macro_f1,weighted_f1,independent_test_verified
+270,270,0,0.31851851851851853,0.5407407407407407,0.039424691377924176,0.4073884775718831,no — training data overlap/license provenance must be checked

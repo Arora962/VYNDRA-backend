@@ -1,0 +1,81 @@
+dataset,dataset_class,best_pt_class,status,mapping_basis,similarity
+indian_food_images,adhirasam,rasam,skip,fuzzy_suggestion_not_auto_approved,0.5226
+indian_food_images,aloo_gobi,aloo gobi masala,ok,curated_alias,0.832
+indian_food_images,aloo_matar,matar paneer,skip,fuzzy_suggestion_not_auto_approved,0.5302
+indian_food_images,aloo_methi,methi thepla nu shaak,skip,fuzzy_suggestion_not_auto_approved,0.4207
+indian_food_images,aloo_shimla_mirch,aloo gobi masala,skip,fuzzy_suggestion_not_auto_approved,0.2639
+indian_food_images,aloo_tikki,allo tikka,skip,fuzzy_suggestion_not_auto_approved,0.4285
+indian_food_images,anarsa,banana,skip,fuzzy_suggestion_not_auto_approved,0.2081
+indian_food_images,ariselu,erissery,skip,fuzzy_suggestion_not_auto_approved,0.1312
+indian_food_images,bandar_laddu,banana,skip,fuzzy_suggestion_not_auto_approved,0.178
+indian_food_images,basundi,chicken kasundi,skip,fuzzy_suggestion_not_auto_approved,0.5943
+indian_food_images,bhatura,machher paturi,skip,fuzzy_suggestion_not_auto_approved,0.2161
+indian_food_images,bhindi_masala,masala dosa,skip,fuzzy_suggestion_not_auto_approved,0.412
+indian_food_images,biryani,biryani,ok,normalized_exact,1.0
+indian_food_images,boondi,poondu kolambu,skip,fuzzy_suggestion_not_auto_approved,0.214
+indian_food_images,butter_chicken,butter chicken,ok,normalized_exact,1.0
+indian_food_images,chak_hao_kheer,haakh,skip,fuzzy_suggestion_not_auto_approved,0.1813
+indian_food_images,cham_cham,chappati,skip,fuzzy_suggestion_not_auto_approved,0.2203
+indian_food_images,chana_masala,masala dosa,skip,fuzzy_suggestion_not_auto_approved,0.4987
+indian_food_images,chapati,chappati,ok,curated_alias,0.7064
+indian_food_images,chhena_kheeri,aloo chhenna ganta,skip,fuzzy_suggestion_not_auto_approved,0.3384
+indian_food_images,chicken_razala,chicken rassa,skip,fuzzy_suggestion_not_auto_approved,0.4651
+indian_food_images,chicken_tikka,chicken tikka,ok,normalized_exact,1.0
+indian_food_images,chicken_tikka_masala,chicken tikka masala,ok,normalized_exact,1.0
+indian_food_images,chikki,chicken tikka,skip,fuzzy_suggestion_not_auto_approved,0.252
+indian_food_images,daal_baati_churma,daal fry,skip,fuzzy_suggestion_not_auto_approved,0.3996
+indian_food_images,daal_puri,daal fry,skip,fuzzy_suggestion_not_auto_approved,0.534
+indian_food_images,dal_makhani,dal makhani,ok,normalized_exact,1.0
+indian_food_images,dal_tadka,dal bengal,skip,fuzzy_suggestion_not_auto_approved,0.3151
+indian_food_images,dharwad_pedha,pad thai,skip,fuzzy_suggestion_not_auto_approved,0.1123
+indian_food_images,doodhpak,podi dosa,skip,fuzzy_suggestion_not_auto_approved,0.1197
+indian_food_images,double_ka_meetha,vegetable tikka,skip,fuzzy_suggestion_not_auto_approved,0.1817
+indian_food_images,dum_aloo,aloo posto,skip,fuzzy_suggestion_not_auto_approved,0.3849
+indian_food_images,gajar_ka_halwa,haakh,skip,fuzzy_suggestion_not_auto_approved,0.1028
+indian_food_images,gavvalu,punugulu bobbarlu,skip,fuzzy_suggestion_not_auto_approved,0.1208
+indian_food_images,ghevar,roti with ghee,skip,fuzzy_suggestion_not_auto_approved,0.2205
+indian_food_images,gulab_jamun,gulab jamoon,ok,curated_alias,0.6375
+indian_food_images,imarti,roti,skip,fuzzy_suggestion_not_auto_approved,0.1082
+indian_food_images,jalebi,jadoh,skip,fuzzy_suggestion_not_auto_approved,0.1507
+indian_food_images,kachori,tandoori chicken,skip,fuzzy_suggestion_not_auto_approved,0.1906
+indian_food_images,kadai_paneer,matar paneer,skip,fuzzy_suggestion_not_auto_approved,0.5188
+indian_food_images,kadhi_pakoda,kadhi,skip,fuzzy_suggestion_not_auto_approved,0.6403
+indian_food_images,kajjikaya,vengaya kara kuzhambu onion,skip,fuzzy_suggestion_not_auto_approved,0.168
+indian_food_images,kakinada_khaja,kara vada,skip,fuzzy_suggestion_not_auto_approved,0.2475
+indian_food_images,kalakand,kalai chutney,skip,fuzzy_suggestion_not_auto_approved,0.2602
+indian_food_images,karela_bharta,brinjal bharta,skip,fuzzy_suggestion_not_auto_approved,0.4942
+indian_food_images,kofta,mutton kofta curry,skip,fuzzy_suggestion_not_auto_approved,0.6533
+indian_food_images,kuzhi_paniyaram,mutton kara kuzhambu,skip,fuzzy_suggestion_not_auto_approved,0.2274
+indian_food_images,lassi,lasagna,skip,fuzzy_suggestion_not_auto_approved,0.2771
+indian_food_images,ledikeni,lentil soup,skip,fuzzy_suggestion_not_auto_approved,0.0996
+indian_food_images,litti_chokha,spaghetti,skip,fuzzy_suggestion_not_auto_approved,0.1417
+indian_food_images,lyangcha,yangzhou fried rice,skip,fuzzy_suggestion_not_auto_approved,0.1515
+indian_food_images,maach_jhol,machha besan,skip,fuzzy_suggestion_not_auto_approved,0.1065
+indian_food_images,makki_di_roti_sarson_da_saag,roti,skip,fuzzy_suggestion_not_auto_approved,0.3888
+indian_food_images,malapua,malai tikka,skip,fuzzy_suggestion_not_auto_approved,0.2613
+indian_food_images,misi_roti,roti,skip,fuzzy_suggestion_not_auto_approved,0.6704
+indian_food_images,misti_doi,misal,skip,fuzzy_suggestion_not_auto_approved,0.2747
+indian_food_images,modak,meen moilee fish molee,skip,fuzzy_suggestion_not_auto_approved,0.1454
+indian_food_images,mysore_pak,palak panner,skip,fuzzy_suggestion_not_auto_approved,0.1574
+indian_food_images,naan,naan,ok,normalized_exact,1.0
+indian_food_images,navrattan_korma,mutton korma,skip,fuzzy_suggestion_not_auto_approved,0.4248
+indian_food_images,palak_paneer,palak panner,skip,fuzzy_suggestion_not_auto_approved,0.7052
+indian_food_images,paneer_butter_masala,panner butter masala,skip,fuzzy_suggestion_not_auto_approved,0.8082
+indian_food_images,phirni,pho,skip,fuzzy_suggestion_not_auto_approved,0.1889
+indian_food_images,pithe,roti with ghee,skip,fuzzy_suggestion_not_auto_approved,0.1625
+indian_food_images,poha,pooricha parotta,skip,fuzzy_suggestion_not_auto_approved,0.1737
+indian_food_images,poornalu,pooricha parotta,skip,fuzzy_suggestion_not_auto_approved,0.2656
+indian_food_images,pootharekulu,punugulu bobbarlu,skip,fuzzy_suggestion_not_auto_approved,0.1696
+indian_food_images,qubani_ka_meetha,meen kara kuzhambu fish,skip,fuzzy_suggestion_not_auto_approved,0.1585
+indian_food_images,rabri,rasam,skip,fuzzy_suggestion_not_auto_approved,0.1202
+indian_food_images,ras_malai,malai tikka,skip,fuzzy_suggestion_not_auto_approved,0.5289
+indian_food_images,rasgulla,rasam,skip,fuzzy_suggestion_not_auto_approved,0.2238
+indian_food_images,sandesh,santula mustard curry,skip,fuzzy_suggestion_not_auto_approved,0.1251
+indian_food_images,shankarpali,odi thali,skip,fuzzy_suggestion_not_auto_approved,0.1993
+indian_food_images,sheer_korma,mutton korma,skip,fuzzy_suggestion_not_auto_approved,0.5297
+indian_food_images,sheera,eera kara kuzhambu shrimp,skip,fuzzy_suggestion_not_auto_approved,0.3313
+indian_food_images,shrikhand,shrimp prawn fried rice,skip,fuzzy_suggestion_not_auto_approved,0.2225
+indian_food_images,sohan_halwa,haakh,skip,fuzzy_suggestion_not_auto_approved,0.1287
+indian_food_images,sohan_papdi,pesarapapu pappu,skip,fuzzy_suggestion_not_auto_approved,0.1956
+indian_food_images,sutar_feni,matar paneer,skip,fuzzy_suggestion_not_auto_approved,0.1732
+indian_food_images,unni_appam,appam,skip,fuzzy_suggestion_not_auto_approved,0.7042

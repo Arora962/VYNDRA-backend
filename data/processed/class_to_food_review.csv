@@ -1,0 +1,221 @@
+class_name,suggested_food,similarity,status
+allo gobi,Gobi 65,0.4467,needs_review
+allo tikka,Fish tikka,0.649,needs_review
+aloo chhenna ganta,Chhena poda,0.362,needs_review
+aloo gobi masala,Gobi 65,0.4247,needs_review
+aloo posto,Dum aloo,0.3405,needs_review
+amachi mango aamsul tamraing thecha,Mango raita (Aam ka raita),0.3079,needs_review
+appam,Appam,1.0,exact_text_review_required
+apple,Apple cake (Seb ka cake),0.6255,needs_review
+avial,Avial,1.0,exact_text_review_required
+bagara baingan brinjal curry,Brinjal pickle (Baingan ka achaar),0.4238,needs_review
+baigan chura brinjal fry,Brinjal pickle (Baingan ka achaar),0.4192,needs_review
+banana,Banana cake (Kele ka cake),0.7202,needs_review
+basmati rice,Rasmalai,0.3468,needs_review
+besanbara,Besan gatte curry,0.3152,needs_review
+biryani,Mutton biryani/biriyani,0.6483,needs_review
+bisi bele bath saaru,Kesari bath,0.2846,needs_review
+brinjal bharta,Brinjal bhartha (Baingan ka bhartha),0.8649,needs_review
+bun parota,Plain parantha/paratha,0.279,needs_review
+butter chicken,Butter chicken,1.0,exact_text_review_required
+butter naan,Naan,0.5917,needs_review
+cake,Pancake,0.5392,needs_review
+celyon egg parotta,Egg pakora/pakoda (Ande ke pakode),0.2931,needs_review
+chappati,Chapati/Roti,0.7325,needs_review
+chaula ganta mushroom curry,Pea mushroom curry (Matar mushroom),0.7576,needs_review
+cheesy garlic naan,Garlic soup,0.5459,needs_review
+chepala pulusu fish curry,Fish curry (Machli curry),0.6217,needs_review
+chicken chettinad,Chicken curry,0.5016,needs_review
+chicken curry,Chicken curry,1.0,exact_text_review_required
+chicken fried rice,Chinese fried rice,0.6026,needs_review
+chicken fry,Chicken curry,0.4995,needs_review
+chicken kabab,Chicken kebab,0.6018,needs_review
+chicken kasundi,Chicken kebab,0.4803,needs_review
+chicken kothu parotta,Chicken korma,0.5249,needs_review
+chicken lollipop,Chicken lasagne,0.4946,needs_review
+chicken noodle soup,Cheese noodle ring,0.4952,needs_review
+chicken noodles,Home made plain noodles,0.5216,needs_review
+chicken nuggets,Chicken salad,0.479,needs_review
+chicken pulao,Chicken pulao,1.0,exact_text_review_required
+chicken rassa,Chicken salad,0.5375,needs_review
+chicken saaru,Chicken salad,0.6905,needs_review
+chicken tikka,Fish tikka,0.532,needs_review
+chicken tikka masala,Shahi chicken masala,0.4661,needs_review
+chingri malai curry,Methi malai paneer,0.4698,needs_review
+chole chickpea curry,Chickpeas curry (Safed channa curry),0.5807,needs_review
+chowmein,Chicken chowmein,0.7912,needs_review
+cocunut chutney,Coconut chutney (Nariyal ki chutney),0.8494,needs_review
+coffee,Cold coffee (with cream),0.6834,needs_review
+cream based soup,Cream buns,0.4038,needs_review
+crevettes malabari,,0.2325,no_match
+curd rice,Curd rice (Dahi bhaat/Dahi chawal/ Perugu annam/Daddojanam/Thayir saadam),1.0,exact_text_review_required
+daal fry,Bengal fish curry (Bengali machli curry),0.2885,needs_review
+dal bengal,Split bengal gram dal (Channa dal),0.5111,needs_review
+dal makhani,Dal makhani,1.0,exact_text_review_required
+dal shorba,Dal stuffed poori,0.2687,needs_review
+dalma,Dalma,1.0,exact_text_review_required
+doh dklieh,,0.206,no_match
+doheniiong,,0.2438,no_match
+dosa plain,Plain dosa,0.5614,needs_review
+dudhi chana nu shaak,Methi chaman,0.2974,needs_review
+eera kara kuzhambu shrimp,,0.2202,no_match
+eera varuval,Masala vada,0.3595,needs_review
+egg dosa,Masala dosa,0.4601,needs_review
+egg fried rice,Chinese fried rice,0.6705,needs_review
+egg noodles,Home made egg noodles,0.6985,needs_review
+egg parotta,Egg pakora/pakoda (Ande ke pakode),0.3795,needs_review
+egg pulao,Peas pulao (Matar pulao),0.4731,needs_review
+erissery,,0.2022,no_match
+falafel wrap,,0.1312,no_match
+fish curry,Fish curry (Machli curry),1.0,exact_text_review_required
+fish tikka,Fish tikka,1.0,exact_text_review_required
+garlice naan,Naan,0.5022,needs_review
+ghanta bell pepper curry,Egg in a pepper,0.3975,needs_review
+gongura mamasam,,0.25,no_match
+green tea,Green tomato pickle (Haray tamatar ka achaar),0.4726,needs_review
+gulab jamoon,Gulab Jamun with khoya,0.5693,needs_review
+gustaba,Baked custard,0.3245,needs_review
+haakh,Khakhra chaat,0.4469,needs_review
+huli saaru tamarind rasam,Tamarind rice (Chintapandu pulihora/Puliyodharai/Puli sadam/Huli anna),0.5693,needs_review
+hyderabadi pulao,Paneer pulao,0.3943,needs_review
+ice icream,Coffee ice cream,0.5789,needs_review
+idly,Idli,1.0,exact_text_review_required
+jadoh,Poha,0.2597,needs_review
+kadhi,Besan kadhi with pakodies,0.4118,needs_review
+kalai chutney,Green chutney,0.4913,needs_review
+kanji,Gunjia,0.3821,needs_review
+kara vada,Masala vada,0.6395,needs_review
+kashmiri pulao,Kashmiri tea (Kehwa),0.6725,needs_review
+kerrai kollambu,,0.169,no_match
+kimchi fried rice,Chinese fried rice,0.6395,needs_review
+kodi pulusu  chicken curry,Chicken curry,0.6563,needs_review
+kosambari saaru,Sambar,0.6572,needs_review
+kosha mangsho,,0.2376,no_match
+kothimbir vadi,Pea vadi curry,0.3251,needs_review
+kothu parotta,,0.2326,no_match
+kulfi,Kulfi,1.0,exact_text_review_required
+lasagna,Chicken lasagne,0.5981,needs_review
+lemon rice,"Lemon rice (Pulihora, Elumichai sadam, Chitranna)",1.0,exact_text_review_required
+lentil soup,Lentil soup,1.0,exact_text_review_required
+mac and cheese,Vegetable and cheese pie,0.5321,needs_review
+machha besan,Besan and spinach parantha/paratha (Besan aur palak ka parantha/paratha),0.2948,needs_review
+machher paturi,Paneer patties,0.3113,needs_review
+malai tikka,Fish tikka,0.5455,needs_review
+masala batata rassa,Masala biscuit,0.4543,needs_review
+masala dosa,Masala dosa,1.0,exact_text_review_required
+masala idly,Semolina idli (Suji/Rava idli),0.4231,needs_review
+masala saaru,Masala souffle,0.5471,needs_review
+matar  peas pulao,Peas pulao (Matar pulao),0.7289,needs_review
+matar paneer,Paneer patties,0.4046,needs_review
+meals,Oatmeal Porridge,0.327,needs_review
+medu vada,Masala vada,0.4152,needs_review
+meen kara kuzhambu fish,Fried fish (Indian style) (Tali hui machli),0.2604,needs_review
+meen kulambu fish curry,Fish curry (Machli curry),0.6356,needs_review
+meen moilee fish molee,Fish finger,0.2631,needs_review
+menthya saaru,Sarson ka saag,0.2871,needs_review
+methi thepla nu shaak,Methi thepla,0.8513,needs_review
+milk,Milk cake,0.5018,needs_review
+minestrone soup,Minestrone soup,1.0,exact_text_review_required
+mint chutney,Mint tomato chutney (Pudinay aur tamatar ki chutney),0.6432,needs_review
+misal,,0.24,no_match
+mor kolambu,Gravy for kofta,0.322,needs_review
+muligatawny soup,Mulligatawny soup,0.9089,needs_review
+murgh shorba,,0.2079,no_match
+mushroom kara kuzhmabu,Mushroom sauce,0.5663,needs_review
+mushroom masala,Mushroom matar,0.7353,needs_review
+mutton  seekh kebab,Mutton seekh kebab,1.0,exact_text_review_required
+mutton chuka,Mutton chops,0.6722,needs_review
+mutton curry,Mutton chops,0.59,needs_review
+mutton kara kuzhambu,Mutton korma,0.5358,needs_review
+mutton kofta curry,Pea kofta curry (Matar kofta curry),0.6328,needs_review
+mutton korma,Mutton korma,1.0,exact_text_review_required
+mutton parotta,Mutton pulao,0.566,needs_review
+mutton pulao,Mutton pulao,1.0,exact_text_review_required
+mutton rogan josh,Roghan josh,0.5978,needs_review
+mutton saaru,Mutton pulao,0.519,needs_review
+naan,Naan,1.0,exact_text_review_required
+naatu koshi curry country chicken curry,Chicken curry,0.5892,needs_review
+nadur yakhni,Chicken yakhni,0.6494,needs_review
+nasi goreng,,0.1575,no_match
+non veg meals,Veg manchurian,0.3307,needs_review
+odi thali,Methi thepla,0.2783,needs_review
+pachadi,,0.2305,no_match
+pad thai,,0.2121,no_match
+palak panner,Poshtik namak paras,0.2806,needs_review
+palak panner pulao,Paneer pulao,0.5944,needs_review
+palak shorba,,0.2192,no_match
+pandhra rassa whit gravy,Gravy for kofta,0.2635,needs_review
+paneer tikka Panner kabab,Paneer shaslik/tikka,0.4325,needs_review
+panner butter masala,Paneer in butter sauce,0.393,needs_review
+panner fried rice,Chinese fried rice,0.575,needs_review
+parotta,Cottage cheese pie,0.2758,needs_review
+paruppu urundai kara kuzhambu lentil ball,Lentil soup,0.3823,needs_review
+peanut chutney,Peanut chutney (Mungfali ki chutney),1.0,exact_text_review_required
+pesarapapu pappu,Papdi,0.2524,needs_review
+pho,Phirni,0.2586,needs_review
+phulka,,0.1706,no_match
+pine apple fried rice,Chinese fried rice,0.6315,needs_review
+pineapple kara kuzhambu,Pineapple cake,0.5726,needs_review
+podi dosa,Masala dosa,0.4352,needs_review
+pongal plain,Sweet plain biscuit,0.3233,needs_review
+poondu kolambu,Garlic chutney/Poondu chutney (Lahasun ki chutney),0.3695,needs_review
+pooricha parotta,Poori,0.4979,needs_review
+poulet a la pondicheery,,0.1881,no_match
+prawn malai curry,Prawn curry (with coconut) (Jhinga curry),0.6502,needs_review
+puchka,,0.2456,no_match
+pukhlein,,0.2246,no_match
+pulikkal kara kuzhambu tamaraind,Rasam with tamarind (Puli rasam/ Chintapandu rasam/ Charu/Saaru),0.2875,needs_review
+punugulu bobbarlu,,0.1708,no_match
+rajma masala,Chat masala,0.5033,needs_review
+ramen noodles,Home made plain noodles,0.5472,needs_review
+rasam,Rasam powder (Rasam masala),0.4894,needs_review
+roti,Chapati/Roti,0.7325,needs_review
+roti with ghee,Spaghetti with paneer balls and tomato sauce,0.3133,needs_review
+royyala vepudu shrimp fry,Masala vada,0.2565,needs_review
+saag panner,Veg paneer stew,0.2755,needs_review
+sambar,Sambar,1.0,exact_text_review_required
+sambhar rice,Sambar,0.352,needs_review
+santula mustard curry,Mustard sauce,0.52,needs_review
+sev tamatar sabzi,Jackfruit sabzi (Kathal ki sabzi),0.3698,needs_review
+shrimp  prawn  pulao,Prawn curry (with coconut) (Jhinga curry),0.4776,needs_review
+shrimp prawn fried rice,Chinese fried rice,0.4978,needs_review
+shukto,,0.2455,no_match
+soba,,0.213,no_match
+solkadi,,0.2061,no_match
+spaghetti,Spaghetti bolognese,0.6009,needs_review
+special fried rice,Chinese fried rice,0.499,needs_review
+steam rice,Curd rice (Dahi bhaat/Dahi chawal/ Perugu annam/Daddojanam/Thayir saadam),0.37,needs_review
+sukha aloo dry potato curry,Potato curry (Aloo ki sabzi),0.5809,needs_review
+sukhdi,Plain khitchdi (Plain khichri/khichdi),0.25,needs_review
+sweet corn soup,Sweet corn soup,1.0,exact_text_review_required
+tambda rassa red gravy,Gravy for kofta,0.2681,needs_review
+tandoori chicken,Tandoori chicken,1.0,exact_text_review_required
+tea,Hot tea (Garam Chai),0.3566,needs_review
+tomato chutney,Tomato chutney (Tamatar ki chutney),1.0,exact_text_review_required
+tomato rice,Tomato sauce,0.5012,needs_review
+tomato shorba,Tomato sauce,0.4794,needs_review
+tomoto soup,Cold tomato soup,0.5416,needs_review
+tungrymbai,Sambar,0.3333,needs_review
+udon,,0.1362,no_match
+undhiyu,,0.1634,no_match
+upma  veg,Vegetable upma,0.3986,needs_review
+uthappam,Appam,0.7415,needs_review
+varan,Pea parantha/paratha (Matar ka parantha/paratha),0.2667,needs_review
+vathaa kolambu,,0.2026,no_match
+vazhakkai curry banana curry,Raw banana kofta curry (Kela kofta curry),0.4991,needs_review
+veg rogan josh,Roghan josh,0.6387,needs_review
+vegetable fried rice,Chinese fried rice,0.6215,needs_review
+vegetable noodles,Cheese noodle ring,0.5408,needs_review
+vegetable pulao,Mixed vegetable pulao,0.7867,needs_review
+vegetable rice,Vegetable soup,0.6142,needs_review
+vegetable soup,Vegetable soup,1.0,exact_text_review_required
+vegetable tikka,Vegetable soup,0.5384,needs_review
+vegetables kabab,Baked vegetables,0.5174,needs_review
+vendhaya kara kuzhambu feenugreek,Potato fenugreek (Aloo methi),0.4861,needs_review
+vengaya kara kuzhambu onion,French onion soup,0.2896,needs_review
+vezhakkai kara kuzhambu,,0.1801,no_match
+vinaigrette de legumes,Potato aigrettes,0.4997,needs_review
+wazwan,Schezwan chutney,0.4026,needs_review
+wonton soup,Lemon souffle,0.3728,needs_review
+yakishoba,,0.1702,no_match
+yangzhou fried rice,Chinese fried rice,0.6389,needs_review

@@ -1,45 +1,95 @@
-# Python
+# ==========================================
+# Python cache and generated test artifacts
+# ==========================================
 __pycache__/
 *.py[cod]
 *.pyo
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
 
+# ==========================================
 # Virtual environments
+# ==========================================
+env/
 venv/
 .venv/
-env/
+ENV/
 
-# macOS
+# ==========================================
+# macOS and editor files
+# ==========================================
 .DS_Store
 .AppleDouble
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+tempCodeRunnerFile.py
 
-# Secrets and local environment settings
+# ==========================================
+# Secrets and local environment configuration
+# ==========================================
 .env
 .env.*
+!.env.example
 
-# Uploaded images and generated files
-uploads/
+# ==========================================
+# Logs, local databases and runtime files
+# ==========================================
 *.log
+instance/
+*.sqlite
+*.sqlite3
+*.db
 
-# YOLO image dataset (keep locally, not in Git)
+# ==========================================
+# Uploaded files and personal test images
+# ==========================================
+uploads/*
+!uploads/.gitkeep
+data/test_images_own/
+
+# ==========================================
+# Large model weights
+# Keep model files locally; do not commit them
+# ==========================================
+models/*.pt
+models/*.onnx
+
+# ==========================================
+# Large datasets and downloaded caches
+# ==========================================
 YOLO images/
 
-# Large model weights (keep locally, do not commit)
-models/*.pt
-
-# Khana dataset (keep locally, not in Git)
 data/raw/khana/dataset.tar.gz
 data/raw/khana/khana/
 
-# Food-101 downloads and Hugging Face cache
 data/raw/food101/
-
-# Kaggle Indian Food Images dataset (keep locally, not in Git)
 data/raw/indian_food_images/
 
-# Generated datasets and analytics outputs
-data/processed/food101_sample/
-results/figures/
-results/tables/
+data/raw/**/hf_cache/
+data/raw/**/.cache/
 
-# Temporary editor files
-tempCodeRunnerFile.py
+# ==========================================
+# Generated evaluation image copies
+# These can be recreated from source images
+# and the test manifest
+# ==========================================
+data/test_images/
+
+# ==========================================
+# Optional large, reproducible intermediate data
+# ==========================================
+data/processed/food101_sample/
+data/processed/file_index.csv
+
+# ==========================================
+# IMPORTANT:
+# Keep data/processed mapping CSVs and manifests.
+# Keep results/figures/ and results/tables/.
+# These are useful project deliverables.
+# ==========================================
