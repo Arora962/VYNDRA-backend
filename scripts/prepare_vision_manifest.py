@@ -47,7 +47,7 @@ def main():
     alt=root/cls.replace(' ','_')
     if alt.is_dir(): class_dir=alt
     else: continue
-   files=[x for x in class_dir.rglob('*') if x.is_file() and x.suffix.lower() in IMAGE_EXTS and not x.name.startswith('._') and not any(p.name.startswith('._') for p in x.parents)]
+   files=[x for x in class_dir.rglob('*') if x.is_file() and (x.suffix.lower() in IMAGE_EXTS or x.suffix=='') and not x.name.startswith('._') and not any(p.name.startswith('._') for p in x.parents)]
    files=sorted(files); rng.shuffle(files); files=files[:a.max_per_class_dataset]
    for image in files:
     # Store paths relative to the dataset root; the evaluator receives the root separately.
@@ -60,7 +60,7 @@ def main():
   eligible=set(approved_map.loc[approved_map.match_type.isin(['exact','family']),'class_name'].astype(str))
   for class_dir in sorted(x for x in own.iterdir() if x.is_dir() and not x.name.startswith('._')):
    if class_dir.name not in eligible: continue
-   files=[x for x in class_dir.rglob('*') if x.is_file() and x.suffix.lower() in IMAGE_EXTS and not x.name.startswith('._') and not any(p.name.startswith('._') for p in x.parents)]
+   files=[x for x in class_dir.rglob('*') if x.is_file() and (x.suffix.lower() in IMAGE_EXTS or x.suffix=='') and not x.name.startswith('._') and not any(p.name.startswith('._') for p in x.parents)]
    rng.shuffle(files)
    for image in files:
     rows.append({'dataset':'own_photos','dataset_class':class_dir.name,'model_class':class_dir.name,'accepted_model_classes':class_dir.name,'match_type':'exact_or_family_approved','relative_path':image.relative_to(own).as_posix(),'seed':a.seed})

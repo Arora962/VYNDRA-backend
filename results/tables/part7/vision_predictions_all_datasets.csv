@@ -1,0 +1,691 @@
+dataset,dataset_class,expected_model_class,accepted_model_classes,predicted_top1,top3,top1_confidence,top1_correct,top1_primary_correct,top3_correct,relative_path
+indian_food_images,aloo_gobi,allo gobi,allo gobi,avial,avial|santula mustard curry|allo gobi,0.247645,False,False,True,aloo_gobi/2f43ef19ea.jpg
+indian_food_images,aloo_gobi,allo gobi,allo gobi,vazhakkai curry banana curry,vazhakkai curry banana curry|masala idly|aloo chhenna ganta,0.191352,False,False,False,aloo_gobi/2dc453e97c.jpg
+indian_food_images,aloo_gobi,allo gobi,allo gobi,sukha aloo dry potato curry,sukha aloo dry potato curry|vazhakkai curry banana curry|aloo posto,0.366957,False,False,False,aloo_gobi/28af31112e.jpg
+indian_food_images,aloo_gobi,allo gobi,allo gobi,eera kara kuzhambu shrimp,eera kara kuzhambu shrimp|vengaya kara kuzhambu onion|aloo chhenna ganta,0.266834,False,False,False,aloo_gobi/0fd0e8821c.jpg
+indian_food_images,aloo_gobi,allo gobi,allo gobi,masala idly,masala idly|aloo chhenna ganta|vazhakkai curry banana curry,0.331464,False,False,False,aloo_gobi/08f5340905.jpg
+indian_food_images,aloo_gobi,allo gobi,allo gobi,chicken nuggets,chicken nuggets|sukha aloo dry potato curry|punugulu bobbarlu,0.303115,False,False,False,aloo_gobi/8bc7e3ba50.jpg
+indian_food_images,aloo_gobi,allo gobi,allo gobi,veg rogan josh,veg rogan josh|allo gobi|chicken fry,0.181632,False,False,True,aloo_gobi/2f4a394175.jpg
+indian_food_images,aloo_gobi,allo gobi,allo gobi,masala idly,masala idly|sukha aloo dry potato curry|vazhakkai curry banana curry,0.289398,False,False,False,aloo_gobi/0bc22d7426.jpg
+indian_food_images,aloo_gobi,allo gobi,allo gobi,kothu parotta,kothu parotta|chicken fried rice|special fried rice,0.299309,False,False,False,aloo_gobi/3bb33e5e68.jpg
+indian_food_images,aloo_gobi,allo gobi,allo gobi,chole chickpea curry,chole chickpea curry|dudhi chana nu shaak|matar paneer,0.510132,False,False,False,aloo_gobi/1b431ad21c.jpg
+indian_food_images,aloo_gobi,allo gobi,allo gobi,allo gobi,allo gobi|sukha aloo dry potato curry|aloo chhenna ganta,0.350092,True,True,True,aloo_gobi/4c8f0980a5.jpg
+indian_food_images,aloo_gobi,allo gobi,allo gobi,masala idly,masala idly|kothu parotta|vazhakkai curry banana curry,0.15329,False,False,False,aloo_gobi/2d44ca6b73.jpg
+indian_food_images,aloo_gobi,allo gobi,allo gobi,pine apple fried rice,pine apple fried rice|chicken fried rice|vazhakkai curry banana curry,0.377243,False,False,False,aloo_gobi/12ec0edc0a.jpg
+indian_food_images,aloo_gobi,allo gobi,allo gobi,punugulu bobbarlu,punugulu bobbarlu|sukha aloo dry potato curry|allo gobi,0.308531,False,False,True,aloo_gobi/08e086039e.jpg
+indian_food_images,aloo_gobi,allo gobi,allo gobi,allo gobi,allo gobi|eera varuval|undhiyu,0.230116,True,True,True,aloo_gobi/6b6b005b7f.jpg
+indian_food_images,aloo_gobi,allo gobi,allo gobi,santula mustard curry,santula mustard curry|dudhi chana nu shaak|aloo chhenna ganta,0.353931,False,False,False,aloo_gobi/6a0d7b2438.jpg
+indian_food_images,aloo_gobi,allo gobi,allo gobi,santula mustard curry,santula mustard curry|allo gobi|undhiyu,0.337873,False,False,True,aloo_gobi/0d0d6d5d9e.jpg
+indian_food_images,aloo_gobi,allo gobi,allo gobi,sukha aloo dry potato curry,sukha aloo dry potato curry|aloo chhenna ganta|chole chickpea curry,0.604963,False,False,False,aloo_gobi/2e483c3d7b.jpg
+indian_food_images,aloo_gobi,allo gobi,allo gobi,sukha aloo dry potato curry,sukha aloo dry potato curry|mushroom masala|allo gobi,0.323104,False,False,True,aloo_gobi/5b8c8e25e8.jpg
+indian_food_images,aloo_gobi,allo gobi,allo gobi,dudhi chana nu shaak,dudhi chana nu shaak|allo gobi|chicken fried rice,0.111311,False,False,True,aloo_gobi/00fce13f41.jpg
+indian_food_images,aloo_gobi,allo gobi,allo gobi,mushroom masala,mushroom masala|allo gobi|veg rogan josh,0.26364,False,False,True,aloo_gobi/8a9500f879.jpg
+indian_food_images,aloo_gobi,allo gobi,allo gobi,aloo chhenna ganta,aloo chhenna ganta|minestrone soup|chole chickpea curry,0.272594,False,False,False,aloo_gobi/22b3357956.jpg
+indian_food_images,aloo_gobi,allo gobi,allo gobi,sukha aloo dry potato curry,sukha aloo dry potato curry|allo gobi|aloo chhenna ganta,0.406433,False,False,True,aloo_gobi/5b4e957838.jpg
+indian_food_images,aloo_gobi,allo gobi,allo gobi,undhiyu,undhiyu|aloo posto|allo gobi,0.646324,False,False,True,aloo_gobi/9cb1050e35.jpg
+indian_food_images,aloo_gobi,allo gobi,allo gobi,crevettes malabari,crevettes malabari|kodi pulusu  chicken curry|mutton saaru,0.223803,False,False,False,aloo_gobi/6fb09a4b62.jpg
+indian_food_images,aloo_gobi,allo gobi,allo gobi,palak panner pulao,palak panner pulao|haakh|vinaigrette de legumes,0.466637,False,False,False,aloo_gobi/3c84676bd2.jpg
+indian_food_images,aloo_gobi,allo gobi,allo gobi,allo gobi,allo gobi|sukha aloo dry potato curry|aloo gobi masala,0.621501,True,True,True,aloo_gobi/3a085edb5a.jpg
+indian_food_images,aloo_gobi,allo gobi,allo gobi,vegetable soup,vegetable soup|minestrone soup|veg rogan josh,0.229202,False,False,False,aloo_gobi/2a46407f59.jpg
+indian_food_images,aloo_gobi,allo gobi,allo gobi,pine apple fried rice,pine apple fried rice|allo gobi|santula mustard curry,0.365017,False,False,True,aloo_gobi/2d60311a69.jpg
+indian_food_images,aloo_gobi,allo gobi,allo gobi,masala idly,masala idly|royyala vepudu shrimp fry|sukha aloo dry potato curry,0.221663,False,False,False,aloo_gobi/7dba40f672.jpg
+indian_food_images,biryani,biryani,biryani,biryani,biryani|chicken pulao|shrimp  prawn  pulao,0.577743,True,True,True,biryani/7be52ec49b.jpg
+indian_food_images,biryani,biryani,biryani,biryani,biryani|chicken pulao|hyderabadi pulao,0.261542,True,True,True,biryani/7a45605b40.jpg
+indian_food_images,biryani,biryani,biryani,egg pulao,egg pulao|mutton pulao|panner fried rice,0.104258,False,False,False,biryani/2dcb82424b.jpg
+indian_food_images,biryani,biryani,biryani,hyderabadi pulao,hyderabadi pulao|egg fried rice|mutton pulao,0.166233,False,False,False,biryani/29ff2d4476.jpg
+indian_food_images,biryani,biryani,biryani,palak panner pulao,palak panner pulao|santula mustard curry|jadoh,0.152657,False,False,False,biryani/49e76d3613.jpg
+indian_food_images,biryani,biryani,biryani,jadoh,jadoh|erissery|tungrymbai,0.354382,False,False,False,biryani/53c0802181.jpg
+indian_food_images,biryani,biryani,biryani,panner fried rice,panner fried rice|chicken fried rice|chicken pulao,0.365377,False,False,False,biryani/05af7f1839.jpg
+indian_food_images,biryani,biryani,biryani,egg pulao,egg pulao|palak panner pulao|ramen noodles,0.942839,False,False,False,biryani/04d39a92fc.jpg
+indian_food_images,biryani,biryani,biryani,biryani,biryani|chicken pulao|mutton pulao,0.390324,True,True,True,biryani/37e594ee51.jpg
+indian_food_images,biryani,biryani,biryani,tomato rice,tomato rice|biryani|chicken pulao,0.337532,False,False,True,biryani/0d81432b55.jpg
+indian_food_images,biryani,biryani,biryani,egg pulao,egg pulao|chicken pulao|biryani,0.112186,False,False,True,biryani/52f409a5eb.jpg
+indian_food_images,biryani,biryani,biryani,ramen noodles,ramen noodles|chowmein|chicken pulao,0.260781,False,False,False,biryani/2aac25f425.jpg
+indian_food_images,biryani,biryani,biryani,biryani,biryani|egg pulao|chicken pulao,0.964016,True,True,True,biryani/6cf77d8214.jpg
+indian_food_images,biryani,biryani,biryani,misal,misal|ramen noodles|biryani,0.368758,False,False,True,biryani/4c1a9e1748.jpg
+indian_food_images,biryani,biryani,biryani,hyderabadi pulao,hyderabadi pulao|biryani|shrimp  prawn  pulao,0.360377,False,False,True,biryani/37fcb715e3.jpg
+indian_food_images,biryani,biryani,biryani,chicken pulao,chicken pulao|hyderabadi pulao|shrimp  prawn  pulao,0.429665,False,False,False,biryani/7de8263e6c.jpg
+indian_food_images,biryani,biryani,biryani,jadoh,jadoh|palak panner pulao|tungrymbai,0.554653,False,False,False,biryani/9b0c2c7742.jpg
+indian_food_images,biryani,biryani,biryani,mutton pulao,mutton pulao|biryani|kosha mangsho,0.205279,False,False,True,biryani/46b318a675.jpg
+indian_food_images,biryani,biryani,biryani,hyderabadi pulao,hyderabadi pulao|mutton pulao|biryani,0.156352,False,False,True,biryani/4f8914a4bf.jpg
+indian_food_images,biryani,biryani,biryani,ramen noodles,ramen noodles|sev tamatar sabzi|hyderabadi pulao,0.303968,False,False,False,biryani/5f814c0627.jpg
+indian_food_images,biryani,biryani,biryani,chicken kothu parotta,chicken kothu parotta|panner fried rice|pad thai,0.113825,False,False,False,biryani/5a57c96bfc.jpg
+indian_food_images,biryani,biryani,biryani,mutton pulao,mutton pulao|biryani|chicken pulao,0.252277,False,False,True,biryani/4b34ae210e.jpg
+indian_food_images,biryani,biryani,biryani,chicken fried rice,chicken fried rice|panner fried rice|chicken pulao,0.475996,False,False,False,biryani/5b489b49c5.jpg
+indian_food_images,biryani,biryani,biryani,chicken kothu parotta,chicken kothu parotta|hyderabadi pulao|kothu parotta,0.235464,False,False,False,biryani/5aa9621cee.jpg
+indian_food_images,biryani,biryani,biryani,tomato rice,tomato rice|biryani|sev tamatar sabzi,0.545011,False,False,True,biryani/51cd87fe30.jpg
+indian_food_images,biryani,biryani,biryani,ramen noodles,ramen noodles|sev tamatar sabzi|soba,0.169118,False,False,False,biryani/9c42c23e69.jpg
+indian_food_images,biryani,biryani,biryani,biryani,biryani|methi thepla nu shaak|shrimp  prawn  pulao,0.407939,True,True,True,biryani/2b37e418dc.jpg
+indian_food_images,biryani,biryani,biryani,lemon rice,lemon rice|biryani|egg pulao,0.500894,False,False,True,biryani/4fc817a1a4.jpg
+indian_food_images,biryani,biryani,biryani,ramen noodles,ramen noodles|egg pulao|biryani,0.64538,False,False,True,biryani/4a7ac94a77.jpg
+indian_food_images,biryani,biryani,biryani,chicken pulao,chicken pulao|biryani|sev tamatar sabzi,0.18565,False,False,True,biryani/5c80c9eead.jpg
+indian_food_images,butter_chicken,butter chicken,butter chicken,butter chicken,butter chicken|chicken tikka masala|fish tikka,0.397999,True,True,True,butter_chicken/2f7c51b301.jpg
+indian_food_images,butter_chicken,butter chicken,butter chicken,chicken tikka masala,chicken tikka masala|butter chicken|dal makhani,0.233212,False,False,True,butter_chicken/2a737911c0.jpg
+indian_food_images,butter_chicken,butter chicken,butter chicken,butter chicken,butter chicken|chicken curry|panner butter masala,0.289924,True,True,True,butter_chicken/1a06acb86a.jpg
+indian_food_images,butter_chicken,butter chicken,butter chicken,chicken noodle soup,chicken noodle soup|crevettes malabari|wonton soup,0.327466,False,False,False,butter_chicken/1fa9069a37.jpg
+indian_food_images,butter_chicken,butter chicken,butter chicken,chicken tikka masala,chicken tikka masala|butter chicken|upma  veg,0.379856,False,False,True,butter_chicken/2a5dc2406a.jpg
+indian_food_images,butter_chicken,butter chicken,butter chicken,chicken tikka masala,chicken tikka masala|butter chicken|mushroom masala,0.557679,False,False,True,butter_chicken/2ab5e4e96a.jpg
+indian_food_images,butter_chicken,butter chicken,butter chicken,chicken tikka masala,chicken tikka masala|butter chicken|upma  veg,0.648343,False,False,True,butter_chicken/14c2d86c9f.jpg
+indian_food_images,butter_chicken,butter chicken,butter chicken,tomoto soup,tomoto soup|meen kulambu fish curry|tambda rassa red gravy,0.265358,False,False,False,butter_chicken/3f91ffdfe8.jpg
+indian_food_images,butter_chicken,butter chicken,butter chicken,ghanta bell pepper curry,ghanta bell pepper curry|chicken rassa|kodi pulusu  chicken curry,0.186931,False,False,False,butter_chicken/33e8639efd.jpg
+indian_food_images,butter_chicken,butter chicken,butter chicken,minestrone soup,minestrone soup|cream based soup|rajma masala,0.178772,False,False,False,butter_chicken/00a258a357.jpg
+indian_food_images,butter_chicken,butter chicken,butter chicken,chicken tikka masala,chicken tikka masala|butter chicken|panner butter masala,0.346718,False,False,True,butter_chicken/3ad0d5554a.jpg
+indian_food_images,butter_chicken,butter chicken,butter chicken,mushroom masala,mushroom masala|pad thai|butter chicken,0.232455,False,False,True,butter_chicken/2ee98471f9.jpg
+indian_food_images,butter_chicken,butter chicken,butter chicken,chicken tikka masala,chicken tikka masala|veg rogan josh|mutton curry,0.48495,False,False,False,butter_chicken/6be8967a74.jpg
+indian_food_images,butter_chicken,butter chicken,butter chicken,chaula ganta mushroom curry,chaula ganta mushroom curry|mushroom masala|matar paneer,0.229037,False,False,False,butter_chicken/7d334aaa93.jpg
+indian_food_images,butter_chicken,butter chicken,butter chicken,butter chicken,butter chicken|chicken tikka masala|panner butter masala,0.767529,True,True,True,butter_chicken/6ee1667eec.jpg
+indian_food_images,butter_chicken,butter chicken,butter chicken,kimchi fried rice,kimchi fried rice|chicken tikka masala|veg rogan josh,0.398137,False,False,False,butter_chicken/4e58fa470d.jpg
+indian_food_images,butter_chicken,butter chicken,butter chicken,rajma masala,rajma masala|eera kara kuzhambu shrimp|vengaya kara kuzhambu onion,0.108133,False,False,False,butter_chicken/1c212d65d9.jpg
+indian_food_images,butter_chicken,butter chicken,butter chicken,chicken curry,chicken curry|aloo chhenna ganta|aloo posto,0.143244,False,False,False,butter_chicken/8bd7175f50.jpg
+indian_food_images,butter_chicken,butter chicken,butter chicken,sukhdi,sukhdi|sambar|dal makhani,0.320488,False,False,False,butter_chicken/9e0ea4e35d.jpg
+indian_food_images,butter_chicken,butter chicken,butter chicken,chicken curry,chicken curry|vazhakkai curry banana curry|aloo posto,0.096547,False,False,False,butter_chicken/12cb6ca8b7.jpg
+indian_food_images,butter_chicken,butter chicken,butter chicken,chicken curry,chicken curry|naatu koshi curry country chicken curry|mutton korma,0.120708,False,False,False,butter_chicken/9ad6c9413f.jpg
+indian_food_images,butter_chicken,butter chicken,butter chicken,mutton rogan josh,mutton rogan josh|vengaya kara kuzhambu onion|gulab jamoon,0.281281,False,False,False,butter_chicken/3eb55ef5a4.jpg
+indian_food_images,butter_chicken,butter chicken,butter chicken,panner butter masala,panner butter masala|butter chicken|lentil soup,0.584635,False,False,True,butter_chicken/0a7bff692f.jpg
+indian_food_images,butter_chicken,butter chicken,butter chicken,chicken curry,chicken curry|chicken tikka masala|butter chicken,0.457596,False,False,True,butter_chicken/03b22cbe13.jpg
+indian_food_images,butter_chicken,butter chicken,butter chicken,vengaya kara kuzhambu onion,vengaya kara kuzhambu onion|mutton korma|mutton kara kuzhambu,0.181554,False,False,False,butter_chicken/35bdab425c.jpg
+indian_food_images,butter_chicken,butter chicken,butter chicken,veg rogan josh,veg rogan josh|chicken saaru|mutton saaru,0.172673,False,False,False,butter_chicken/06d8a495b7.jpg
+indian_food_images,butter_chicken,butter chicken,butter chicken,butter chicken,butter chicken|chicken tikka masala|meen kulambu fish curry,0.149251,True,True,True,butter_chicken/9fdb6e4cc7.jpg
+indian_food_images,butter_chicken,butter chicken,butter chicken,chicken tikka masala,chicken tikka masala|butter chicken|wazwan,0.135585,False,False,True,butter_chicken/6a38556210.jpg
+indian_food_images,butter_chicken,butter chicken,butter chicken,rajma masala,rajma masala|dudhi chana nu shaak|eera kara kuzhambu shrimp,0.701116,False,False,False,butter_chicken/0fcd81f71f.jpg
+indian_food_images,butter_chicken,butter chicken,butter chicken,sev tamatar sabzi,sev tamatar sabzi|spaghetti|ramen noodles,0.40789,False,False,False,butter_chicken/15a368b1e9.jpg
+indian_food_images,chapati,chappati,chappati,chappati,chappati|roti|roti with ghee,0.427215,True,True,True,chapati/9e68842803.jpg
+indian_food_images,chapati,chappati,chappati,upma  veg,upma  veg|chappati|phulka,0.189733,False,False,True,chapati/4aa81d7cfc.jpg
+indian_food_images,chapati,chappati,chappati,phulka,phulka|chappati|roti,0.203798,False,False,True,chapati/0c0c52729b.jpg
+indian_food_images,chapati,chappati,chappati,chappati,chappati|roti|phulka,0.371369,True,True,True,chapati/27d3c2267c.jpg
+indian_food_images,chapati,chappati,chappati,dosa plain,dosa plain|celyon egg parotta|podi dosa,0.806097,False,False,False,chapati/7e9b6b9134.jpg
+indian_food_images,chapati,chappati,chappati,roti with ghee,roti with ghee|chappati|phulka,0.399488,False,False,True,chapati/3df05a7c56.jpg
+indian_food_images,chapati,chappati,chappati,methi thepla nu shaak,methi thepla nu shaak|egg parotta|garlice naan,0.872962,False,False,False,chapati/38a4a135dd.jpg
+indian_food_images,chapati,chappati,chappati,kanji,kanji|odi thali|wazwan,0.188664,False,False,False,chapati/8ee25d4267.jpg
+indian_food_images,chapati,chappati,chappati,chappati,chappati|phulka|sukhdi,0.35329,True,True,True,chapati/4a5f1a2ab3.jpg
+indian_food_images,chapati,chappati,chappati,phulka,phulka|chappati|roti,0.678901,False,False,True,chapati/2a74582aa6.jpg
+indian_food_images,chapati,chappati,chappati,roti,roti|masala dosa|chappati,0.277677,False,False,True,chapati/27e01a9780.jpg
+indian_food_images,chapati,chappati,chappati,egg parotta,egg parotta|celyon egg parotta|methi thepla nu shaak,0.338173,False,False,False,chapati/18d165284c.jpg
+indian_food_images,chapati,chappati,chappati,tea,tea|coffee|ice icream,0.282132,False,False,False,chapati/35a26d15cc.jpg
+indian_food_images,chapati,chappati,chappati,dosa plain,dosa plain|kulfi|podi dosa,0.393344,False,False,False,chapati/6c5a3fdbb9.jpg
+indian_food_images,chapati,chappati,chappati,phulka,phulka|chappati|roti with ghee,0.570334,False,False,True,chapati/9b128b45f7.jpg
+indian_food_images,chapati,chappati,chappati,roti,roti|chappati|roti with ghee,0.38361,False,False,True,chapati/0bbaf9ac9a.jpg
+indian_food_images,chapati,chappati,chappati,roti,roti|chappati|butter naan,0.491867,False,False,True,chapati/5d633cebaa.jpg
+indian_food_images,chapati,chappati,chappati,chicken kabab,chicken kabab|roti|garlice naan,0.276946,False,False,False,chapati/4f83f264bc.jpg
+indian_food_images,chapati,chappati,chappati,pooricha parotta,pooricha parotta|medu vada|puchka,0.646633,False,False,False,chapati/8cfb70fceb.jpg
+indian_food_images,chapati,chappati,chappati,parotta,parotta|bun parota|pooricha parotta,0.51956,False,False,False,chapati/039c8b43a4.jpg
+indian_food_images,chapati,chappati,chappati,nadur yakhni,nadur yakhni|roti with ghee|roti,0.273764,False,False,False,chapati/2a93afc49b.jpg
+indian_food_images,chapati,chappati,chappati,roti,roti|phulka|chappati,0.335209,False,False,True,chapati/7bdb33b680.jpg
+indian_food_images,chapati,chappati,chappati,chappati,chappati|roti with ghee|phulka,0.503961,True,True,True,chapati/017d206bca.jpg
+indian_food_images,chapati,chappati,chappati,phulka,phulka|roti with ghee|roti,0.274969,False,False,False,chapati/14a01617e4.jpg
+indian_food_images,chapati,chappati,chappati,naan,naan|butter naan|roti with ghee,0.451774,False,False,False,chapati/7d5dcb6ac4.jpg
+indian_food_images,chapati,chappati,chappati,chappati,chappati|roti with ghee|phulka,0.465735,True,True,True,chapati/3f88f604c4.jpg
+indian_food_images,chapati,chappati,chappati,roti,roti|chappati|celyon egg parotta,0.494,False,False,True,chapati/3ff45bc50d.jpg
+indian_food_images,chapati,chappati,chappati,roti,roti|phulka|chappati,0.27928,False,False,True,chapati/8fe3ba4d36.jpg
+indian_food_images,chapati,chappati,chappati,chappati,chappati|roti|roti with ghee,0.671387,True,True,True,chapati/0b59806867.jpg
+indian_food_images,chapati,chappati,chappati,naan,naan|celyon egg parotta|chappati,0.177474,False,False,True,chapati/8bd081be15.jpg
+indian_food_images,chicken_tikka_masala,chicken tikka masala,chicken tikka masala,chicken chettinad,chicken chettinad|mutton curry|chicken curry,0.199216,False,False,False,chicken_tikka_masala/3d0b64911d.jpg
+indian_food_images,chicken_tikka_masala,chicken tikka masala,chicken tikka masala,mutton korma,mutton korma|meen kulambu fish curry|mutton curry,0.115167,False,False,False,chicken_tikka_masala/4ae1ff8628.jpg
+indian_food_images,chicken_tikka_masala,chicken tikka masala,chicken tikka masala,kodi pulusu  chicken curry,kodi pulusu  chicken curry|aloo gobi masala|chicken curry,0.17578,False,False,False,chicken_tikka_masala/3bb19fd58f.jpg
+indian_food_images,chicken_tikka_masala,chicken tikka masala,chicken tikka masala,chicken fried rice,chicken fried rice|masala idly|aloo chhenna ganta,0.153132,False,False,False,chicken_tikka_masala/30dda93423.jpg
+indian_food_images,chicken_tikka_masala,chicken tikka masala,chicken tikka masala,sambar,sambar|butter chicken|masala saaru,0.251984,False,False,False,chicken_tikka_masala/6f4f3f84a6.jpg
+indian_food_images,chicken_tikka_masala,chicken tikka masala,chicken tikka masala,butter chicken,butter chicken|dal makhani|chicken tikka masala,0.167337,False,False,True,chicken_tikka_masala/3cb396d02d.jpg
+indian_food_images,chicken_tikka_masala,chicken tikka masala,chicken tikka masala,chaula ganta mushroom curry,chaula ganta mushroom curry|rajma masala|chicken curry,0.147915,False,False,False,chicken_tikka_masala/4c50b39cca.jpg
+indian_food_images,chicken_tikka_masala,chicken tikka masala,chicken tikka masala,dudhi chana nu shaak,dudhi chana nu shaak|aloo chhenna ganta|kothu parotta,0.100009,False,False,False,chicken_tikka_masala/1b67a0fdb7.jpg
+indian_food_images,chicken_tikka_masala,chicken tikka masala,chicken tikka masala,aloo chhenna ganta,aloo chhenna ganta|sukha aloo dry potato curry|dudhi chana nu shaak,0.388314,False,False,False,chicken_tikka_masala/0dfaa738ba.jpg
+indian_food_images,chicken_tikka_masala,chicken tikka masala,chicken tikka masala,vengaya kara kuzhambu onion,vengaya kara kuzhambu onion|meen kulambu fish curry|wazwan,0.131373,False,False,False,chicken_tikka_masala/2a9968827f.jpg
+indian_food_images,chicken_tikka_masala,chicken tikka masala,chicken tikka masala,masala idly,masala idly|vazhakkai curry banana curry|sukha aloo dry potato curry,0.110412,False,False,False,chicken_tikka_masala/1e1beaab95.jpg
+indian_food_images,chicken_tikka_masala,chicken tikka masala,chicken tikka masala,chicken tikka masala,chicken tikka masala|chicken lollipop|mutton kofta curry,0.156158,True,True,True,chicken_tikka_masala/3fc682b9cf.jpg
+indian_food_images,chicken_tikka_masala,chicken tikka masala,chicken tikka masala,brinjal bharta,brinjal bharta|sev tamatar sabzi|tomato rice,0.296393,False,False,False,chicken_tikka_masala/9bb0ceee7d.jpg
+indian_food_images,chicken_tikka_masala,chicken tikka masala,chicken tikka masala,kodi pulusu  chicken curry,kodi pulusu  chicken curry|mutton kofta curry|chicken curry,0.227568,False,False,False,chicken_tikka_masala/39ad31bd44.jpg
+indian_food_images,chicken_tikka_masala,chicken tikka masala,chicken tikka masala,sambar,sambar|butter chicken|crevettes malabari,0.149418,False,False,False,chicken_tikka_masala/1eea29a7b3.jpg
+indian_food_images,chicken_tikka_masala,chicken tikka masala,chicken tikka masala,chicken tikka masala,chicken tikka masala|kimchi fried rice|veg rogan josh,0.923469,True,True,True,chicken_tikka_masala/31d89bc9b5.jpg
+indian_food_images,chicken_tikka_masala,chicken tikka masala,chicken tikka masala,chicken tikka masala,chicken tikka masala|butter chicken|brinjal bharta,0.335379,True,True,True,chicken_tikka_masala/3bfa7d682c.jpg
+indian_food_images,chicken_tikka_masala,chicken tikka masala,chicken tikka masala,chicken tikka masala,chicken tikka masala|kothu parotta|chicken curry,0.441527,True,True,True,chicken_tikka_masala/3a6fa8e35b.jpg
+indian_food_images,chicken_tikka_masala,chicken tikka masala,chicken tikka masala,mutton rogan josh,mutton rogan josh|masala batata rassa|chicken tikka masala,0.249652,False,False,True,chicken_tikka_masala/4b4ac3572e.jpg
+indian_food_images,chicken_tikka_masala,chicken tikka masala,chicken tikka masala,vazhakkai curry banana curry,vazhakkai curry banana curry|aloo chhenna ganta|chicken curry,0.09501,False,False,False,chicken_tikka_masala/2f49789828.jpg
+indian_food_images,chicken_tikka_masala,chicken tikka masala,chicken tikka masala,chicken tikka masala,chicken tikka masala|chicken curry|veg rogan josh,0.785392,True,True,True,chicken_tikka_masala/0ee24a81c0.jpg
+indian_food_images,chicken_tikka_masala,chicken tikka masala,chicken tikka masala,special fried rice,special fried rice|dudhi chana nu shaak|brinjal bharta,0.165279,False,False,False,chicken_tikka_masala/8e31a9b2ae.jpg
+indian_food_images,chicken_tikka_masala,chicken tikka masala,chicken tikka masala,butter chicken,butter chicken|chicken curry|aloo chhenna ganta,0.473044,False,False,False,chicken_tikka_masala/8bdd4faf47.jpg
+indian_food_images,chicken_tikka_masala,chicken tikka masala,chicken tikka masala,chicken tikka masala,chicken tikka masala|kimchi fried rice|tandoori chicken,0.340866,True,True,True,chicken_tikka_masala/19d5fbe38d.jpg
+indian_food_images,chicken_tikka_masala,chicken tikka masala,chicken tikka masala,chicken tikka masala,chicken tikka masala|chicken curry|veg rogan josh,0.897903,True,True,True,chicken_tikka_masala/8fca9cc4f8.jpg
+indian_food_images,chicken_tikka_masala,chicken tikka masala,chicken tikka masala,butter chicken,butter chicken|chicken tikka masala|chicken curry,0.336393,False,False,True,chicken_tikka_masala/2e5943ad78.jpg
+indian_food_images,chicken_tikka_masala,chicken tikka masala,chicken tikka masala,wazwan,wazwan|kimchi fried rice|chicken tikka masala,0.22121,False,False,True,chicken_tikka_masala/0c17814d81.jpg
+indian_food_images,chicken_tikka_masala,chicken tikka masala,chicken tikka masala,chicken tikka masala,chicken tikka masala|wazwan|vazhakkai curry banana curry,0.112037,True,True,True,chicken_tikka_masala/1c64663042.jpg
+indian_food_images,chicken_tikka_masala,chicken tikka masala,chicken tikka masala,rajma masala,rajma masala|minestrone soup|poondu kolambu,0.508995,False,False,False,chicken_tikka_masala/3d9d724bad.jpg
+indian_food_images,chicken_tikka_masala,chicken tikka masala,chicken tikka masala,chicken tikka masala,chicken tikka masala|kimchi fried rice|butter chicken,0.325391,True,True,True,chicken_tikka_masala/7e83b1fb3d.jpg
+indian_food_images,dal_makhani,dal makhani,dal makhani,tungrymbai,tungrymbai|egg dosa|dal makhani,0.107026,False,False,True,dal_makhani/5c70cba130.jpg
+indian_food_images,dal_makhani,dal makhani,dal makhani,tungrymbai,tungrymbai|dal makhani|mushroom kara kuzhmabu,0.15208,False,False,True,dal_makhani/1ad52bd457.jpg
+indian_food_images,dal_makhani,dal makhani,dal makhani,vathaa kolambu,vathaa kolambu|rajma masala|chole chickpea curry,0.221151,False,False,False,dal_makhani/27d08c0756.jpg
+indian_food_images,dal_makhani,dal makhani,dal makhani,dal makhani,dal makhani|soba|pho,0.53227,True,True,True,dal_makhani/2e55cee610.jpg
+indian_food_images,dal_makhani,dal makhani,dal makhani,dal makhani,dal makhani|tomoto soup|panner butter masala,0.529738,True,True,True,dal_makhani/56adca1ca0.jpg
+indian_food_images,dal_makhani,dal makhani,dal makhani,coffee,coffee|sukhdi|dal makhani,0.237361,False,False,True,dal_makhani/16c0dcfc8f.jpg
+indian_food_images,dal_makhani,dal makhani,dal makhani,dal makhani,dal makhani|cream based soup|sambar,0.597574,True,True,True,dal_makhani/38f272a910.jpg
+indian_food_images,dal_makhani,dal makhani,dal makhani,dal makhani,dal makhani|sukhdi|chicken tikka masala,0.605288,True,True,True,dal_makhani/6efb225d31.jpg
+indian_food_images,dal_makhani,dal makhani,dal makhani,dal makhani,dal makhani|peanut chutney|roti,0.987892,True,True,True,dal_makhani/7a3db50fe8.jpg
+indian_food_images,dal_makhani,dal makhani,dal makhani,dal makhani,dal makhani|vathaa kolambu|tungrymbai,0.217021,True,True,True,dal_makhani/9b8ab3b710.jpg
+indian_food_images,dal_makhani,dal makhani,dal makhani,uthappam,uthappam|egg dosa|dal makhani,0.266171,False,False,True,dal_makhani/1f584ddefd.jpg
+indian_food_images,dal_makhani,dal makhani,dal makhani,dal makhani,dal makhani|peanut chutney|podi dosa,0.997965,True,True,True,dal_makhani/4d4ea9dfc4.jpg
+indian_food_images,dal_makhani,dal makhani,dal makhani,mushroom kara kuzhmabu,mushroom kara kuzhmabu|dudhi chana nu shaak|tungrymbai,0.325864,False,False,False,dal_makhani/85b8720a56.jpg
+indian_food_images,dal_makhani,dal makhani,dal makhani,dal makhani,dal makhani|misal|veg rogan josh,0.220159,True,True,True,dal_makhani/42ea8e7dca.jpg
+indian_food_images,dal_makhani,dal makhani,dal makhani,dal makhani,dal makhani|tomato chutney|tomoto soup,0.544239,True,True,True,dal_makhani/5f65a4cf7b.jpg
+indian_food_images,dal_makhani,dal makhani,dal makhani,dal makhani,dal makhani|rajma masala|tomoto soup,0.294096,True,True,True,dal_makhani/66a8972767.jpg
+indian_food_images,dal_makhani,dal makhani,dal makhani,dal makhani,dal makhani|peanut chutney|coffee,0.93546,True,True,True,dal_makhani/5aa15d7232.jpg
+indian_food_images,dal_makhani,dal makhani,dal makhani,dal makhani,dal makhani|tomoto soup|cocunut chutney,0.846437,True,True,True,dal_makhani/3fe3fce913.jpg
+indian_food_images,dal_makhani,dal makhani,dal makhani,dal makhani,dal makhani|peanut chutney|bagara baingan brinjal curry,0.90915,True,True,True,dal_makhani/4c7e238a6e.jpg
+indian_food_images,dal_makhani,dal makhani,dal makhani,dal makhani,dal makhani|coffee|tomoto soup,0.488667,True,True,True,dal_makhani/01e577eea5.jpg
+indian_food_images,dal_makhani,dal makhani,dal makhani,muligatawny soup,muligatawny soup|murgh shorba|huli saaru tamarind rasam,0.330501,False,False,False,dal_makhani/8af2838312.jpg
+indian_food_images,dal_makhani,dal makhani,dal makhani,daal fry,daal fry|butter chicken|chicken tikka masala,0.62349,False,False,False,dal_makhani/5e33511f4d.jpg
+indian_food_images,dal_makhani,dal makhani,dal makhani,gongura mamasam,gongura mamasam|mushroom kara kuzhmabu|tungrymbai,0.485724,False,False,False,dal_makhani/43b0001737.jpg
+indian_food_images,dal_makhani,dal makhani,dal makhani,tomoto soup,tomoto soup|tomato chutney|tomato shorba,0.264149,False,False,False,dal_makhani/5f8a064957.jpg
+indian_food_images,dal_makhani,dal makhani,dal makhani,garlice naan,garlice naan|methi thepla nu shaak|cheesy garlic naan,0.277966,False,False,False,dal_makhani/1f37f40f9a.jpg
+indian_food_images,dal_makhani,dal makhani,dal makhani,chole chickpea curry,chole chickpea curry|coffee|masala saaru,0.538988,False,False,False,dal_makhani/0aa2abb093.jpg
+indian_food_images,dal_makhani,dal makhani,dal makhani,dal makhani,dal makhani|vathaa kolambu|rajma masala,0.940771,True,True,True,dal_makhani/0ed10a993c.jpg
+indian_food_images,dal_makhani,dal makhani,dal makhani,dal makhani,dal makhani|cocunut chutney|ramen noodles,0.346263,True,True,True,dal_makhani/72ba0c4387.jpg
+indian_food_images,dal_makhani,dal makhani,dal makhani,dal makhani,dal makhani|vathaa kolambu|tomoto soup,0.653577,True,True,True,dal_makhani/4b989fae02.jpg
+indian_food_images,dal_makhani,dal makhani,dal makhani,rajma masala,rajma masala|vendhaya kara kuzhambu feenugreek|vathaa kolambu,0.309449,False,False,False,dal_makhani/61d66f75d3.jpg
+indian_food_images,gulab_jamun,gulab jamoon,gulab jamoon,gulab jamoon,gulab jamoon|pukhlein|paruppu urundai kara kuzhambu lentil ball,0.889708,True,True,True,gulab_jamun/0b8d448b1c.jpg
+indian_food_images,gulab_jamun,gulab jamoon,gulab jamoon,gulab jamoon,gulab jamoon|pukhlein|non veg meals,0.492264,True,True,True,gulab_jamun/8acedcc3f3.jpg
+indian_food_images,gulab_jamun,gulab jamoon,gulab jamoon,gulab jamoon,gulab jamoon|pukhlein|apple,0.991572,True,True,True,gulab_jamun/4b583504d9.jpg
+indian_food_images,gulab_jamun,gulab jamoon,gulab jamoon,chicken lollipop,chicken lollipop|gulab jamoon|ice icream,0.425844,False,False,True,gulab_jamun/0e54a8f638.jpg
+indian_food_images,gulab_jamun,gulab jamoon,gulab jamoon,gulab jamoon,gulab jamoon|vengaya kara kuzhambu onion|apple,0.999425,True,True,True,gulab_jamun/8fa75b918e.jpg
+indian_food_images,gulab_jamun,gulab jamoon,gulab jamoon,gulab jamoon,gulab jamoon|apple|pukhlein,0.960844,True,True,True,gulab_jamun/7f67f6fa4c.jpg
+indian_food_images,gulab_jamun,gulab jamoon,gulab jamoon,gulab jamoon,gulab jamoon|pukhlein|apple,0.993437,True,True,True,gulab_jamun/03e3d2fccb.jpg
+indian_food_images,gulab_jamun,gulab jamoon,gulab jamoon,gulab jamoon,gulab jamoon|vengaya kara kuzhambu onion|vathaa kolambu,0.998986,True,True,True,gulab_jamun/2f2111c5db.jpg
+indian_food_images,gulab_jamun,gulab jamoon,gulab jamoon,gulab jamoon,gulab jamoon|pukhlein|vengaya kara kuzhambu onion,0.991729,True,True,True,gulab_jamun/7d8b3ac334.jpg
+indian_food_images,gulab_jamun,gulab jamoon,gulab jamoon,chicken lollipop,chicken lollipop|pukhlein|gulab jamoon,0.387791,False,False,True,gulab_jamun/2c767ec203.jpg
+indian_food_images,gulab_jamun,gulab jamoon,gulab jamoon,gulab jamoon,gulab jamoon|apple|pukhlein,0.995793,True,True,True,gulab_jamun/6c64fc4c3e.jpg
+indian_food_images,gulab_jamun,gulab jamoon,gulab jamoon,pukhlein,pukhlein|gulab jamoon|tomato chutney,0.585866,False,False,True,gulab_jamun/0d6bf9db5c.jpg
+indian_food_images,gulab_jamun,gulab jamoon,gulab jamoon,kashmiri pulao,kashmiri pulao|wazwan|cake,0.069891,False,False,False,gulab_jamun/1b6060cb40.jpg
+indian_food_images,gulab_jamun,gulab jamoon,gulab jamoon,menthya saaru,menthya saaru|ramen noodles|tandoori chicken,0.082865,False,False,False,gulab_jamun/2e56b97c6a.jpg
+indian_food_images,gulab_jamun,gulab jamoon,gulab jamoon,gulab jamoon,gulab jamoon|chicken lollipop|pukhlein,0.967741,True,True,True,gulab_jamun/1f57605b9c.jpg
+indian_food_images,gulab_jamun,gulab jamoon,gulab jamoon,gulab jamoon,gulab jamoon|pukhlein|apple,0.983579,True,True,True,gulab_jamun/2e8e827545.jpg
+indian_food_images,gulab_jamun,gulab jamoon,gulab jamoon,coffee,coffee|gulab jamoon|kalai chutney,0.22186,False,False,True,gulab_jamun/7e0abab96f.jpg
+indian_food_images,gulab_jamun,gulab jamoon,gulab jamoon,gulab jamoon,gulab jamoon|vengaya kara kuzhambu onion|poondu kolambu,0.990999,True,True,True,gulab_jamun/9c4390db63.jpg
+indian_food_images,gulab_jamun,gulab jamoon,gulab jamoon,gulab jamoon,gulab jamoon|apple|pukhlein,0.804678,True,True,True,gulab_jamun/0a66e750db.jpg
+indian_food_images,gulab_jamun,gulab jamoon,gulab jamoon,gulab jamoon,gulab jamoon|apple|pukhlein,0.660021,True,True,True,gulab_jamun/0ad2cb5741.jpg
+indian_food_images,gulab_jamun,gulab jamoon,gulab jamoon,gulab jamoon,gulab jamoon|vathaa kolambu|vengaya kara kuzhambu onion,0.982921,True,True,True,gulab_jamun/7f873042d8.jpg
+indian_food_images,gulab_jamun,gulab jamoon,gulab jamoon,gulab jamoon,gulab jamoon|apple|idly,0.994923,True,True,True,gulab_jamun/1b3323c25f.jpg
+indian_food_images,gulab_jamun,gulab jamoon,gulab jamoon,gulab jamoon,gulab jamoon|coffee|ice icream,0.969334,True,True,True,gulab_jamun/2a8f099caf.jpg
+indian_food_images,gulab_jamun,gulab jamoon,gulab jamoon,gulab jamoon,gulab jamoon|chicken lollipop|pukhlein,0.987812,True,True,True,gulab_jamun/8f6fe716ca.jpg
+indian_food_images,gulab_jamun,gulab jamoon,gulab jamoon,gulab jamoon,gulab jamoon|apple|pukhlein,0.508135,True,True,True,gulab_jamun/1e42656520.jpg
+indian_food_images,gulab_jamun,gulab jamoon,gulab jamoon,gulab jamoon,gulab jamoon|apple|chicken lollipop,0.985189,True,True,True,gulab_jamun/0d7ce09f3a.jpg
+indian_food_images,gulab_jamun,gulab jamoon,gulab jamoon,gulab jamoon,gulab jamoon|pukhlein|apple,0.999414,True,True,True,gulab_jamun/07ac023be3.jpg
+indian_food_images,gulab_jamun,gulab jamoon,gulab jamoon,gulab jamoon,gulab jamoon|vengaya kara kuzhambu onion|pukhlein,0.997119,True,True,True,gulab_jamun/3bdd77d45e.jpg
+indian_food_images,gulab_jamun,gulab jamoon,gulab jamoon,gulab jamoon,gulab jamoon|non veg meals|vengaya kara kuzhambu onion,0.247566,True,True,True,gulab_jamun/06b493f201.jpg
+indian_food_images,gulab_jamun,gulab jamoon,gulab jamoon,gulab jamoon,gulab jamoon|apple|idly,0.976153,True,True,True,gulab_jamun/1d0637e84d.jpg
+indian_food_images,naan,naan,naan,butter naan,butter naan|naan|garlice naan,0.398511,False,False,True,naan/4c2e6d837f.jpg
+indian_food_images,naan,naan,naan,butter naan,butter naan|naan|roti,0.332332,False,False,True,naan/3eeba485b4.jpg
+indian_food_images,naan,naan,naan,naan,naan|butter naan|chappati,0.251428,True,True,True,naan/4a32a5b649.jpg
+indian_food_images,naan,naan,naan,butter naan,butter naan|naan|garlice naan,0.466782,False,False,True,naan/0d49139e62.jpg
+indian_food_images,naan,naan,naan,naan,naan|garlice naan|butter naan,0.305863,True,True,True,naan/1b1da65165.jpg
+indian_food_images,naan,naan,naan,garlice naan,garlice naan|butter naan|naan,0.435747,False,False,True,naan/0ac9b0c175.jpg
+indian_food_images,naan,naan,naan,butter naan,butter naan|naan|garlice naan,0.501438,False,False,True,naan/0e188c151b.jpg
+indian_food_images,naan,naan,naan,naan,naan|roti with ghee|nadur yakhni,0.252746,True,True,True,naan/1c1b648e34.jpg
+indian_food_images,naan,naan,naan,naan,naan|butter naan|garlice naan,0.552925,True,True,True,naan/3e45e8aa09.jpg
+indian_food_images,naan,naan,naan,naan,naan|butter naan|vathaa kolambu,0.277585,True,True,True,naan/8a980da6b0.jpg
+indian_food_images,naan,naan,naan,naan,naan|butter naan|garlice naan,0.381547,True,True,True,naan/2e453cba80.jpg
+indian_food_images,naan,naan,naan,naan,naan|butter naan|mac and cheese,0.619638,True,True,True,naan/07b8b992f2.jpg
+indian_food_images,naan,naan,naan,butter naan,butter naan|naan|garlice naan,0.50964,False,False,True,naan/5c3db0a526.jpg
+indian_food_images,naan,naan,naan,naan,naan|butter naan|kulfi,0.252127,True,True,True,naan/1c6416298b.jpg
+indian_food_images,naan,naan,naan,butter naan,butter naan|naan|garlice naan,0.344005,False,False,True,naan/1cdc9b9e63.jpg
+indian_food_images,naan,naan,naan,medu vada,medu vada|roti|chappati,0.663829,False,False,False,naan/7c8975ad6b.jpg
+indian_food_images,naan,naan,naan,naan,naan|garlice naan|butter naan,0.347436,True,True,True,naan/7d5a4c401d.jpg
+indian_food_images,naan,naan,naan,butter naan,butter naan|naan|garlice naan,0.40546,False,False,True,naan/4cf68969d1.jpg
+indian_food_images,naan,naan,naan,naan,naan|butter naan|garlice naan,0.652871,True,True,True,naan/3d21c39420.jpg
+indian_food_images,naan,naan,naan,butter naan,butter naan|naan|garlice naan,0.471415,False,False,True,naan/2ed6582877.jpg
+indian_food_images,naan,naan,naan,butter naan,butter naan|naan|garlice naan,0.484031,False,False,True,naan/6e24eb5a8e.jpg
+indian_food_images,naan,naan,naan,butter naan,butter naan|naan|garlice naan,0.338801,False,False,True,naan/5e70549cca.jpg
+indian_food_images,naan,naan,naan,naan,naan|roti with ghee|butter naan,0.45889,True,True,True,naan/5f8300b245.jpg
+indian_food_images,naan,naan,naan,garlice naan,garlice naan|naan|butter naan,0.578961,False,False,True,naan/1a21cfe891.jpg
+indian_food_images,naan,naan,naan,butter naan,butter naan|naan|garlice naan,0.417568,False,False,True,naan/8c0ae71bea.jpg
+indian_food_images,naan,naan,naan,butter naan,butter naan|naan|garlice naan,0.397586,False,False,True,naan/7ed5cb94c1.jpg
+indian_food_images,naan,naan,naan,kalai chutney,kalai chutney|butter naan|appam,0.196892,False,False,False,naan/2c6a595231.jpg
+indian_food_images,naan,naan,naan,garlice naan,garlice naan|naan|butter naan,0.492052,False,False,True,naan/7c92a8be3b.jpg
+indian_food_images,naan,naan,naan,naan,naan|butter naan|garlice naan,0.819034,True,True,True,naan/4c8d580378.jpg
+indian_food_images,naan,naan,naan,naan,naan|garlice naan|butter naan,0.472837,True,True,True,naan/6ac2aad044.jpg
+khana,aloo gobi,allo gobi,allo gobi|aloo gobi masala,veg rogan josh,veg rogan josh|dudhi chana nu shaak|chole chickpea curry,0.195588,False,False,False,aloo gobi/icpfuvdimufqrh8edv4b
+khana,aloo gobi,allo gobi,allo gobi|aloo gobi masala,vazhakkai curry banana curry,vazhakkai curry banana curry|naatu koshi curry country chicken curry|aloo posto,0.234095,False,False,False,aloo gobi/omdqcx3vwe0vkpan7f8s
+khana,aloo gobi,allo gobi,allo gobi|aloo gobi masala,kothu parotta,kothu parotta|chicken kothu parotta|nasi goreng,0.585915,False,False,False,aloo gobi/zradopedknxo6y6tx518
+khana,aloo gobi,allo gobi,allo gobi|aloo gobi masala,minestrone soup,minestrone soup|veg rogan josh|rajma masala,0.30722,False,False,False,aloo gobi/sbkjqhqzqqnmvbngij9a
+khana,aloo gobi,allo gobi,allo gobi|aloo gobi masala,mutton chuka,mutton chuka|kosha mangsho|chicken lollipop,0.080226,False,False,False,aloo gobi/xdalpghuchdthtamboje
+khana,aloo gobi,allo gobi,allo gobi|aloo gobi masala,allo gobi,allo gobi|sukha aloo dry potato curry|shrimp prawn fried rice,0.626475,True,True,True,aloo gobi/zv5mirjgqyubnbygn373
+khana,aloo gobi,allo gobi,allo gobi|aloo gobi masala,allo gobi,allo gobi|pine apple fried rice|aloo chhenna ganta,0.546321,True,True,True,aloo gobi/rdll0sraxbetr3twpnxu
+khana,aloo gobi,allo gobi,allo gobi|aloo gobi masala,fish tikka,fish tikka|chicken lollipop|masala idly,0.110224,False,False,False,aloo gobi/c6948bcd75eb1f3cd89b35ab42a6f232
+khana,aloo gobi,allo gobi,allo gobi|aloo gobi masala,masala idly,masala idly|vazhakkai curry banana curry|aloo chhenna ganta,0.132019,False,False,False,aloo gobi/f1dda20738f76b96d6bbd2d29825c529
+khana,aloo gobi,allo gobi,allo gobi|aloo gobi masala,saag panner,saag panner|chaula ganta mushroom curry|misal,0.137275,False,False,False,aloo gobi/xvjf84despsymbrgsrdd
+khana,aloo gobi,allo gobi,allo gobi|aloo gobi masala,vazhakkai curry banana curry,vazhakkai curry banana curry|misal|kothu parotta,0.072958,False,False,False,aloo gobi/0996caef1191de3e8be8ead289edf16c
+khana,aloo gobi,allo gobi,allo gobi|aloo gobi masala,chole chickpea curry,chole chickpea curry|aloo chhenna ganta|masala idly,0.195507,False,False,False,aloo gobi/8d329a9a67e61632d69327725859a986
+khana,aloo gobi,allo gobi,allo gobi|aloo gobi masala,chicken lollipop,chicken lollipop|kosha mangsho|royyala vepudu shrimp fry,0.288736,False,False,False,aloo gobi/dwmaeo1ggkjgq4tm1dev
+khana,aloo gobi,allo gobi,allo gobi|aloo gobi masala,vinaigrette de legumes,vinaigrette de legumes|pine apple fried rice|doh dklieh,0.450298,False,False,False,aloo gobi/q4b3fm3okqs8xpsjdjdm
+khana,aloo gobi,allo gobi,allo gobi|aloo gobi masala,mutton curry,mutton curry|mutton saaru|kosha mangsho,0.21155,False,False,False,aloo gobi/y9w7fcij2ddrf1mjamsd
+khana,aloo gobi,allo gobi,allo gobi|aloo gobi masala,allo gobi,allo gobi|vazhakkai curry banana curry|dudhi chana nu shaak,0.533051,True,True,True,aloo gobi/rrssc9ezzufzvwnsu5d7
+khana,aloo gobi,allo gobi,allo gobi|aloo gobi masala,allo gobi,allo gobi|aloo gobi masala|sukha aloo dry potato curry,0.359595,True,True,True,aloo gobi/8f4d3f647fb311b2f56871bd7eabd08f
+khana,aloo gobi,allo gobi,allo gobi|aloo gobi masala,allo gobi,allo gobi|sukha aloo dry potato curry|aloo chhenna ganta,0.636445,True,True,True,aloo gobi/df3942ec228669ee75f25ecfe1205031
+khana,aloo gobi,allo gobi,allo gobi|aloo gobi masala,allo gobi,allo gobi|undhiyu|vazhakkai curry banana curry,0.564145,True,True,True,aloo gobi/b378hbdyfw9nj48681nd
+khana,aloo gobi,allo gobi,allo gobi|aloo gobi masala,allo gobi,allo gobi|vazhakkai curry banana curry|chicken fried rice,0.684147,True,True,True,aloo gobi/jxfrbvyfxvmhdtnkon1d
+khana,aloo gobi,allo gobi,allo gobi|aloo gobi masala,aloo chhenna ganta,aloo chhenna ganta|chicken fried rice|allo gobi,0.226847,False,False,True,aloo gobi/10cc6d35117ecd6d112c689819438f97
+khana,aloo gobi,allo gobi,allo gobi|aloo gobi masala,aloo chhenna ganta,aloo chhenna ganta|poondu kolambu|dudhi chana nu shaak,0.202204,False,False,False,aloo gobi/p8iyfpjxhe2km4d7ikb9
+khana,aloo gobi,allo gobi,allo gobi|aloo gobi masala,aloo gobi masala,aloo gobi masala|allo gobi|vazhakkai curry banana curry,0.405811,True,False,True,aloo gobi/5b63d6ed64cb672792e89a113ea5a2b7
+khana,aloo gobi,allo gobi,allo gobi|aloo gobi masala,aloo chhenna ganta,aloo chhenna ganta|dudhi chana nu shaak|vazhakkai curry banana curry,0.150856,False,False,False,aloo gobi/lifwz5tmn2yhnxok4bo5
+khana,aloo gobi,allo gobi,allo gobi|aloo gobi masala,undhiyu,undhiyu|aloo gobi masala|santula mustard curry,0.168305,False,False,True,aloo gobi/ugem92qd6ir1slywkpu6
+khana,aloo gobi,allo gobi,allo gobi|aloo gobi masala,besanbara,besanbara|pukhlein|milk,0.181526,False,False,False,aloo gobi/wyep9rpmk3kmy06uv6ml
+khana,aloo gobi,allo gobi,allo gobi|aloo gobi masala,aloo gobi masala,aloo gobi masala|vazhakkai curry banana curry|shrimp  prawn  pulao,0.162395,True,False,True,aloo gobi/e1645947a891c8c56a3f8d726eb44131
+khana,aloo gobi,allo gobi,allo gobi|aloo gobi masala,sukha aloo dry potato curry,sukha aloo dry potato curry|aloo chhenna ganta|chicken fried rice,0.362831,False,False,False,aloo gobi/315189ef47292a3e4880077cd09523ad
+khana,aloo gobi,allo gobi,allo gobi|aloo gobi masala,allo gobi,allo gobi|shrimp prawn fried rice|chicken fried rice,0.253004,True,True,True,aloo gobi/9389e31d9ade2c972faef5f39cf9ade4
+khana,aloo gobi,allo gobi,allo gobi|aloo gobi masala,aloo chhenna ganta,aloo chhenna ganta|sukha aloo dry potato curry|allo gobi,0.288009,False,False,True,aloo gobi/5eb935c43ceb88d575b85746bf178029
+khana,biryani,biryani,biryani,kothu parotta,kothu parotta|tomato rice|hyderabadi pulao,0.335344,False,False,False,biryani/muwiqz0bov4xbvzymlyq
+khana,biryani,biryani,biryani,jadoh,jadoh|wazwan|biryani,0.061785,False,False,True,biryani/phzkxc2uz2frzkz519ma
+khana,biryani,biryani,biryani,misal,misal|sev tamatar sabzi|coffee,0.302369,False,False,False,biryani/vxgpjlyhtbd6mjn7qart
+khana,biryani,biryani,biryani,misal,misal|sev tamatar sabzi|kothu parotta,0.715017,False,False,False,biryani/cc9b3277c1b9ae2dd6da10920d266857
+khana,biryani,biryani,biryani,biryani,biryani|hyderabadi pulao|brinjal bharta,0.171095,True,True,True,biryani/35a99c6f45a5cad94c129a3701e6a869
+khana,biryani,biryani,biryani,vegetable pulao,vegetable pulao|kashmiri pulao|vinaigrette de legumes,0.236299,False,False,False,biryani/2faf6ce2de0aaf26645556f3edfd5087
+khana,biryani,biryani,biryani,kimchi fried rice,kimchi fried rice|misal|kothu parotta,0.210179,False,False,False,biryani/d13c3a50d55e791803bf61643122191a
+khana,biryani,biryani,biryani,mutton chuka,mutton chuka|mutton rogan josh|gulab jamoon,0.308745,False,False,False,biryani/keejq2ngvsbjqmkahpvy
+khana,biryani,biryani,biryani,kothu parotta,kothu parotta|pad thai|chicken pulao,0.223525,False,False,False,biryani/lpvbgdxahscwtu42pyzy
+khana,biryani,biryani,biryani,misal,misal|sev tamatar sabzi|ramen noodles,0.863227,False,False,False,biryani/pesrlcoj1a8gnlorzcpo
+khana,biryani,biryani,biryani,chicken pulao,chicken pulao|biryani|panner fried rice,0.469916,False,False,True,biryani/pomogyy4cyfrcwu04jgu
+khana,biryani,biryani,biryani,misal,misal|tungrymbai|sev tamatar sabzi,0.146073,False,False,False,biryani/joznrgzb19n9sib0simr
+khana,biryani,biryani,biryani,palak panner pulao,palak panner pulao|chicken kothu parotta|pad thai,0.347192,False,False,False,biryani/tydhmpl9drk5tpcjcfqd
+khana,biryani,biryani,biryani,sev tamatar sabzi,sev tamatar sabzi|ramen noodles|chicken pulao,0.19303,False,False,False,biryani/wz9ki556zwx6mfpsilvs
+khana,biryani,biryani,biryani,cake,cake|chicken lollipop|kothu parotta,0.420682,False,False,False,biryani/vaynnxfxb3cjj5xecy7r
+khana,biryani,biryani,biryani,soba,soba|coffee|gulab jamoon,0.586716,False,False,False,biryani/srx0xolbx2heuxhnm8lu
+khana,biryani,biryani,biryani,misal,misal|special fried rice|vegetable fried rice,0.27113,False,False,False,biryani/zwl0dctl9ffvkmvy4rtt
+khana,biryani,biryani,biryani,misal,misal|nasi goreng|kothu parotta,0.248607,False,False,False,biryani/00ba39d250b9afbb75b56bd0dabab378
+khana,biryani,biryani,biryani,vegetable fried rice,vegetable fried rice|misal|kothu parotta,0.161492,False,False,False,biryani/l7gjwsk469dx445xoi7t
+khana,biryani,biryani,biryani,biryani,biryani|hyderabadi pulao|kothu parotta,0.25346,True,True,True,biryani/vfmpfp86mnehhcws21mu
+khana,biryani,biryani,biryani,vegetable pulao,vegetable pulao|chicken pulao|vegetable fried rice,0.079761,False,False,False,biryani/s29z3phfzebr1inwts4p
+khana,biryani,biryani,biryani,pad thai,pad thai|mutton pulao|chicken pulao,0.207182,False,False,False,biryani/3bc1cdf316a5fef0eef4a033b1b2ba5d
+khana,biryani,biryani,biryani,kashmiri pulao,kashmiri pulao|basmati rice|ramen noodles,0.105732,False,False,False,biryani/a0dba8cdbe1182ff7a1f939ad5d2e30d
+khana,biryani,biryani,biryani,misal,misal|sev tamatar sabzi|kashmiri pulao,0.231886,False,False,False,biryani/f351706eefa64bdc970d0c6122fb57cc
+khana,biryani,biryani,biryani,chicken kothu parotta,chicken kothu parotta|kothu parotta|pad thai,0.218431,False,False,False,biryani/77fea0d2bac531bc56ca4bc393dcfe8b
+khana,biryani,biryani,biryani,solkadi,solkadi|haakh|palak shorba,0.193721,False,False,False,biryani/m0txbxapydfjirmm2ppf
+khana,biryani,biryani,biryani,misal,misal|sev tamatar sabzi|kothu parotta,0.344829,False,False,False,biryani/klkzmipypuiqlu3jbzo4
+khana,biryani,biryani,biryani,sev tamatar sabzi,sev tamatar sabzi|ramen noodles|hyderabadi pulao,0.957796,False,False,False,biryani/rshleblqyql2h9gjdwjo
+khana,biryani,biryani,biryani,matar  peas pulao,matar  peas pulao|panner fried rice|vegetable pulao,0.076952,False,False,False,biryani/393bea6aa64bf12f5398875d80c240fd
+khana,biryani,biryani,biryani,murgh shorba,murgh shorba|matar  peas pulao|solkadi,0.083817,False,False,False,biryani/acddxv0cdhyv3avbilxt
+khana,chana masala,chole chickpea curry,chole chickpea curry,ramen noodles,ramen noodles|misal|puchka,0.197791,False,False,False,chana masala/z7v9lsizal455fnkzxni
+khana,chana masala,chole chickpea curry,chole chickpea curry,tambda rassa red gravy,tambda rassa red gravy|kothu parotta|mutton rogan josh,0.182477,False,False,False,chana masala/rngqps9d8zbpxafwmpiq
+khana,chana masala,chole chickpea curry,chole chickpea curry,gulab jamoon,gulab jamoon|vengaya kara kuzhambu onion|chole chickpea curry,0.240676,False,False,True,chana masala/smuuwjvaypk0xihpzque
+khana,chana masala,chole chickpea curry,chole chickpea curry,misal,misal|sev tamatar sabzi|brinjal bharta,0.146174,False,False,False,chana masala/qh8r5xjq7ynoia4syi3x
+khana,chana masala,chole chickpea curry,chole chickpea curry,masala saaru,masala saaru|dal bengal|bisi bele bath saaru,0.236975,False,False,False,chana masala/c1cf39a69d767a6a7259e6f5c2ead11f
+khana,chana masala,chole chickpea curry,chole chickpea curry,chole chickpea curry,chole chickpea curry|minestrone soup|masala saaru,0.199416,True,True,True,chana masala/tjtcg2khzozq64dgichs
+khana,chana masala,chole chickpea curry,chole chickpea curry,masala batata rassa,masala batata rassa|tomato chutney|misal,0.085829,False,False,False,chana masala/gzwsxo3bcgjifrw7gob0
+khana,chana masala,chole chickpea curry,chole chickpea curry,chole chickpea curry,chole chickpea curry|masala saaru|dudhi chana nu shaak,0.665066,True,True,True,chana masala/mchxbr1i37nmehmptdtf
+khana,chana masala,chole chickpea curry,chole chickpea curry,chole chickpea curry,chole chickpea curry|veg rogan josh|chaula ganta mushroom curry,0.421265,True,True,True,chana masala/ba9cc68e23e9e4b32512b2046b3021a7
+khana,chana masala,chole chickpea curry,chole chickpea curry,chole chickpea curry,chole chickpea curry|dudhi chana nu shaak|rajma masala,0.273698,True,True,True,chana masala/gfro2ktlz2kchb8vnsrr
+khana,chana masala,chole chickpea curry,chole chickpea curry,chole chickpea curry,chole chickpea curry|masala saaru|puchka,0.975107,True,True,True,chana masala/loolcmmaxlgi4sdjurgv
+khana,chana masala,chole chickpea curry,chole chickpea curry,chole chickpea curry,chole chickpea curry|minestrone soup|masala saaru,0.917765,True,True,True,chana masala/f4a8863705a139a41aeaa1cc088c4664
+khana,chana masala,chole chickpea curry,chole chickpea curry,tambda rassa red gravy,tambda rassa red gravy|vengaya kara kuzhambu onion|minestrone soup,0.164346,False,False,False,chana masala/yojgqztvm5jirvjh9cji
+khana,chana masala,chole chickpea curry,chole chickpea curry,chole chickpea curry,chole chickpea curry|undhiyu|aloo chhenna ganta,0.294247,True,True,True,chana masala/c7082d25925347ad0e77cb8cc69ce14c
+khana,chana masala,chole chickpea curry,chole chickpea curry,chole chickpea curry,chole chickpea curry|dudhi chana nu shaak|masala saaru,0.351014,True,True,True,chana masala/hvfc7t9zgqzvagqbokcp
+khana,chana masala,chole chickpea curry,chole chickpea curry,rajma masala,rajma masala|naatu koshi curry country chicken curry|mutton kara kuzhambu,0.122845,False,False,False,chana masala/da1tur72b6vxoimffqnu
+khana,chana masala,chole chickpea curry,chole chickpea curry,minestrone soup,minestrone soup|chole chickpea curry|vegetable soup,0.509242,False,False,True,chana masala/87bdee34afdd0b8d1eb5b0ad8f8740ad
+khana,chana masala,chole chickpea curry,chole chickpea curry,dal makhani,dal makhani|coffee|tomoto soup,0.203196,False,False,False,chana masala/kxxzfjdn6zrexztf2q9m
+khana,chana masala,chole chickpea curry,chole chickpea curry,coffee,coffee|vathaa kolambu|gulab jamoon,0.711417,False,False,False,chana masala/eodsbfcdx43gej0slyop
+khana,chana masala,chole chickpea curry,chole chickpea curry,misal,misal|ramen noodles|odi thali,0.220518,False,False,False,chana masala/bjnpxaoipklpockqvxec
+khana,chana masala,chole chickpea curry,chole chickpea curry,chole chickpea curry,chole chickpea curry|rajma masala|minestrone soup,0.456502,True,True,True,chana masala/cw5coxxsbsxxdwq25dcg
+khana,chana masala,chole chickpea curry,chole chickpea curry,vegetable soup,vegetable soup|tomato shorba|tomoto soup,0.084025,False,False,False,chana masala/kygmghy2gincvjrgj9v2
+khana,chana masala,chole chickpea curry,chole chickpea curry,poondu kolambu,poondu kolambu|vengaya kara kuzhambu onion|eera kara kuzhambu shrimp,0.128064,False,False,False,chana masala/fjyipunlbtsjuq0x8nks
+khana,chana masala,chole chickpea curry,chole chickpea curry,misal,misal|ramen noodles|soba,0.249583,False,False,False,chana masala/h8by7r9f64oeexvpzssq
+khana,chana masala,chole chickpea curry,chole chickpea curry,vazhakkai curry banana curry,vazhakkai curry banana curry|kothu parotta|allo gobi,0.168056,False,False,False,chana masala/utlxuspvhgpim9ox4ohh
+khana,chana masala,chole chickpea curry,chole chickpea curry,chole chickpea curry,chole chickpea curry|coffee|minestrone soup,0.417889,True,True,True,chana masala/00bb0581abe699197daf9d8a3a35e97a
+khana,chana masala,chole chickpea curry,chole chickpea curry,tambda rassa red gravy,tambda rassa red gravy|rajma masala|vengaya kara kuzhambu onion,0.115479,False,False,False,chana masala/ee7657bc3341c8ef570441a2cdd750b3
+khana,chana masala,chole chickpea curry,chole chickpea curry,chole chickpea curry,chole chickpea curry|minestrone soup|dudhi chana nu shaak,0.940698,True,True,True,chana masala/ceb493dfefd4bafe0d88be8771733a2e
+khana,chana masala,chole chickpea curry,chole chickpea curry,chole chickpea curry,chole chickpea curry|minestrone soup|dudhi chana nu shaak,0.596609,True,True,True,chana masala/noswbenbx7cpfmlrapsk
+khana,chana masala,chole chickpea curry,chole chickpea curry,nasi goreng,nasi goreng|wazwan|kothu parotta,0.071856,False,False,False,chana masala/jrj9yphndinakln6z24h
+khana,chapati,chappati,chappati|roti|phulka,parotta,parotta|chappati|phulka,0.317113,False,False,True,chapati/sicz7bynechbkuyrdegm
+khana,chapati,chappati,chappati|roti|phulka,kalai chutney,kalai chutney|appam|coffee,0.659219,False,False,False,chapati/kxxbji1vtarw2povgnxw
+khana,chapati,chappati,chappati|roti|phulka,chappati,chappati|phulka|roti,0.440809,True,True,True,chapati/7f27de309376c2e1b8e3d15f757df384
+khana,chapati,chappati,chappati|roti|phulka,roti,roti|chappati|butter naan,0.222464,True,False,True,chapati/ibrrdjh1pvbyobw0dcvw
+khana,chapati,chappati,chappati|roti|phulka,chappati,chappati|phulka|roti,0.112892,True,True,True,chapati/vfpo9s6mdxceljveic8i
+khana,chapati,chappati,chappati|roti|phulka,pukhlein,pukhlein|dosa plain|idly,0.57735,False,False,False,chapati/zozoxmcfgk3qdjqyp7va
+khana,chapati,chappati,chappati|roti|phulka,dosa plain,dosa plain|vendhaya kara kuzhambu feenugreek|appam,0.088609,False,False,False,chapati/dyrmdhckweisccz4rzjc
+khana,chapati,chappati,chappati|roti|phulka,phulka,phulka|chappati|roti,0.287698,True,False,True,chapati/gqvnze8gl0b83jajshp7
+khana,chapati,chappati,chappati|roti|phulka,appam,appam|phulka|dosa plain,0.176879,False,False,True,chapati/o53h2dwbtbtifiblgecl
+khana,chapati,chappati,chappati|roti|phulka,roti,roti|chappati|phulka,0.204152,True,False,True,chapati/qipcs0c6qpxi8g2c5jiv
+khana,chapati,chappati,chappati|roti|phulka,roti with ghee,roti with ghee|roti|phulka,0.17132,False,False,True,chapati/wrelt0j1iozkw4peazk8
+khana,chapati,chappati,chappati|roti|phulka,roti with ghee,roti with ghee|roti|phulka,0.203201,False,False,True,chapati/m9grcm1uqsor3q17mcgq
+khana,chapati,chappati,chappati|roti|phulka,roti,roti|chappati|phulka,0.253985,True,False,True,chapati/haosokwzih56edsm72kn
+khana,chapati,chappati,chappati|roti|phulka,kalai chutney,kalai chutney|phulka|ice icream,0.121869,False,False,True,chapati/4f5872974523c67a3a3b8a848a38c5e7
+khana,chapati,chappati,chappati|roti|phulka,nadur yakhni,nadur yakhni|chappati|roti,0.173751,False,False,True,chapati/zowdn3y7mj01adzpbtkk
+khana,chapati,chappati,chappati|roti|phulka,chappati,chappati|roti|sukhdi,0.32176,True,True,True,chapati/47e68c7dc6f44b2f5078c2f8cb3d6af2
+khana,chapati,chappati,chappati|roti|phulka,cream based soup,cream based soup|dal makhani|chicken noodle soup,0.238848,False,False,False,chapati/113588f6cab971be011a55551ce78cfd
+khana,chapati,chappati,chappati|roti|phulka,kalai chutney,kalai chutney|coffee|tea,0.197636,False,False,False,chapati/omaicrbksxddepdsdxvp
+khana,chapati,chappati,chappati|roti|phulka,phulka,phulka|roti with ghee|roti,0.162705,True,False,True,chapati/enlixk1tyevpf9e65qno
+khana,chapati,chappati,chappati|roti|phulka,chappati,chappati|roti|dal makhani,0.246584,True,True,True,chapati/q2a9mnshfk5kc2jytllk
+khana,chapati,chappati,chappati|roti|phulka,pukhlein,pukhlein|dosa plain|idly,0.621331,False,False,False,chapati/gl4btrt617dw4zo5lp96
+khana,chapati,chappati,chappati|roti|phulka,chappati,chappati|roti|roti with ghee,0.159581,True,True,True,chapati/qeyawouvbic9zfca46jn
+khana,chapati,chappati,chappati|roti|phulka,podi dosa,podi dosa|dosa plain|egg dosa,0.176085,False,False,False,chapati/w4nxe1waforjxr7s2kp7
+khana,chapati,chappati,chappati|roti|phulka,roti,roti|phulka|kalai chutney,0.108148,True,False,True,chapati/cpjoer5dhpwodzjyie5w
+khana,chapati,chappati,chappati|roti|phulka,kulfi,kulfi|butter naan|naan,0.208269,False,False,False,chapati/iyyh7jcwugt0lcdte5tv
+khana,chapati,chappati,chappati|roti|phulka,coffee,coffee|tea|dosa plain,0.332927,False,False,False,chapati/ppfdpz7kdm5p0mfyqaux
+khana,chapati,chappati,chappati|roti|phulka,roti,roti|phulka|roti with ghee,0.345132,True,False,True,chapati/rgzmtpnoayugmy6r9ils
+khana,chapati,chappati,chappati|roti|phulka,kalai chutney,kalai chutney|appam|coffee,0.396815,False,False,False,chapati/qy4ftdsbtktjwek2lzcn
+khana,chapati,chappati,chappati|roti|phulka,butter naan,butter naan|naan|chappati,0.317481,False,False,True,chapati/e02d446b02955c6cd5c302f9ecf6b599
+khana,chapati,chappati,chappati|roti|phulka,roti,roti|chappati|phulka,0.420763,True,False,True,chapati/spp1o5ggffzf40tpl7x2
+khana,fish curry,fish curry,fish curry,tungrymbai,tungrymbai|gongura mamasam|mushroom kara kuzhmabu,0.490765,False,False,False,fish curry/r6wrzpwvlvhm24q8qniu
+khana,fish curry,fish curry,fish curry,shukto,shukto|meen moilee fish molee|methi thepla nu shaak,0.606929,False,False,False,fish curry/fqdsxtrylbagz4tgxk4a
+khana,fish curry,fish curry,fish curry,muligatawny soup,muligatawny soup|chicken noodle soup|chaula ganta mushroom curry,0.127611,False,False,False,fish curry/dew1hluvkqiumfvxis8g
+khana,fish curry,fish curry,fish curry,tambda rassa red gravy,tambda rassa red gravy|chepala pulusu fish curry|meen kulambu fish curry,0.118177,False,False,False,fish curry/zsoeqmtnjjassncbzfkp
+khana,fish curry,fish curry,fish curry,gulab jamoon,gulab jamoon|tomoto soup|tomato shorba,0.732876,False,False,False,fish curry/suv4v9kyimwl4vd2vuhn
+khana,fish curry,fish curry,fish curry,masala dosa,masala dosa|podi dosa|dosa plain,0.191467,False,False,False,fish curry/057a01492ca50001c6c64714745678b3
+khana,fish curry,fish curry,fish curry,idly,idly|coffee|tea,0.216752,False,False,False,fish curry/ip96qgfzh01zzl7p9mkw
+khana,fish curry,fish curry,fish curry,sukhdi,sukhdi|gulab jamoon|vengaya kara kuzhambu onion,0.132492,False,False,False,fish curry/gkxywukakd7cnbtmpify
+khana,fish curry,fish curry,fish curry,sambar,sambar|masala dosa|butter chicken,0.06165,False,False,False,fish curry/ca61rnzaeluabrtec95x
+khana,fish curry,fish curry,fish curry,gulab jamoon,gulab jamoon|tomoto soup|vengaya kara kuzhambu onion,0.733878,False,False,False,fish curry/z4nhceze90ilteqaanal
+khana,fish curry,fish curry,fish curry,mutton rogan josh,mutton rogan josh|chicken chettinad|rajma masala,0.160851,False,False,False,fish curry/qncgjtd6ma6khgggamc1
+khana,fish curry,fish curry,fish curry,gustaba,gustaba|machha besan|paruppu urundai kara kuzhambu lentil ball,0.08742,False,False,False,fish curry/z9g5rp3smsmclmhmogzd
+khana,fish curry,fish curry,fish curry,mutton korma,mutton korma|mutton curry|meen kulambu fish curry,0.143745,False,False,False,fish curry/bacf193baea63a250c711e3ff05817d7
+khana,fish curry,fish curry,fish curry,paruppu urundai kara kuzhambu lentil ball,paruppu urundai kara kuzhambu lentil ball|vendhaya kara kuzhambu feenugreek|meen kara kuzhambu fish,0.16253,False,False,False,fish curry/gkzpkaeqbk6i1w872lqx
+khana,fish curry,fish curry,fish curry,vendhaya kara kuzhambu feenugreek,vendhaya kara kuzhambu feenugreek|vengaya kara kuzhambu onion|tomoto soup,0.135454,False,False,False,fish curry/z56hi7m6lsvf2leweetx
+khana,fish curry,fish curry,fish curry,fish curry,fish curry|tandoori chicken|chepala pulusu fish curry,0.293005,True,True,True,fish curry/qdyxyckf2zhwkow6ak16
+khana,fish curry,fish curry,fish curry,gulab jamoon,gulab jamoon|vengaya kara kuzhambu onion|vendhaya kara kuzhambu feenugreek,0.907842,False,False,False,fish curry/89074438bec80079ac2ed09dbf11816d
+khana,fish curry,fish curry,fish curry,vendhaya kara kuzhambu feenugreek,vendhaya kara kuzhambu feenugreek|vengaya kara kuzhambu onion|tomato chutney,0.13967,False,False,False,fish curry/kkbodkko66hn9ujxmysh
+khana,fish curry,fish curry,fish curry,tomoto soup,tomoto soup|masala idly|fish curry,0.242738,False,False,True,fish curry/bd8adc233a1c59e04e5627fae2438016
+khana,fish curry,fish curry,fish curry,coffee,coffee|tea|milk,0.640101,False,False,False,fish curry/qi7hmltisgrptewezh0x
+khana,fish curry,fish curry,fish curry,paruppu urundai kara kuzhambu lentil ball,paruppu urundai kara kuzhambu lentil ball|murgh shorba|vengaya kara kuzhambu onion,0.330622,False,False,False,fish curry/agm2wft0qdqsnw3ekkj6
+khana,fish curry,fish curry,fish curry,tomoto soup,tomoto soup|tomato shorba|gulab jamoon,0.208895,False,False,False,fish curry/nq8huu04tvwoquppv28i
+khana,fish curry,fish curry,fish curry,coffee,coffee|non veg meals|vegetables kabab,0.166744,False,False,False,fish curry/f6lljkzyh25dmm37vi7d
+khana,fish curry,fish curry,fish curry,meen kulambu fish curry,meen kulambu fish curry|chicken curry|chepala pulusu fish curry,0.278411,False,False,False,fish curry/r80lkgttruuiyhqhvugg
+khana,fish curry,fish curry,fish curry,vendhaya kara kuzhambu feenugreek,vendhaya kara kuzhambu feenugreek|sambar|rajma masala,0.05748,False,False,False,fish curry/jg5omsxerwvfowcnlj28
+khana,fish curry,fish curry,fish curry,dal makhani,dal makhani|podi dosa|bagara baingan brinjal curry,0.102113,False,False,False,fish curry/oqmzscjxjbhymbxnidtp
+khana,fish curry,fish curry,fish curry,mutton kara kuzhambu,mutton kara kuzhambu|tambda rassa red gravy|vengaya kara kuzhambu onion,0.093732,False,False,False,fish curry/4e8a082c81e16ec9a821df75d172ef08
+khana,fish curry,fish curry,fish curry,tomoto soup,tomoto soup|panner butter masala|butter chicken,0.220807,False,False,False,fish curry/dc414d96413c3872862479f580ac4deb
+khana,fish curry,fish curry,fish curry,murgh shorba,murgh shorba|dal shorba|lentil soup,0.085999,False,False,False,fish curry/290f22435143ca4af7dcb669e74f2f1e
+khana,fish curry,fish curry,fish curry,mutton kara kuzhambu,mutton kara kuzhambu|meen kulambu fish curry|naatu koshi curry country chicken curry,0.13851,False,False,False,fish curry/cbjudtjxsvsfd51gyqys
+khana,garlic naan,garlice naan,garlice naan|cheesy garlic naan,butter naan,butter naan|naan|cheesy garlic naan,0.342277,False,False,True,garlic naan/d3dwtihco6dfpk4dgdj2
+khana,garlic naan,garlice naan,garlice naan|cheesy garlic naan,uthappam,uthappam|roti with ghee|butter naan,0.107241,False,False,False,garlic naan/btx1opcmi481zv9ouqtl
+khana,garlic naan,garlice naan,garlice naan|cheesy garlic naan,chappati,chappati|roti|methi thepla nu shaak,0.191051,False,False,False,garlic naan/obvjpzr7u5dwhvcpdezi
+khana,garlic naan,garlice naan,garlice naan|cheesy garlic naan,butter naan,butter naan|chappati|naan,0.162769,False,False,False,garlic naan/vsch7esdz3q2nenzqsbo
+khana,garlic naan,garlice naan,garlice naan|cheesy garlic naan,naan,naan|butter naan|garlice naan,0.412378,False,False,True,garlic naan/bx3g3meftug7h1lpwznq
+khana,garlic naan,garlice naan,garlice naan|cheesy garlic naan,naan,naan|butter naan|garlice naan,0.495344,False,False,True,garlic naan/02113f2b848e201358e1fa5adf9daa6a
+khana,garlic naan,garlice naan,garlice naan|cheesy garlic naan,naan,naan|butter naan|phulka,0.155034,False,False,False,garlic naan/b8zdrunttipdio0apucx
+khana,garlic naan,garlice naan,garlice naan|cheesy garlic naan,celyon egg parotta,celyon egg parotta|butter naan|egg parotta,0.317744,False,False,False,garlic naan/lsm3cjxyh1uehjdwyuv0
+khana,garlic naan,garlice naan,garlice naan|cheesy garlic naan,roti,roti|chappati|phulka,0.205901,False,False,False,garlic naan/negcug2p2uoj1vubooz5
+khana,garlic naan,garlice naan,garlice naan|cheesy garlic naan,butter naan,butter naan|garlice naan|cheesy garlic naan,0.269168,False,False,True,garlic naan/krvpbotcawaztjinjr1p
+khana,garlic naan,garlice naan,garlice naan|cheesy garlic naan,phulka,phulka|chappati|nadur yakhni,0.066174,False,False,False,garlic naan/xokjfunzofx8obcttz3v
+khana,garlic naan,garlice naan,garlice naan|cheesy garlic naan,naan,naan|cheesy garlic naan|butter naan,0.751364,False,False,True,garlic naan/uxgfb40ikaepmhf8ijjo
+khana,garlic naan,garlice naan,garlice naan|cheesy garlic naan,butter naan,butter naan|garlice naan|malai tikka,0.403437,False,False,True,garlic naan/fhyfghqu5xgonc6qba1b
+khana,garlic naan,garlice naan,garlice naan|cheesy garlic naan,malai tikka,malai tikka|butter naan|egg parotta,0.388868,False,False,False,garlic naan/okljhy5quqmxzxv6js63
+khana,garlic naan,garlice naan,garlice naan|cheesy garlic naan,roti with ghee,roti with ghee|phulka|parotta,0.160706,False,False,False,garlic naan/bmrnawjpto85ksrycuqy
+khana,garlic naan,garlice naan,garlice naan|cheesy garlic naan,naan,naan|butter naan|garlice naan,0.169768,False,False,True,garlic naan/08f8d353b51a7b0af9d4660fae5e67a1
+khana,garlic naan,garlice naan,garlice naan|cheesy garlic naan,nadur yakhni,nadur yakhni|pandhra rassa whit gravy|malai tikka,0.242816,False,False,False,garlic naan/74abe7ded90fa01f2bf4f89e777ad356
+khana,garlic naan,garlice naan,garlice naan|cheesy garlic naan,naan,naan|butter naan|cheesy garlic naan,0.247999,False,False,True,garlic naan/76ce3130f7623d602cbfcccc85b3a189
+khana,garlic naan,garlice naan,garlice naan|cheesy garlic naan,butter naan,butter naan|chappati|celyon egg parotta,0.348948,False,False,False,garlic naan/vmjdxnsgnkmz41fgefxp
+khana,garlic naan,garlice naan,garlice naan|cheesy garlic naan,roti with ghee,roti with ghee|roti|garlice naan,0.177485,False,False,True,garlic naan/vdyp5qkb2gx0yffpubnk
+khana,garlic naan,garlice naan,garlice naan|cheesy garlic naan,appam,appam|roti|kalai chutney,0.189793,False,False,False,garlic naan/nauarkvax9wdfchi8hv2
+khana,garlic naan,garlice naan,garlice naan|cheesy garlic naan,naan,naan|butter naan|cheesy garlic naan,0.668951,False,False,True,garlic naan/zd9frrxqstt0kw8esolk
+khana,garlic naan,garlice naan,garlice naan|cheesy garlic naan,chappati,chappati|butter naan|roti,0.536753,False,False,False,garlic naan/xai7crroqt7ivxkpbxwg
+khana,garlic naan,garlice naan,garlice naan|cheesy garlic naan,chappati,chappati|upma  veg|egg parotta,0.204397,False,False,False,garlic naan/fjlbzxbe3exhrophyglf
+khana,garlic naan,garlice naan,garlice naan|cheesy garlic naan,roti,roti|chappati|celyon egg parotta,0.198099,False,False,False,garlic naan/vb96mejjzj6xy7binqhz
+khana,garlic naan,garlice naan,garlice naan|cheesy garlic naan,chappati,chappati|butter naan|garlice naan,0.16413,False,False,True,garlic naan/gb7krv8wmkrsgvb6pkqg
+khana,garlic naan,garlice naan,garlice naan|cheesy garlic naan,chappati,chappati|roti|butter naan,0.333983,False,False,False,garlic naan/ntmesrdl8276hms7cbn8
+khana,garlic naan,garlice naan,garlice naan|cheesy garlic naan,egg parotta,egg parotta|celyon egg parotta|chappati,0.19686,False,False,False,garlic naan/eb4m22prghkdq2qbd2so
+khana,garlic naan,garlice naan,garlice naan|cheesy garlic naan,cream based soup,cream based soup|butter naan|naan,0.620308,False,False,False,garlic naan/kmniakvwipwc4e5uqgaf
+khana,garlic naan,garlice naan,garlice naan|cheesy garlic naan,butter naan,butter naan|naan|garlice naan,0.339733,False,False,True,garlic naan/07bc2087106137bf1bb411bfe0f3158c
+khana,gulab jamun,gulab jamoon,gulab jamoon,gulab jamoon,gulab jamoon|apple|pukhlein,0.935367,True,True,True,gulab jamun/0b54af4d00f4565bb409a8690b36b393
+khana,gulab jamun,gulab jamoon,gulab jamoon,gulab jamoon,gulab jamoon|apple|tomato shorba,0.724862,True,True,True,gulab jamun/yz7qilhqtgujp1na84fq
+khana,gulab jamun,gulab jamoon,gulab jamoon,gulab jamoon,gulab jamoon|apple|pukhlein,0.979855,True,True,True,gulab jamun/466264aeac1d8fccfaa812153db0418e
+khana,gulab jamun,gulab jamoon,gulab jamoon,gulab jamoon,gulab jamoon|apple|cake,0.934664,True,True,True,gulab jamun/iwhn8ym3k7kpucnefhg2
+khana,gulab jamun,gulab jamoon,gulab jamoon,gulab jamoon,gulab jamoon|apple|vengaya kara kuzhambu onion,0.993238,True,True,True,gulab jamun/lygt7lhv6kd0mb5hwjbs
+khana,gulab jamun,gulab jamoon,gulab jamoon,gulab jamoon,gulab jamoon|pukhlein|apple,0.935888,True,True,True,gulab jamun/ikb3fwuwyoyhbtjqxnvk
+khana,gulab jamun,gulab jamoon,gulab jamoon,gulab jamoon,gulab jamoon|pukhlein|apple,0.970967,True,True,True,gulab jamun/qosydjncbrblcjronumd
+khana,gulab jamun,gulab jamoon,gulab jamoon,gulab jamoon,gulab jamoon|vengaya kara kuzhambu onion|poondu kolambu,0.982996,True,True,True,gulab jamun/oqpq9v7hgr9usuzytdsr
+khana,gulab jamun,gulab jamoon,gulab jamoon,gulab jamoon,gulab jamoon|tomoto soup|apple,0.889571,True,True,True,gulab jamun/e06fd965c988607d024778224bf9109e
+khana,gulab jamun,gulab jamoon,gulab jamoon,coffee,coffee|tea|gulab jamoon,0.932784,False,False,True,gulab jamun/hbllifhj6i3xoi6bja34
+khana,gulab jamun,gulab jamoon,gulab jamoon,gulab jamoon,gulab jamoon|idly|coffee,0.236389,True,True,True,gulab jamun/fjvrvxc4cd80pfbljv6a
+khana,gulab jamun,gulab jamoon,gulab jamoon,gulab jamoon,gulab jamoon|pukhlein|coffee,0.400518,True,True,True,gulab jamun/ylefubl4s4otxupbzjxd
+khana,gulab jamun,gulab jamoon,gulab jamoon,gulab jamoon,gulab jamoon|apple|pukhlein,0.861405,True,True,True,gulab jamun/c6a7d2orttvdc6zkgyxs
+khana,gulab jamun,gulab jamoon,gulab jamoon,gulab jamoon,gulab jamoon|coffee|tea,0.985416,True,True,True,gulab jamun/jdtqvn3tntbmpbjo3vtq
+khana,gulab jamun,gulab jamoon,gulab jamoon,coffee,coffee|apple|pukhlein,0.292395,False,False,False,gulab jamun/adldonmwuxjwzdzikelb
+khana,gulab jamun,gulab jamoon,gulab jamoon,gulab jamoon,gulab jamoon|soba|coffee,0.746875,True,True,True,gulab jamun/cb6fzioa0am9xhnpx7ss
+khana,gulab jamun,gulab jamoon,gulab jamoon,gulab jamoon,gulab jamoon|pukhlein|chicken lollipop,0.997498,True,True,True,gulab jamun/xlhxdsobjuwyfufga4ou
+khana,gulab jamun,gulab jamoon,gulab jamoon,gulab jamoon,gulab jamoon|coffee|tea,0.567037,True,True,True,gulab jamun/pczcvn8wwxhwlfd630ua
+khana,gulab jamun,gulab jamoon,gulab jamoon,gulab jamoon,gulab jamoon|tomoto soup|tomato shorba,0.956084,True,True,True,gulab jamun/d186e945b85d93d5130061adf0e3b08c
+khana,gulab jamun,gulab jamoon,gulab jamoon,gulab jamoon,gulab jamoon|tea|tomato shorba,0.987853,True,True,True,gulab jamun/uxz6xuowxmmgchdbwchf
+khana,gulab jamun,gulab jamoon,gulab jamoon,coffee,coffee|tea|cream based soup,0.419967,False,False,False,gulab jamun/sozdbw3vjjezwbdb5knh
+khana,gulab jamun,gulab jamoon,gulab jamoon,gulab jamoon,gulab jamoon|kalai chutney|punugulu bobbarlu,0.619856,True,True,True,gulab jamun/i6s3vvo0dfb7qnjmvnch
+khana,gulab jamun,gulab jamoon,gulab jamoon,gulab jamoon,gulab jamoon|pukhlein|apple,0.993918,True,True,True,gulab jamun/o7ekir9nlikz0nqwablf
+khana,gulab jamun,gulab jamoon,gulab jamoon,gulab jamoon,gulab jamoon|apple|pukhlein,0.875966,True,True,True,gulab jamun/v2xd45wbgl5m3w8uwgv3
+khana,gulab jamun,gulab jamoon,gulab jamoon,gulab jamoon,gulab jamoon|apple|pukhlein,0.780338,True,True,True,gulab jamun/belmomsgevt5g7prtlw8
+khana,gulab jamun,gulab jamoon,gulab jamoon,gulab jamoon,gulab jamoon|pukhlein|idly,0.953922,True,True,True,gulab jamun/idkfvv7u79kz3ee0pc7y
+khana,gulab jamun,gulab jamoon,gulab jamoon,gulab jamoon,gulab jamoon|ice icream|tea,0.990594,True,True,True,gulab jamun/sqxybgaoylwbib354onm
+khana,gulab jamun,gulab jamoon,gulab jamoon,gulab jamoon,gulab jamoon|coffee|pukhlein,0.68793,True,True,True,gulab jamun/xpe30utpe9083pjwdhes
+khana,gulab jamun,gulab jamoon,gulab jamoon,gulab jamoon,gulab jamoon|apple|vengaya kara kuzhambu onion,0.98301,True,True,True,gulab jamun/68aaad9fd80cd1e2fde60ed7b02cc274
+khana,gulab jamun,gulab jamoon,gulab jamoon,gulab jamoon,gulab jamoon|apple|idly,0.910659,True,True,True,gulab jamun/0961f27a0fb93dad861e6a93234688b3
+khana,idli,idly,idly|masala idly,idly,idly|milk|coffee,0.679181,True,True,True,idli/lx11y0ycp8caj0cy9uxw
+khana,idli,idly,idly|masala idly,pukhlein,pukhlein|non veg meals|vegetables kabab,0.17221,False,False,False,idli/xtugd9ehyhfh7vfjyaws
+khana,idli,idly,idly|masala idly,idly,idly|solkadi|tea,0.414406,True,True,True,idli/xidptttesldhocjfctkd
+khana,idli,idly,idly|masala idly,coffee,coffee|milk|tea,0.447278,False,False,False,idli/iaaomujon025usu4ocqh
+khana,idli,idly,idly|masala idly,idly,idly|kalai chutney|coffee,0.331547,True,True,True,idli/jn5zgwseyuetp4q8ro3x
+khana,idli,idly,idly|masala idly,idly,idly|mint chutney|meals,0.518954,True,True,True,idli/brlv335fzee7tiscqwjf
+khana,idli,idly,idly|masala idly,pukhlein,pukhlein|vegetables kabab|idly,0.173351,False,False,True,idli/nfqfcmgzv9k1q5kjx943
+khana,idli,idly,idly|masala idly,misal,misal|sev tamatar sabzi|soba,0.690774,False,False,False,idli/rhg1f81ylcrwnmvp01uo
+khana,idli,idly,idly|masala idly,idly,idly|banana|meals,0.723376,True,True,True,idli/goaddljbr6rrlgrjfq0h
+khana,idli,idly,idly|masala idly,idly,idly|milk|coffee,0.443543,True,True,True,idli/kddgzgmtzpvru5bliziw
+khana,idli,idly,idly|masala idly,idly,idly|coffee|tea,0.380182,True,True,True,idli/aysy2jokcganr8f4ymev
+khana,idli,idly,idly|masala idly,kulfi,kulfi|doh dklieh|ice icream,0.683676,False,False,False,idli/conzavqohixlzzb5dwpo
+khana,idli,idly,idly|masala idly,coffee,coffee|idly|kalai chutney,0.147989,False,False,True,idli/ulaxopuvm1ouhcsxrpj1
+khana,idli,idly,idly|masala idly,cream based soup,cream based soup|kalai chutney|upma  veg,0.255853,False,False,False,idli/89a5a5f35cfd3765ec1ef0eb15c6bf5a
+khana,idli,idly,idly|masala idly,tea,tea|gulab jamoon|coffee,0.332712,False,False,False,idli/co40ugiqqzoygi6c55nc
+khana,idli,idly,idly|masala idly,idly,idly|dosa plain|gulab jamoon,0.171743,True,True,True,idli/drvlrdzxbr6wtnugkxoc
+khana,idli,idly,idly|masala idly,masala dosa,masala dosa|banana|dosa plain,0.184331,False,False,False,idli/xyfpkbdt8jqnc1xy8w79
+khana,idli,idly,idly|masala idly,idly,idly|gulab jamoon|pukhlein,0.681468,True,True,True,idli/vtwevpon4fg7cpd9rn1y
+khana,idli,idly,idly|masala idly,doh dklieh,doh dklieh|masala idly|vazhakkai curry banana curry,0.099445,False,False,True,idli/pgubmhn9yw0n0zcgqmqm
+khana,idli,idly,idly|masala idly,idly,idly|banana|gulab jamoon,0.267868,True,True,True,idli/jxdqjantqtm9uye8puwz
+khana,idli,idly,idly|masala idly,coffee,coffee|milk|tea,0.606098,False,False,False,idli/q1otiis6vjzt4lvnh9lt
+khana,idli,idly,idly|masala idly,coffee,coffee|tea|kalai chutney,0.666818,False,False,False,idli/s3w7fgvxxjpiinbd4cru
+khana,idli,idly,idly|masala idly,idly,idly|kalai chutney|kulfi,0.443428,True,True,True,idli/bxhit8tgj7xj65bv5ni1
+khana,idli,idly,idly|masala idly,idly,idly|puchka|coffee,0.496913,True,True,True,idli/u4tf4os8mbusia7uxesi
+khana,idli,idly,idly|masala idly,idly,idly|coffee|meals,0.747057,True,True,True,idli/pyihuzcqe9bnouyxk5e6
+khana,idli,idly,idly|masala idly,idly,idly|tea|coffee,0.219451,True,True,True,idli/cxy8m1ykihhw7zwufh4v
+khana,idli,idly,idly|masala idly,kalai chutney,kalai chutney|coffee|solkadi,0.404634,False,False,False,idli/z0xeuihkvd42e0ffkxj0
+khana,idli,idly,idly|masala idly,idly,idly|coffee|kalai chutney,0.448948,True,True,True,idli/eyr5xzerjbfylkoyukil
+khana,idli,idly,idly|masala idly,gulab jamoon,gulab jamoon|tea|idly,0.297448,False,False,True,idli/mczqlfhppk32e0wfqvjy
+khana,idli,idly,idly|masala idly,idly,idly|coffee|tea,0.625381,True,True,True,idli/l5fu0dt2r8gk45ndxgnz
+khana,masala dosa,masala dosa,masala dosa,podi dosa,podi dosa|uthappam|cake,0.179405,False,False,False,masala dosa/qvqapk9vpkggl2oeijkl
+khana,masala dosa,masala dosa,masala dosa,kulfi,kulfi|sukhdi|dosa plain,0.551661,False,False,False,masala dosa/ayoaclogto8gxygs0joo
+khana,masala dosa,masala dosa,masala dosa,dosa plain,dosa plain|kulfi|sukhdi,0.647617,False,False,False,masala dosa/71a9d46a3e65ea9ccdfed1bde0ef2d83
+khana,masala dosa,masala dosa,masala dosa,dosa plain,dosa plain|kulfi|tea,0.304523,False,False,False,masala dosa/yvs3vxk22qpjorvez2qc
+khana,masala dosa,masala dosa,masala dosa,kulfi,kulfi|banana|dosa plain,0.191489,False,False,False,masala dosa/oazutfrwvb5jnuh3mhre
+khana,masala dosa,masala dosa,masala dosa,masala dosa,masala dosa|dosa plain|podi dosa,0.360788,True,True,True,masala dosa/0b79804db1c4467d5d530e0226e6b892
+khana,masala dosa,masala dosa,masala dosa,egg parotta,egg parotta|methi thepla nu shaak|vegetables kabab,0.129233,False,False,False,masala dosa/dnvpoiynhizl7wm2rsh4
+khana,masala dosa,masala dosa,masala dosa,dosa plain,dosa plain|podi dosa|masala dosa,0.537262,False,False,True,masala dosa/mfub9epva7fgq2yu2tik
+khana,masala dosa,masala dosa,masala dosa,banana,banana|milk|dosa plain,0.378718,False,False,False,masala dosa/yxepmjm85lekqzedpyij
+khana,masala dosa,masala dosa,masala dosa,ice icream,ice icream|cake|sukhdi,0.388972,False,False,False,masala dosa/ihuekgq3uxyvb2rlxtj0
+khana,masala dosa,masala dosa,masala dosa,dosa plain,dosa plain|masala dosa|podi dosa,0.728813,False,False,True,masala dosa/fy5fhqf97764fwi8e3fj
+khana,masala dosa,masala dosa,masala dosa,ice icream,ice icream|cake|sukhdi,0.128492,False,False,False,masala dosa/qgzga6lg0qk2m6sowrv0
+khana,masala dosa,masala dosa,masala dosa,dosa plain,dosa plain|podi dosa|cake,0.281523,False,False,False,masala dosa/wnamsiiyl5qm3jiqjod2
+khana,masala dosa,masala dosa,masala dosa,dosa plain,dosa plain|idly|tea,0.293478,False,False,False,masala dosa/kcf7jszbzvcl5f2lybku
+khana,masala dosa,masala dosa,masala dosa,idly,idly|dosa plain|milk,0.220668,False,False,False,masala dosa/xatdim76ch2745koumeg
+khana,masala dosa,masala dosa,masala dosa,dosa plain,dosa plain|kulfi|milk,0.660873,False,False,False,masala dosa/jru3qjhg8ykqudi4zf9i
+khana,masala dosa,masala dosa,masala dosa,kulfi,kulfi|dosa plain|masala dosa,0.429598,False,False,True,masala dosa/b5pedonhwe1efupfdilj
+khana,masala dosa,masala dosa,masala dosa,dosa plain,dosa plain|podi dosa|masala dosa,0.921352,False,False,True,masala dosa/eb9dd4835017fe1011482473dea026b0
+khana,masala dosa,masala dosa,masala dosa,idly,idly|pukhlein|dosa plain,0.091403,False,False,False,masala dosa/jwt20lt54i0fyzoaeini
+khana,masala dosa,masala dosa,masala dosa,dosa plain,dosa plain|kulfi|sukhdi,0.544111,False,False,False,masala dosa/c7300a9ee0d89b1d2e21f9f91632bde0
+khana,masala dosa,masala dosa,masala dosa,sukhdi,sukhdi|kulfi|kothimbir vadi,0.560325,False,False,False,masala dosa/dobvau6chsbb7hyvolsq
+khana,masala dosa,masala dosa,masala dosa,pukhlein,pukhlein|idly|gulab jamoon,0.312403,False,False,False,masala dosa/mvcsgn9z3nffpshe4lmk
+khana,masala dosa,masala dosa,masala dosa,dosa plain,dosa plain|podi dosa|masala dosa,0.693006,False,False,True,masala dosa/griuy3hfz7ah1tlqiwe0
+khana,masala dosa,masala dosa,masala dosa,sukhdi,sukhdi|dosa plain|coffee,0.276068,False,False,False,masala dosa/tfnmirbdaj7umxuykrbh
+khana,masala dosa,masala dosa,masala dosa,dosa plain,dosa plain|pukhlein|masala dosa,0.793543,False,False,True,masala dosa/avow8bpv9kibmdakimwq
+khana,masala dosa,masala dosa,masala dosa,dosa plain,dosa plain|sukhdi|podi dosa,0.655792,False,False,False,masala dosa/75a1996c78bce3c09d436c18284bd3d4
+khana,masala dosa,masala dosa,masala dosa,masala dosa,masala dosa|dosa plain|kulfi,0.568355,True,True,True,masala dosa/z67nxeg3otmdplkjap70
+khana,masala dosa,masala dosa,masala dosa,dosa plain,dosa plain|masala dosa|vegetables kabab,0.480926,False,False,True,masala dosa/hyatlcuyahqaazxwrxxe
+khana,masala dosa,masala dosa,masala dosa,podi dosa,podi dosa|uthappam|masala dosa,0.290597,False,False,True,masala dosa/p7n1wg5zbqyjz2zkjyg7
+khana,masala dosa,masala dosa,masala dosa,dosa plain,dosa plain|vegetables kabab|podi dosa,0.443462,False,False,False,masala dosa/blsxnglrwh85yuykquyy
+khana,medu vada,medu vada,medu vada,non veg meals,non veg meals|odi thali|vathaa kolambu,0.381907,False,False,False,medu vada/o9foqxakosethwgbff95
+khana,medu vada,medu vada,medu vada,gulab jamoon,gulab jamoon|pukhlein|idly,0.667755,False,False,False,medu vada/hjsmdu10eilujpbuf3tv
+khana,medu vada,medu vada,medu vada,gulab jamoon,gulab jamoon|pukhlein|allo tikka,0.756802,False,False,False,medu vada/unpwdlvo37x37ttos00k
+khana,medu vada,medu vada,medu vada,pukhlein,pukhlein|idly|gulab jamoon,0.319668,False,False,False,medu vada/sitnitaf3pdfgdbeuwqi
+khana,medu vada,medu vada,medu vada,pukhlein,pukhlein|kara vada|masala idly,0.375195,False,False,False,medu vada/tsronnwb988mqvpudh4m
+khana,medu vada,medu vada,medu vada,pukhlein,pukhlein|gulab jamoon|idly,0.268362,False,False,False,medu vada/qk9pajdashht9l6odinw
+khana,medu vada,medu vada,medu vada,medu vada,medu vada|masala idly|nadur yakhni,0.58601,True,True,True,medu vada/9dd746e670ad56170cfd187022565a65
+khana,medu vada,medu vada,medu vada,pukhlein,pukhlein|gulab jamoon|idly,0.273015,False,False,False,medu vada/avybx5x7u5rwza9fi2pc
+khana,medu vada,medu vada,medu vada,coffee,coffee|idly|gulab jamoon,0.310075,False,False,False,medu vada/fspghfra0iqrcqvyhkxd
+khana,medu vada,medu vada,medu vada,masala idly,masala idly|kulfi|chicken nuggets,0.501283,False,False,False,medu vada/p2uezesp9nmphme9qp1t
+khana,medu vada,medu vada,medu vada,medu vada,medu vada|gulab jamoon|kalai chutney,0.435305,True,True,True,medu vada/zoaeuqcxvuzawqshaoq3
+khana,medu vada,medu vada,medu vada,aloo gobi masala,aloo gobi masala|tomoto soup|vengaya kara kuzhambu onion,0.08145,False,False,False,medu vada/h2ijavg8rlodcgksdcxn
+khana,medu vada,medu vada,medu vada,idly,idly|meals|non veg meals,0.908332,False,False,False,medu vada/qj4ara3wqixnyccpct5t
+khana,medu vada,medu vada,medu vada,medu vada,medu vada|pukhlein|gulab jamoon,0.42044,True,True,True,medu vada/zrvg1lhmbf3zksxamm50
+khana,medu vada,medu vada,medu vada,gulab jamoon,gulab jamoon|pukhlein|idly,0.546809,False,False,False,medu vada/bssqumdlyvn8kca33fp4
+khana,medu vada,medu vada,medu vada,pukhlein,pukhlein|idly|chicken nuggets,0.312232,False,False,False,medu vada/kafspvyt1nc86usgnzzj
+khana,medu vada,medu vada,medu vada,idly,idly|apple|puchka,0.280065,False,False,False,medu vada/dadilagytykhu81qqg6r
+khana,medu vada,medu vada,medu vada,medu vada,medu vada|roti|butter naan,0.677712,True,True,True,medu vada/8a1d2a247ad3a7e54d40a31e1b9fa2b3
+khana,medu vada,medu vada,medu vada,gulab jamoon,gulab jamoon|pukhlein|idly,0.423432,False,False,False,medu vada/r35qmmzu3rhopqrx7jiv
+khana,medu vada,medu vada,medu vada,banana,banana|idly|gulab jamoon,0.307532,False,False,False,medu vada/bktfo8yglpp47pelhdoy
+khana,medu vada,medu vada,medu vada,pukhlein,pukhlein|idly|gulab jamoon,0.262806,False,False,False,medu vada/ykq3nn3vhgxlgat00owv
+khana,medu vada,medu vada,medu vada,pukhlein,pukhlein|medu vada|dosa plain,0.363135,False,False,True,medu vada/w9g3iy5ho5dp7t2m0ng3
+khana,medu vada,medu vada,medu vada,medu vada,medu vada|punugulu bobbarlu|puchka,0.470871,True,True,True,medu vada/n3nmfmgws6ro8huu766v
+khana,medu vada,medu vada,medu vada,chicken fry,chicken fry|pukhlein|allo tikka,0.199086,False,False,False,medu vada/gtgnmynabem83kudrcen
+khana,medu vada,medu vada,medu vada,medu vada,medu vada|puchka|punugulu bobbarlu,0.340502,True,True,True,medu vada/rc7alndsrgyvlmwrqcnp
+khana,medu vada,medu vada,medu vada,pukhlein,pukhlein|vegetables kabab|besanbara,0.259754,False,False,False,medu vada/uulw3odpjc5su19fylze
+khana,medu vada,medu vada,medu vada,idly,idly|pukhlein|gulab jamoon,0.387139,False,False,False,medu vada/dmuwicci3hqysxligfqw
+khana,medu vada,medu vada,medu vada,pukhlein,pukhlein|gulab jamoon|idly,0.335209,False,False,False,medu vada/uwssrq0kyfzuwjoyovqt
+khana,medu vada,medu vada,medu vada,medu vada,medu vada|gulab jamoon|idly,0.561522,True,True,True,medu vada/bihuyltzhhbbzsax67c6
+khana,medu vada,medu vada,medu vada,gulab jamoon,gulab jamoon|pukhlein|idly,0.593567,False,False,False,medu vada/ybv1dde7lnuywuwgjetk
+khana,palak paneer,palak panner,palak panner|saag panner,saag panner,saag panner|palak panner|haakh,0.836239,True,False,True,palak paneer/ymjadgfcdtcung8lfxov
+khana,palak paneer,palak panner,palak panner|saag panner,green tea,green tea|palak shorba|mint chutney,0.356772,False,False,False,palak paneer/5fc9f5e92efe288f76ce0496cbf404ce
+khana,palak paneer,palak panner,palak panner|saag panner,matar  peas pulao,matar  peas pulao|palak panner|palak shorba,0.559586,False,False,True,palak paneer/tffdwfn5vxli2nhrrnkd
+khana,palak paneer,palak panner,palak panner|saag panner,coffee,coffee|sukhdi|tea,0.63764,False,False,False,palak paneer/pn9lkyc0xyvzvfb58x2b
+khana,palak paneer,palak panner,palak panner|saag panner,palak shorba,palak shorba|palak panner|vinaigrette de legumes,0.35988,False,False,True,palak paneer/dunrsut9buthyz7eriky
+khana,palak paneer,palak panner,palak panner|saag panner,palak panner,palak panner|mint chutney|saag panner,0.87628,True,True,True,palak paneer/fe1b0aad9e4fd8c4a65416aca565ba29
+khana,palak paneer,palak panner,palak panner|saag panner,green tea,green tea|palak shorba|solkadi,0.553961,False,False,False,palak paneer/8f12d5f1b2ffc9f17e1bf8d558a96c2a
+khana,palak paneer,palak panner,palak panner|saag panner,palak panner,palak panner|saag panner|haakh,0.614432,True,True,True,palak paneer/apmd1amm3v8lteyf53ov
+khana,palak paneer,palak panner,palak panner|saag panner,palak panner,palak panner|vinaigrette de legumes|palak shorba,0.381445,True,True,True,palak paneer/ykxqerk3dp33j3fyalxt
+khana,palak paneer,palak panner,palak panner|saag panner,haakh,haakh|saag panner|mint chutney,0.462366,False,False,True,palak paneer/46c325b8ee6bb310804fde56837aa8f9
+khana,palak paneer,palak panner,palak panner|saag panner,vinaigrette de legumes,vinaigrette de legumes|palak panner|saag panner,0.403999,False,False,True,palak paneer/xzqyavilwpdlnkdbhswo
+khana,palak paneer,palak panner,palak panner|saag panner,matar  peas pulao,matar  peas pulao|palak shorba|mint chutney,0.324215,False,False,False,palak paneer/yu7ia3yxzctvzna29kdt
+khana,palak paneer,palak panner,palak panner|saag panner,machher paturi,machher paturi|shukto|sukhdi,0.322212,False,False,False,palak paneer/gxo0gfh05k0phmpw9cvu
+khana,palak paneer,palak panner,palak panner|saag panner,shukto,shukto|mutton saaru|mutton kara kuzhambu,0.422966,False,False,False,palak paneer/8a167ec75ebbc202e6fa607578ce3344
+khana,palak paneer,palak panner,palak panner|saag panner,green tea,green tea|palak shorba|pho,0.199049,False,False,False,palak paneer/95f36dc66a6bc6d0e60a7d6287218289
+khana,palak paneer,palak panner,palak panner|saag panner,saag panner,saag panner|mint chutney|palak panner,0.628121,True,False,True,palak paneer/hvittr70yrrpubsvewvh
+khana,palak paneer,palak panner,palak panner|saag panner,saag panner,saag panner|mutton kara kuzhambu|mutton korma,0.108144,True,False,True,palak paneer/tuzcj4cntqmnktxqatxw
+khana,palak paneer,palak panner,palak panner|saag panner,mint chutney,mint chutney|huli saaru tamarind rasam|haakh,0.262328,False,False,False,palak paneer/ma2rvvzb4ix9g06phzge
+khana,palak paneer,palak panner,palak panner|saag panner,palak panner,palak panner|haakh|saag panner,0.148622,True,True,True,palak paneer/4c943f3b9f6f814ffcb52313b08c3822
+khana,palak paneer,palak panner,palak panner|saag panner,palak shorba,palak shorba|green tea|mint chutney,0.781531,False,False,False,palak paneer/scxrjovxubglmimndrrh
+khana,palak paneer,palak panner,palak panner|saag panner,palak panner,palak panner|mint chutney|palak shorba,0.451417,True,True,True,palak paneer/mlpgjicihdrzobwcej0r
+khana,palak paneer,palak panner,palak panner|saag panner,palak panner,palak panner|pho|haakh,0.356743,True,True,True,palak paneer/yqsoecufcu4krnjqszgw
+khana,palak paneer,palak panner,palak panner|saag panner,palak panner,palak panner|palak shorba|mint chutney,0.53586,True,True,True,palak paneer/wwa6agw22knihxb5fxng
+khana,palak paneer,palak panner,palak panner|saag panner,mint chutney,mint chutney|palak shorba|palak panner,0.626692,False,False,True,palak paneer/ge5hyglp2lyyzaxsdq4w
+khana,palak paneer,palak panner,palak panner|saag panner,saag panner,saag panner|palak panner|haakh,0.489598,True,False,True,palak paneer/sws6op8ing5kgslrpcdz
+khana,palak paneer,palak panner,palak panner|saag panner,nadur yakhni,nadur yakhni|pandhra rassa whit gravy|shukto,0.37844,False,False,False,palak paneer/5e60ee0781f4e9127dbabe4abdc02c46
+khana,palak paneer,palak panner,palak panner|saag panner,saag panner,saag panner|haakh|palak panner,0.198062,True,False,True,palak paneer/gnukxvgan0glexvxtueq
+khana,palak paneer,palak panner,palak panner|saag panner,curd rice,curd rice|avial|upma  veg,0.213195,False,False,False,palak paneer/ptfix6ewey2hmcfhevll
+khana,palak paneer,palak panner,palak panner|saag panner,haakh,haakh|doheniiong|tungrymbai,0.334743,False,False,False,palak paneer/wc8ge0dqhzsyfnkjy4dw
+khana,palak paneer,palak panner,palak panner|saag panner,haakh,haakh|palak panner|shukto,0.409992,False,False,True,palak paneer/wrqegiahxrn9be7iq1v5
+khana,seekh kebab,mutton  seekh kebab,mutton  seekh kebab,vegetables kabab,vegetables kabab|fish tikka|mutton  seekh kebab,0.724716,False,False,True,seekh kebab/crpnqx7qyaxpuhxslm2g
+khana,seekh kebab,mutton  seekh kebab,mutton  seekh kebab,mutton  seekh kebab,mutton  seekh kebab|chicken lollipop|chicken fry,0.750015,True,True,True,seekh kebab/cc6f559f4fa626336c8b6ca0d20ea0f8
+khana,seekh kebab,mutton  seekh kebab,mutton  seekh kebab,chicken kabab,chicken kabab|pine apple fried rice|sukha aloo dry potato curry,0.106447,False,False,False,seekh kebab/681289cf3e356c3029b56ab3b3a38db1
+khana,seekh kebab,mutton  seekh kebab,mutton  seekh kebab,mutton  seekh kebab,mutton  seekh kebab|vegetables kabab|chicken lollipop,0.806104,True,True,True,seekh kebab/nlf3prqtcs5xayp4sqjp
+khana,seekh kebab,mutton  seekh kebab,mutton  seekh kebab,masala idly,masala idly|malai tikka|chicken kabab,0.275544,False,False,False,seekh kebab/qyot6b8byzqbvhnmapqn
+khana,seekh kebab,mutton  seekh kebab,mutton  seekh kebab,fish tikka,fish tikka|vegetables kabab|ice icream,0.326517,False,False,False,seekh kebab/be1gxzx2crdccszu6ayc
+khana,seekh kebab,mutton  seekh kebab,mutton  seekh kebab,mutton  seekh kebab,mutton  seekh kebab|vegetables kabab|chicken kabab,0.502047,True,True,True,seekh kebab/huq3gomvihhmpjthhxh4
+khana,seekh kebab,mutton  seekh kebab,mutton  seekh kebab,vegetables kabab,vegetables kabab|chicken kabab|mutton  seekh kebab,0.192798,False,False,True,seekh kebab/mvxlailp7nomlznzgm72
+khana,seekh kebab,mutton  seekh kebab,mutton  seekh kebab,cake,cake|chicken lollipop|apple,0.308761,False,False,False,seekh kebab/aa904409a418d1ae4c9d08d4b50c103b
+khana,seekh kebab,mutton  seekh kebab,mutton  seekh kebab,coffee,coffee|tea|milk,0.500156,False,False,False,seekh kebab/elfduchjejbdtlhf0qad
+khana,seekh kebab,mutton  seekh kebab,mutton  seekh kebab,vegetables kabab,vegetables kabab|mutton  seekh kebab|kothimbir vadi,0.823102,False,False,True,seekh kebab/0c9ddc7a64251ad9e18fe7c273fa6b34
+khana,seekh kebab,mutton  seekh kebab,mutton  seekh kebab,vinaigrette de legumes,vinaigrette de legumes|mutton  seekh kebab|vegetables kabab,0.756976,False,False,True,seekh kebab/f88149e0615693af2457f3443b166051
+khana,seekh kebab,mutton  seekh kebab,mutton  seekh kebab,shukto,shukto|machher paturi|haakh,0.111199,False,False,False,seekh kebab/awbqwigrorqfkmsled9k
+khana,seekh kebab,mutton  seekh kebab,mutton  seekh kebab,pad thai,pad thai|pho|egg pulao,0.331484,False,False,False,seekh kebab/hvrx8fp5kmrgtec4chop
+khana,seekh kebab,mutton  seekh kebab,mutton  seekh kebab,cake,cake|tambda rassa red gravy|vinaigrette de legumes,0.227721,False,False,False,seekh kebab/ogbswxz2wpqvipuspcdc
+khana,seekh kebab,mutton  seekh kebab,mutton  seekh kebab,ice icream,ice icream|vegetables kabab|fish tikka,0.253091,False,False,False,seekh kebab/hx5pe5ldzrcjifloxcjq
+khana,seekh kebab,mutton  seekh kebab,mutton  seekh kebab,vegetables kabab,vegetables kabab|chicken kabab|mutton  seekh kebab,0.871459,False,False,True,seekh kebab/fbi60x4pp1guey5lmtf0
+khana,seekh kebab,mutton  seekh kebab,mutton  seekh kebab,sukhdi,sukhdi|vegetables kabab|dosa plain,0.493912,False,False,False,seekh kebab/ra8hs4exqany0ydqgktp
+khana,seekh kebab,mutton  seekh kebab,mutton  seekh kebab,ice icream,ice icream|cake|sukhdi,0.300135,False,False,False,seekh kebab/bi6pzjsk1kalmoiok2g7
+khana,seekh kebab,mutton  seekh kebab,mutton  seekh kebab,mutton  seekh kebab,mutton  seekh kebab|vegetables kabab|chicken lollipop,0.746753,True,True,True,seekh kebab/bmmirw7q0qktfe4fdc7l
+khana,seekh kebab,mutton  seekh kebab,mutton  seekh kebab,mutton  seekh kebab,mutton  seekh kebab|vegetables kabab|fish tikka,0.574555,True,True,True,seekh kebab/czhvjljrxlontvnz4rrq
+khana,seekh kebab,mutton  seekh kebab,mutton  seekh kebab,sukhdi,sukhdi|pad thai|ramen noodles,0.875408,False,False,False,seekh kebab/t2xizdymrpggvfd4vfie
+khana,seekh kebab,mutton  seekh kebab,mutton  seekh kebab,mutton  seekh kebab,mutton  seekh kebab|cake|vegetables kabab,0.372215,True,True,True,seekh kebab/rj0mfg9tcnpmi7zzxcbt
+khana,seekh kebab,mutton  seekh kebab,mutton  seekh kebab,mutton  seekh kebab,mutton  seekh kebab|vegetables kabab|machher paturi,0.585122,True,True,True,seekh kebab/tsgr2cngam5athnkzejb
+khana,seekh kebab,mutton  seekh kebab,mutton  seekh kebab,banana,banana|mutton  seekh kebab|chicken kabab,0.400909,False,False,True,seekh kebab/tktawxb2o8jsew3fgljz
+khana,seekh kebab,mutton  seekh kebab,mutton  seekh kebab,mutton  seekh kebab,mutton  seekh kebab|vegetables kabab|kothimbir vadi,0.418992,True,True,True,seekh kebab/nk0qrmsvzjsrowe6fle5
+khana,seekh kebab,mutton  seekh kebab,mutton  seekh kebab,kulfi,kulfi|ice icream|malai tikka,0.365375,False,False,False,seekh kebab/lkqqz1qe3vwtczycupfm
+khana,seekh kebab,mutton  seekh kebab,mutton  seekh kebab,vegetables kabab,vegetables kabab|mutton  seekh kebab|shukto,0.119431,False,False,True,seekh kebab/eowq6ih2g4v17jy9ozlv
+khana,seekh kebab,mutton  seekh kebab,mutton  seekh kebab,vegetables kabab,vegetables kabab|mutton  seekh kebab|fish tikka,0.506579,False,False,True,seekh kebab/cwqvxuc2hhzxhndaz5l8
+khana,seekh kebab,mutton  seekh kebab,mutton  seekh kebab,masala dosa,masala dosa|dosa plain|podi dosa,0.433031,False,False,False,seekh kebab/b8178e8f41655313681f3699416b2a0a
+khana,uttapam,uthappam,uthappam,non veg meals,non veg meals|allo tikka|vegetables kabab,0.200208,False,False,False,uttapam/ehfbpug4jmhmctr053nv
+khana,uttapam,uthappam,uthappam,uthappam,uthappam|lasagna|podi dosa,0.8179,True,True,True,uttapam/idqu09nrrnkv4xaskwla
+khana,uttapam,uthappam,uthappam,misal,misal|vegetables kabab|kulfi,0.20402,False,False,False,uttapam/xr9uohczzgysizfwl34t
+khana,uttapam,uthappam,uthappam,gustaba,gustaba|shrimp  prawn  pulao|allo tikka,0.126568,False,False,False,uttapam/q7imafqr7cjbz3m6tdqb
+khana,uttapam,uthappam,uthappam,non veg meals,non veg meals|allo tikka|uthappam,0.391052,False,False,True,uttapam/rxbzor6d5jtqaayfxjq3
+khana,uttapam,uthappam,uthappam,uthappam,uthappam|non veg meals|cake,0.175574,True,True,True,uttapam/uyoihtj2msqe7jj5hset
+khana,uttapam,uthappam,uthappam,uthappam,uthappam|vegetable fried rice|kashmiri pulao,0.491592,True,True,True,uttapam/cpmfcsn3sjc2ccluevlh
+khana,uttapam,uthappam,uthappam,vegetable pulao,vegetable pulao|cake|kashmiri pulao,0.245782,False,False,False,uttapam/rejor4jfdsglwobho0tp
+khana,uttapam,uthappam,uthappam,brinjal bharta,brinjal bharta|mac and cheese|egg parotta,0.166113,False,False,False,uttapam/ksanv724n68dpetmemx2
+khana,uttapam,uthappam,uthappam,mac and cheese,mac and cheese|podi dosa|uthappam,0.267498,False,False,True,uttapam/beb28699924c895e0371b90a55ad789d
+khana,uttapam,uthappam,uthappam,podi dosa,podi dosa|uthappam|mac and cheese,0.191252,False,False,True,uttapam/otxop9dsmgswxgrmyqav
+khana,uttapam,uthappam,uthappam,uthappam,uthappam|mac and cheese|podi dosa,0.63876,True,True,True,uttapam/ykql1cm4ultbnbnvviuh
+khana,uttapam,uthappam,uthappam,brinjal bharta,brinjal bharta|uthappam|kothimbir vadi,0.403432,False,False,True,uttapam/6379275178cb1164d0bfbc0fd2c02a82
+khana,uttapam,uthappam,uthappam,uthappam,uthappam|podi dosa|vegetables kabab,0.202091,True,True,True,uttapam/fndtnctkn5b8gnn6vsb6
+khana,uttapam,uthappam,uthappam,uthappam,uthappam|vegetable pulao|vegetable fried rice,0.432001,True,True,True,uttapam/olosqepv4khdowswnb4y
+khana,uttapam,uthappam,uthappam,peanut chutney,peanut chutney|appam|dosa plain,0.084276,False,False,False,uttapam/kwln3j4f5voqriac3kmn
+khana,uttapam,uthappam,uthappam,uthappam,uthappam|cheesy garlic naan|garlice naan,0.954016,True,True,True,uttapam/70a04c23cc360c3cdc4fdee9939ad304
+khana,uttapam,uthappam,uthappam,coffee,coffee|cake|sev tamatar sabzi,0.077526,False,False,False,uttapam/mhtfxlumvmiqkericazq
+khana,uttapam,uthappam,uthappam,uthappam,uthappam|chicken lollipop|mac and cheese,0.511285,True,True,True,uttapam/zemjamh2u4psz8aa1xbm
+khana,uttapam,uthappam,uthappam,vegetables kabab,vegetables kabab|fish tikka|allo tikka,0.20144,False,False,False,uttapam/gxjjnfe9tb6oehrshvxb
+khana,uttapam,uthappam,uthappam,podi dosa,podi dosa|uthappam|coffee,0.148229,False,False,True,uttapam/ubzpgqia9lcjcd05dfco
+khana,uttapam,uthappam,uthappam,podi dosa,podi dosa|mac and cheese|vendhaya kara kuzhambu feenugreek,0.289935,False,False,False,uttapam/ndqodfzfjjjtbkcajjfm
+khana,uttapam,uthappam,uthappam,uthappam,uthappam|garlice naan|naan,0.62527,True,True,True,uttapam/10efec31211d9863e6da4805267755d2
+khana,uttapam,uthappam,uthappam,lasagna,lasagna|uthappam|mac and cheese,0.633208,False,False,True,uttapam/p1insy91fnrfgi54l9x1
+khana,uttapam,uthappam,uthappam,uthappam,uthappam|podi dosa|allo tikka,0.700477,True,True,True,uttapam/ebroktouyu1uyw8poipn
+khana,uttapam,uthappam,uthappam,podi dosa,podi dosa|paruppu urundai kara kuzhambu lentil ball|pukhlein,0.220478,False,False,False,uttapam/owi7jub9lglequ8ocvrk
+khana,uttapam,uthappam,uthappam,uthappam,uthappam|chicken lollipop|allo tikka,0.433084,True,True,True,uttapam/rc5uhdtqaml0ips1ptgm
+khana,uttapam,uthappam,uthappam,murgh shorba,murgh shorba|misal|kulfi,0.146114,False,False,False,uttapam/bqoqw9kxrk7ugbkgbsd6
+khana,uttapam,uthappam,uthappam,uthappam,uthappam|butter naan|garlice naan,0.500029,True,True,True,uttapam/k6odlc7b3rro6ye282mi
+khana,uttapam,uthappam,uthappam,dosa plain,dosa plain|podi dosa|dal shorba,0.166047,False,False,False,uttapam/kkdyljasiwtzypnvw6le
+khana,kulfi,kulfi,kulfi,banana,banana|cream based soup|milk,0.608514,False,False,False,kulfi/e5lw8ngox72uzqmak4ui
+khana,kulfi,kulfi,kulfi,milk,milk|banana|cream based soup,0.802477,False,False,False,kulfi/ue8lbjwgremog3nx56f3
+khana,kulfi,kulfi,kulfi,cream based soup,cream based soup|kulfi|kalai chutney,0.599352,False,False,True,kulfi/cukqzsw4m4z44kdhwiny
+khana,kulfi,kulfi,kulfi,idly,idly|pukhlein|gulab jamoon,0.275328,False,False,False,kulfi/vi8lunnchjpce9b3avyo
+khana,kulfi,kulfi,kulfi,sukhdi,sukhdi|dosa plain|celyon egg parotta,0.516414,False,False,False,kulfi/pidpoyvaemou63wuzxr9
+khana,kulfi,kulfi,kulfi,tea,tea|coffee|kulfi,0.163069,False,False,True,kulfi/gkulyqbes60co1nwbxfy
+khana,kulfi,kulfi,kulfi,banana,banana|coffee|tea,0.471974,False,False,False,kulfi/jyuthdtkocw9hjsmd4jj
+khana,kulfi,kulfi,kulfi,dal shorba,dal shorba|lentil soup|tomoto soup,0.369129,False,False,False,kulfi/spsexhzwskjn46r9g6bg
+khana,kulfi,kulfi,kulfi,ice icream,ice icream|cake|solkadi,0.351801,False,False,False,kulfi/abogzaefmudlplrqpdo3
+khana,kulfi,kulfi,kulfi,banana,banana|tea|cake,0.209132,False,False,False,kulfi/lxynw968tuunf8jnxote
+khana,kulfi,kulfi,kulfi,milk,milk|banana|dosa plain,0.375588,False,False,False,kulfi/i2hp8hvta405gcljjrvt
+khana,kulfi,kulfi,kulfi,gulab jamoon,gulab jamoon|tomoto soup|tomato shorba,0.226049,False,False,False,kulfi/wulhjbfrckeeli3rgiry
+khana,kulfi,kulfi,kulfi,coffee,coffee|milk|ice icream,0.533792,False,False,False,kulfi/aio9nhhxu8qehadd6rrv
+khana,kulfi,kulfi,kulfi,dal shorba,dal shorba|varan|dal bengal,0.203818,False,False,False,kulfi/lckdoy4p230aesimh0tb
+khana,kulfi,kulfi,kulfi,banana,banana|kulfi|tea,0.708875,False,False,True,kulfi/clyin4koxhqjqkduttd8
+khana,kulfi,kulfi,kulfi,gulab jamoon,gulab jamoon|banana|pukhlein,0.411766,False,False,False,kulfi/nvwdaouxxmzacz3l0t0k
+khana,kulfi,kulfi,kulfi,solkadi,solkadi|ice icream|cake,0.354381,False,False,False,kulfi/lv1ng8bvr4v10cm7izg1
+khana,kulfi,kulfi,kulfi,milk,milk|coffee|banana,0.559494,False,False,False,kulfi/r2oqs728oedcnobavqdb
+khana,kulfi,kulfi,kulfi,milk,milk|coffee|tea,0.541659,False,False,False,kulfi/wra1ljmxaa7w0qoidhlj
+khana,kulfi,kulfi,kulfi,puchka,puchka|egg pulao|undhiyu,0.382234,False,False,False,kulfi/f218bbcc13edb9e3815a24fea35c69c0
+khana,kulfi,kulfi,kulfi,banana,banana|kulfi|tea,0.761385,False,False,True,kulfi/gtwdeax8y4q0zvby6b7i
+khana,kulfi,kulfi,kulfi,apple,apple|ice icream|vinaigrette de legumes,0.216081,False,False,False,kulfi/aaidiths8paqqlmiiw2o
+khana,kulfi,kulfi,kulfi,kulfi,kulfi|puchka|odi thali,0.19602,True,True,True,kulfi/d8f563d24656bc17ab078c2cf0dc189a
+khana,kulfi,kulfi,kulfi,milk,milk|banana|coffee,0.559939,False,False,False,kulfi/cdkvtmwakjazvtc7wve5
+khana,kulfi,kulfi,kulfi,murgh shorba,murgh shorba|dal shorba|pukhlein,0.346661,False,False,False,kulfi/e0tbttgr1shu2ivw31qw
+khana,kulfi,kulfi,kulfi,milk,milk|idly|coffee,0.836807,False,False,False,kulfi/sqzrqodhf9olpwjolaw7
+khana,kulfi,kulfi,kulfi,milk,milk|coffee|tea,0.748649,False,False,False,kulfi/qb6bgsi6ywxd0wz1ab8w
+khana,kulfi,kulfi,kulfi,solkadi,solkadi|milk|tea,0.41244,False,False,False,kulfi/899c7a28bf5575033a92eb7fcf911a36
+khana,kulfi,kulfi,kulfi,banana,banana|tea|tomato shorba,0.734674,False,False,False,kulfi/rlxz9otsg1mpbi0psemr
+khana,kulfi,kulfi,kulfi,coffee,coffee|tea|milk,0.375193,False,False,False,kulfi/othgwvbznhozdmwjc1tw
+khana,paneer masala,panner butter masala,panner butter masala,huli saaru tamarind rasam,huli saaru tamarind rasam|mushroom kara kuzhmabu|rasam,0.070027,False,False,False,paneer masala/b06a2e50d555c792db8773f48d2bc269
+khana,paneer masala,panner butter masala,panner butter masala,panner butter masala,panner butter masala|butter chicken|tomoto soup,0.179686,True,True,True,paneer masala/ww9ojsgtgofkvzdfq1ii
+khana,paneer masala,panner butter masala,panner butter masala,tomoto soup,tomoto soup|tomato shorba|podi dosa,0.269518,False,False,False,paneer masala/bbd420f2976749ae2ba0f7ead2383300
+khana,paneer masala,panner butter masala,panner butter masala,mutton curry,mutton curry|mutton saaru|gongura mamasam,0.380993,False,False,False,paneer masala/orpojsmytzqj0lybuvpb
+khana,paneer masala,panner butter masala,panner butter masala,tomoto soup,tomoto soup|sukhdi|tomato shorba,0.205313,False,False,False,paneer masala/vf5r8uy0jeo36ksdxdyd
+khana,paneer masala,panner butter masala,panner butter masala,tambda rassa red gravy,tambda rassa red gravy|poondu kolambu|coffee,0.064597,False,False,False,paneer masala/rz594gbofgdqvostg8s0
+khana,paneer masala,panner butter masala,panner butter masala,tomoto soup,tomoto soup|mutton korma|meen kulambu fish curry,0.063816,False,False,False,paneer masala/qdsbhi0lbjmbchwlepim
+khana,paneer masala,panner butter masala,panner butter masala,vengaya kara kuzhambu onion,vengaya kara kuzhambu onion|pulikkal kara kuzhambu tamaraind|rasam,0.111287,False,False,False,paneer masala/yfmqjnto3gdorsmmuciq
+khana,paneer masala,panner butter masala,panner butter masala,misal,misal|sev tamatar sabzi|ramen noodles,0.248733,False,False,False,paneer masala/tstzw97puzxzx7ymslbp
+khana,paneer masala,panner butter masala,panner butter masala,rajma masala,rajma masala|vathaa kolambu|vengaya kara kuzhambu onion,0.119123,False,False,False,paneer masala/jb1xum2na86z6pl40qzg
+khana,paneer masala,panner butter masala,panner butter masala,misal,misal|vegetable pulao|rajma masala,0.108654,False,False,False,paneer masala/ubuvcsc9s7z9yjinrptc
+khana,paneer masala,panner butter masala,panner butter masala,mutton curry,mutton curry|chicken tikka masala|mutton rogan josh,0.109107,False,False,False,paneer masala/pyp3r3x0tnrxhovo2cao
+khana,paneer masala,panner butter masala,panner butter masala,tomoto soup,tomoto soup|panner butter masala|wonton soup,0.171011,False,False,True,paneer masala/fli0ujkjznnm6twxgrxl
+khana,paneer masala,panner butter masala,panner butter masala,panner butter masala,panner butter masala|tomoto soup|sambar,0.170082,True,True,True,paneer masala/pcv0kvq6utuh3gq7qsxu
+khana,paneer masala,panner butter masala,panner butter masala,poondu kolambu,poondu kolambu|minestrone soup|gulab jamoon,0.077891,False,False,False,paneer masala/t4o8uslvsmnwlhuagi9b
+khana,paneer masala,panner butter masala,panner butter masala,vengaya kara kuzhambu onion,vengaya kara kuzhambu onion|tomato chutney|tomoto soup,0.069748,False,False,False,paneer masala/jhn7dwupsim03ti9sbb7
+khana,paneer masala,panner butter masala,panner butter masala,butter chicken,butter chicken|chicken tikka masala|mutton curry,0.173644,False,False,False,paneer masala/jmav7ylr0ace5w5u4bre
+khana,paneer masala,panner butter masala,panner butter masala,mutton pulao,mutton pulao|chicken pulao|egg pulao,0.115007,False,False,False,paneer masala/i7ygforktcqppapyme7p
+khana,paneer masala,panner butter masala,panner butter masala,cake,cake|ice icream|tomato shorba,0.33389,False,False,False,paneer masala/kggtywbssvqns5srlsty
+khana,paneer masala,panner butter masala,panner butter masala,panner butter masala,panner butter masala|sukhdi|butter chicken,0.670135,True,True,True,paneer masala/1fb4ea76fabc79fa8e40ffe6d92d3222
+khana,paneer masala,panner butter masala,panner butter masala,panner butter masala,panner butter masala|tomoto soup|sukhdi,0.157889,True,True,True,paneer masala/yiaiaolu97b9xt91izaa
+khana,paneer masala,panner butter masala,panner butter masala,tambda rassa red gravy,tambda rassa red gravy|misal|rasam,0.116233,False,False,False,paneer masala/csajrkuvlbwhkjdmcbvg
+khana,paneer masala,panner butter masala,panner butter masala,poondu kolambu,poondu kolambu|vengaya kara kuzhambu onion|tomato shorba,0.119691,False,False,False,paneer masala/ualgsh4nwgkai28u1dql
+khana,paneer masala,panner butter masala,panner butter masala,coffee,coffee|udon|tomoto soup,0.504986,False,False,False,paneer masala/xbmfthvgvfhm52zmfm3x
+khana,paneer masala,panner butter masala,panner butter masala,tomato chutney,tomato chutney|chicken lollipop|mutton rogan josh,0.242344,False,False,False,paneer masala/mptmauca41m9derv8yvt
+khana,paneer masala,panner butter masala,panner butter masala,panner butter masala,panner butter masala|tomoto soup|chicken noodle soup,0.341292,True,True,True,paneer masala/1c48919677df4e874b5dc7e84c057be6
+khana,paneer masala,panner butter masala,panner butter masala,rasam,rasam|sev tamatar sabzi|huli saaru tamarind rasam,0.234231,False,False,False,paneer masala/zl8dsiew0wmrgvhgtmhr
+khana,paneer masala,panner butter masala,panner butter masala,panner butter masala,panner butter masala|sukhdi|tomoto soup,0.213852,True,True,True,paneer masala/vlgukptwa73qyjdcgviy
+khana,paneer masala,panner butter masala,panner butter masala,tomato shorba,tomato shorba|sukhdi|panner butter masala,0.13405,False,False,True,paneer masala/rc4yhenwpewqnt3efd3x
+khana,paneer masala,panner butter masala,panner butter masala,tomoto soup,tomoto soup|chepala pulusu fish curry|fish curry,0.259429,False,False,False,paneer masala/ohvbglclnl5ahvvnvmcu

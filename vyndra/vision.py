@@ -23,7 +23,10 @@ def predict_image(image_path: str | Path, top_k: int = 3, model_path: str | Path
     if top_k < 1 or top_k > 10:
         raise ValueError("top_k must be between 1 and 10")
     model = _load_model(str(Path(model_path).expanduser().resolve()))
-    results = model.predict(source=str(image), verbose=False)
+    from PIL import Image
+
+    with Image.open(image) as opened:  # also works for files without an extension
+        results = model.predict(source=opened.convert("RGB"), verbose=False)
     if not results:
         raise RuntimeError(f"The model returned no result for {image}")
     result = results[0]

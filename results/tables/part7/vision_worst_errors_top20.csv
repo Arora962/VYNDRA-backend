@@ -1,0 +1,21 @@
+dataset,dataset_class,expected_model_class,accepted_model_classes,predicted_top1,top3,top1_confidence,top1_correct,top1_primary_correct,top3_correct,relative_path
+khana,biryani,biryani,biryani,sev tamatar sabzi,sev tamatar sabzi|ramen noodles|hyderabadi pulao,0.957796,False,False,False,biryani/rshleblqyql2h9gjdwjo
+indian_food_images,biryani,biryani,biryani,egg pulao,egg pulao|palak panner pulao|ramen noodles,0.942839,False,False,False,biryani/04d39a92fc.jpg
+khana,gulab jamun,gulab jamoon,gulab jamoon,coffee,coffee|tea|gulab jamoon,0.932784,False,False,True,gulab jamun/hbllifhj6i3xoi6bja34
+khana,masala dosa,masala dosa,masala dosa,dosa plain,dosa plain|podi dosa|masala dosa,0.921352,False,False,True,masala dosa/eb9dd4835017fe1011482473dea026b0
+khana,medu vada,medu vada,medu vada,idly,idly|meals|non veg meals,0.908332,False,False,False,medu vada/qj4ara3wqixnyccpct5t
+khana,fish curry,fish curry,fish curry,gulab jamoon,gulab jamoon|vengaya kara kuzhambu onion|vendhaya kara kuzhambu feenugreek,0.907842,False,False,False,fish curry/89074438bec80079ac2ed09dbf11816d
+khana,seekh kebab,mutton  seekh kebab,mutton  seekh kebab,sukhdi,sukhdi|pad thai|ramen noodles,0.875408,False,False,False,seekh kebab/t2xizdymrpggvfd4vfie
+indian_food_images,chapati,chappati,chappati,methi thepla nu shaak,methi thepla nu shaak|egg parotta|garlice naan,0.872962,False,False,False,chapati/38a4a135dd.jpg
+khana,seekh kebab,mutton  seekh kebab,mutton  seekh kebab,vegetables kabab,vegetables kabab|chicken kabab|mutton  seekh kebab,0.871459,False,False,True,seekh kebab/fbi60x4pp1guey5lmtf0
+khana,biryani,biryani,biryani,misal,misal|sev tamatar sabzi|ramen noodles,0.863227,False,False,False,biryani/pesrlcoj1a8gnlorzcpo
+khana,kulfi,kulfi,kulfi,milk,milk|idly|coffee,0.836807,False,False,False,kulfi/sqzrqodhf9olpwjolaw7
+khana,seekh kebab,mutton  seekh kebab,mutton  seekh kebab,vegetables kabab,vegetables kabab|mutton  seekh kebab|kothimbir vadi,0.823102,False,False,True,seekh kebab/0c9ddc7a64251ad9e18fe7c273fa6b34
+indian_food_images,chapati,chappati,chappati,dosa plain,dosa plain|celyon egg parotta|podi dosa,0.806097,False,False,False,chapati/7e9b6b9134.jpg
+khana,kulfi,kulfi,kulfi,milk,milk|banana|cream based soup,0.802477,False,False,False,kulfi/ue8lbjwgremog3nx56f3
+khana,masala dosa,masala dosa,masala dosa,dosa plain,dosa plain|pukhlein|masala dosa,0.793543,False,False,True,masala dosa/avow8bpv9kibmdakimwq
+khana,palak paneer,palak panner,palak panner|saag panner,palak shorba,palak shorba|green tea|mint chutney,0.781531,False,False,False,palak paneer/scxrjovxubglmimndrrh
+khana,kulfi,kulfi,kulfi,banana,banana|kulfi|tea,0.761385,False,False,True,kulfi/gtwdeax8y4q0zvby6b7i
+khana,seekh kebab,mutton  seekh kebab,mutton  seekh kebab,vinaigrette de legumes,vinaigrette de legumes|mutton  seekh kebab|vegetables kabab,0.756976,False,False,True,seekh kebab/f88149e0615693af2457f3443b166051
+khana,medu vada,medu vada,medu vada,gulab jamoon,gulab jamoon|pukhlein|allo tikka,0.756802,False,False,False,medu vada/unpwdlvo37x37ttos00k
+khana,garlic naan,garlice naan,garlice naan|cheesy garlic naan,naan,naan|cheesy garlic naan|butter naan,0.751364,False,False,True,garlic naan/uxgfb40ikaepmhf8ijjo

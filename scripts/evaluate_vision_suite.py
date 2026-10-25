@@ -59,7 +59,7 @@ def main():
    class_dir=b_root/str(item.dataset_class)
    if not class_dir.is_dir(): class_dir=b_root/str(item.dataset_class).replace(' ','_')
    if not class_dir.is_dir(): continue
-   images=sorted(x for x in class_dir.rglob('*') if x.is_file() and x.suffix.lower() in {'.jpg','.jpeg','.png','.webp','.bmp'} and not x.name.startswith('._') and not any(q.name.startswith('._') for q in x.parents))[:args.baseline_images_per_class]
+   images=sorted(x for x in class_dir.rglob('*') if x.is_file() and (x.suffix.lower() in {'.jpg','.jpeg','.png','.webp','.bmp'} or x.suffix=='') and not x.name.startswith('._') and not any(q.name.startswith('._') for q in x.parents))[:args.baseline_images_per_class]
    for image in images: base_rows.append({'dataset_class':str(item.dataset_class),'model_class':str(item.best_pt_class),'dataset':'indian_food_images','resolved_path':image,'relative_path':image.relative_to(b_root).as_posix()})
   base=pd.DataFrame(base_rows)
  else:

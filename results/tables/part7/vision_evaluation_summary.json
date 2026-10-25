@@ -1,0 +1,62 @@
+{
+  "manifest_rows": 690,
+  "successfully_predicted_rows": 690,
+  "classical_baseline_classes": 15,
+  "classical_baseline_images": 1500,
+  "classical_baseline_target_classes": 15,
+  "classical_baseline_target_images_per_class": 100,
+  "top1_accuracy_accepted_classes": 0.30434782608695654,
+  "top1_accuracy_primary_class": 0.2826086956521739,
+  "top3_accuracy_accepted_classes": 0.5014492753623189,
+  "mean_confidence_when_correct": 0.5674010333333332,
+  "mean_confidence_when_wrong": 0.33086155416666674,
+  "macro_precision_supported_classes": 0.7196297249260034,
+  "macro_recall_supported_classes": 0.2719298245614035,
+  "macro_f1_supported_classes": 0.36004517464833635,
+  "class_support": {
+    "allo gobi": 60,
+    "chappati": 60,
+    "gulab jamoon": 60,
+    "biryani": 60,
+    "idly": 30,
+    "kulfi": 30,
+    "uthappam": 30,
+    "mutton  seekh kebab": 30,
+    "palak panner": 30,
+    "medu vada": 30,
+    "masala dosa": 30,
+    "fish curry": 30,
+    "garlice naan": 30,
+    "chole chickpea curry": 30,
+    "naan": 30,
+    "dal makhani": 30,
+    "chicken tikka masala": 30,
+    "butter chicken": 30,
+    "panner butter masala": 30
+  },
+  "baseline": [
+    {
+      "method": "HSV_GaussianNB",
+      "top1_accuracy": 0.14933333333333335,
+      "macro_precision_supported": 0.19262703044371193,
+      "macro_recall_supported": 0.14933333333333335,
+      "macro_f1_supported": 0.13921574207748635
+    },
+    {
+      "method": "HSV_DecisionTree",
+      "top1_accuracy": 0.2613333333333333,
+      "macro_precision_supported": 0.2694147804550026,
+      "macro_recall_supported": 0.26133333333333336,
+      "macro_f1_supported": 0.2622292867832828
+    },
+    {
+      "method": "HSV_kNN",
+      "top1_accuracy": 0.2,
+      "macro_precision_supported": 0.23061491956228802,
+      "macro_recall_supported": 0.20000000000000004,
+      "macro_f1_supported": 0.19633274156851116
+    }
+  ],
+  "low_confidence_threshold": 0.59,
+  "threshold_note": "Provisional threshold selected from the existing 270-image evaluation; recalibrate on the expanded held-out set before product use."
+}
