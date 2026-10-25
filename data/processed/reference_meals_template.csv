@@ -1,0 +1,2 @@
+meal_id,food_name,reference_grams,reference_calories,notes
+example_replace_me,food_name,150,250,Replace this example row with a real weighed meal before running evaluate_portions.py

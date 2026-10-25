@@ -147,3 +147,25 @@ PYTHONPATH=. python scripts/evaluate_social_recommendations.py
 ## 13. Team and contribution
 
 TODO: names, roles, and a short statement of what was built by the team versus reused (YOLO11, scikit-learn, NetworkX, VADER, public datasets).
+## Part 1 update: backend photo-to-chat pipeline
+
+The Part 1 implementation adds an application factory (`create_app`), a single chat blueprint, users/messages/reactions tables, a saved food-intent model, the photo endpoints (`POST /api/meals/analyze` and legacy `POST /upload`), Anuvaad-derived portion estimates, and per-user nutrition insights. Run `python scripts/train_food_intent.py` to rebuild `models/food_intent.joblib` from the bundled intent examples. The API loads that saved model once per process; if it is absent, a one-time in-process fallback is used with a warning.
+
+| Part 1 deliverable | Status in this ZIP | Important qualification |
+|---|---|---|
+| Photo upload, Pillow validation, 8 MB file limit, temporary cleanup | Implemented | Real-model inference still requires the local model dependencies to be installed. |
+| Top-3 predictions, approved matching, safe unknown-food response | Implemented | Mapping rows are not edited; unknown mappings never receive guessed nutrients. |
+| Portion estimates and servings multipliers | Implemented | Estimates derive from serving energy and can be poor for unusual serving records; missing values use a flagged 100 g default. |
+| Users, messages, meal attachments, nudge, insights | Implemented | Demo only: no authentication or account isolation. |
+| App factory, single chat blueprint, basic docs and tests | Implemented | Run the tests in the project's Python environment after installing `requirements.txt`. |
+| Acceptance-check framework | Part 1 checks implemented | Later parts will add the dataset-scale and evaluation acceptance checks. |
+
+### Part 1 commands
+
+```bash
+python scripts/train_food_intent.py
+python -m pytest -q
+python scripts/acceptance_check.py --part 1
+```
+
+The vision confidence threshold is currently 0.59, selected by maximizing F1 for correct-versus-incorrect top-1 predictions in the existing 270-image result file. It is provisional because the class mapping and external evaluation set are limited; Part 4/7 should recalibrate it using the expanded evaluation.

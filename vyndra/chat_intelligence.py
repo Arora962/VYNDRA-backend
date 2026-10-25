@@ -25,7 +25,10 @@ from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import classification_report, accuracy_score, f1_score
 from sklearn.model_selection import train_test_split
 from sklearn.pipeline import Pipeline
-from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
+try:
+    from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
+except ImportError:  # Keep the API importable before dependencies are installed.
+    SentimentIntensityAnalyzer = None
 
 PROJECT_ROOT = Path(__file__).resolve().parents[1]
 PART4_DATA = PROJECT_ROOT / "data" / "processed" / "chat_intelligence"
@@ -173,7 +176,17 @@ def predict_food_intent(text: str, model=None) -> dict:
 
 def analyze_sentiment(text: str) -> dict:
     """Return VADER compound score and a coarse positive/neutral/negative label."""
-    score = SentimentIntensityAnalyzer().polarity_scores(str(text))
+    if SentimentIntensityAnalyzer is not None:
+        score = SentimentIntensityAnalyzer().polarity_scores(str(text))
+    else:
+        # Minimal development fallback only; install requirements.txt to use VADER.
+        lowered = str(text).lower()
+        positive = sum(lowered.count(word) for word in ("good", "great", "love", "delicious", "happy", "wonderful", "tasty"))
+        negative = sum(lowered.count(word) for word in ("bad", "hate", "awful", "sad", "disgusting", "terrible"))
+        raw = positive - negative
+        compound = max(-1.0, min(1.0, raw / max(1, positive + negative)))
+        score = {"neg": float(negative > positive), "neu": float(positive == negative),
+                 "pos": float(positive > negative), "compound": compound}
     compound = float(score["compound"])
     label = "positive" if compound >= 0.05 else "negative" if compound <= -0.05 else "neutral"
     return {"label": label, "compound": compound, "scores": score}
