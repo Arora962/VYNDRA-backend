@@ -1,0 +1,21 @@
+user_id,food_interests
+u001,dosa|idli|sambar|chai
+u002,dosa|idli|pizza
+u003,pizza|burger|fries
+u004,dosa|paneer tikka|naan
+u005,pizza|pasta|burger
+u006,idli|sambar|dosa
+u007,chai|samosa|vada pav
+u008,pizza|burger|pasta
+u009,chai|samosa|poha
+u010,dosa|idli|paneer tikka
+u011,biryani|raita|naan
+u012,biryani|chicken tikka|naan
+u013,biryani|raita|paneer tikka
+u014,chicken tikka|naan|rice
+u015,poha|chai|upma
+u016,poha|upma|idli
+u017,pasta|pizza|salad
+u018,salad|oats|fruit
+u019,oats|fruit|yogurt
+u020,salad|fruit|yogurt
