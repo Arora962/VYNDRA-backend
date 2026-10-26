@@ -30,4 +30,4 @@ vaderSentiment==3.3.2
 joblib==1.4.2
 
 pytest==9.0.3
-gunicorn==21.2.0
+gunicorn
