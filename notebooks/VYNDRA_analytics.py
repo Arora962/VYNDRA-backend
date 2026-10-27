@@ -162,6 +162,58 @@ if vision_path.exists():
 else: print("Vision results not found; prepare the manifest and run scripts/evaluate_vision_suite.py.")
 
 # %% [markdown]
+
+# %% [markdown]
+# ## 7. Realistic check: food-intent model on the hand-written review set
+# Section 3 scores classifiers on synthetic template messages, where near-perfect results are expected.
+# This section scores the saved model (`models/food_intent.joblib`) on 150 separately written messages.
+# Labels in that file still need a human review pass before they count as gold-standard.
+
+# %%
+review_path = RESULTS / "part4/review_set_intent_metrics.json"
+confusion_path = RESULTS / "part4/review_set_intent_confusion.csv"
+if review_path.exists() and confusion_path.exists():
+    review = json.loads(review_path.read_text(encoding="utf-8"))
+    print(f"Review-set messages: {review['rows']} | accuracy {review['accuracy']:.3f} | macro-F1 {review['macro_f1']:.3f}")
+    print(pd.DataFrame(review["per_class"]).T[["precision", "recall", "f1-score", "support"]].round(3).to_string())
+    cm = pd.read_csv(confusion_path, index_col=0)
+    fig, ax = plt.subplots(figsize=(6, 5))
+    image = ax.imshow(cm.values, cmap="Blues")
+    ax.set_xticks(range(len(cm.columns)), cm.columns, rotation=30, ha="right")
+    ax.set_yticks(range(len(cm.index)), cm.index)
+    for i in range(cm.shape[0]):
+        for j in range(cm.shape[1]):
+            ax.text(j, i, int(cm.iat[i, j]), ha="center", va="center",
+                    color="white" if cm.iat[i, j] > cm.values.max() / 2 else "black")
+    ax.set_title("Food-intent model on hand-written review set")
+    ax.set_xlabel("Predicted label")
+    ax.set_ylabel("True label")
+    fig.colorbar(image, ax=ax, label="Message count")
+    fig.tight_layout(); plt.show()
+    print("Observation: accuracy on realistic messages is much lower than on synthetic templates.")
+    print("Inference: template-generated training data does not cover real slang and phrasing; "
+          "synthetic scores should not be quoted as expected real-world performance.")
+else:
+    print("Review-set results not found; run: PYTHONPATH=. python scripts/evaluate_review_set.py")
+
+# %% [markdown]
+# ## 8. Vision evaluation: by dataset, against baselines, and the saved confusion matrices
+
+# %%
+for name in ["part7/vision_metrics_by_dataset.csv", "part7/vision_model_comparison.csv"]:
+    path = RESULTS / name
+    print(f"\n{name}")
+    print(pd.read_csv(path).round(3).to_string(index=False) if path.exists() else "  missing: run scripts/evaluate_vision_suite.py")
+from matplotlib.image import imread
+for name, title in [("part7/vision_confusion_supported.png", "YOLO confusion matrix, supported classes"),
+                    ("part7/vision_baseline_confusion.png", "HSV k-NN baseline confusion matrix")]:
+    path = FIGURES / name
+    if path.exists():
+        fig, ax = plt.subplots(figsize=(9, 7)); ax.imshow(imread(path)); ax.set_title(title); ax.axis("off"); plt.show()
+print("Observation: the YOLO model beats colour-histogram baselines but remains weak on external images.")
+print("Inference: the large gap to the training validation score points to domain shift between "
+      "the training photos and the external datasets (the training-data provenance is not documented).")
+
 # ## Limitations
 # - Synthetic chat and social data are useful for reproducible method demonstrations, not evidence of real-user behaviour.
 # - Food diet/mood/allergen tags are rule-generated from templates and need independent review.
